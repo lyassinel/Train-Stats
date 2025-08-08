@@ -93,7 +93,7 @@ export const Import: CollectionConfig = {
                     /\*(\d{2}).(\d{2})\*{5,} \*+(.+)\*{8}(\d{2}).(\d{2})/
                   const regexDetailsPrestation =
                     /(?:(?:(\w{2}) (\d{3,6}) )?(VoetPied|HLP|AfRelDP|AfRel|Res|UitGar|PerQuai|Taxi|Plat|VkPc|BkPr|CarWash|IdRem|KopCpDP|KopCp|Bus|RAMAN|RaManMO|TRANSFER) ([A-Z]{2,6}) *-*([A-Z]{2,6})*)?(?:(?:(ER|RE|EM|ME|ZR|RZ) )?(\d{3,6}) (N|R)(\d{0,}) (\w)? ?(?:\d )?(\w{2,5}) *-(\w{2,5}))?(?:\d{3,5} (R|N)(\d{1,5}) (\w))? (\d{2}).(\d{2})-(\d{2}).(\d{2})/
-                  const regexSerieSemaine = /CTB +(\w{1,3}) +(\d{1,2})?(?: +)?R(\d) +(\w{1,2})/g
+                  const regexSerieSemaine = /CTB +(\w{1,3}) +(\d{1,2})?(?: +)?R(\d) +(\w{1,2})/
                   const serieSemaine = data.match(regexSerieSemaine)
 
                   const match = prestation.match(regexTitre)
@@ -144,6 +144,8 @@ export const Import: CollectionConfig = {
                   }
                   console.log('CTB', serieSemaine)
                   if (serieSemaine) {
+                    for (const ligne of serieSemaine) {
+                    }
                     console.log(`Roule en série : ${serieSemaine[1]}`)
                     console.log(`Semaine : ${serieSemaine[2]}`)
                     console.log(`Jour : ${serieSemaine[3]}`)
