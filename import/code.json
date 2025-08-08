@@ -1,0 +1,8372 @@
+[
+    {
+        "gareNL": "'s Hertogenbosch",
+        "gareFR": "'s Hertogenbosch",
+        "code": "HT"
+    },
+    {
+        "gareNL": "'s-Gravenbrakel",
+        "gareFR": "Braine-le-Comte",
+        "code": "FBC"
+    },
+    {
+        "gareNL": "Aachen Hbf",
+        "gareFR": "Aachen Hbf",
+        "code": "KA"
+    },
+    {
+        "gareNL": "Aachen-Rothe-Erde",
+        "gareFR": "Aachen-Rothe-Erde",
+        "code": "KARE"
+    },
+    {
+        "gareNL": "Aachen-Süd",
+        "gareFR": "Aachen-Süd",
+        "code": "KAS"
+    },
+    {
+        "gareNL": "Aachen-West",
+        "gareFR": "Aachen-West",
+        "code": "KAW"
+    },
+    {
+        "gareNL": "Aalst",
+        "gareFR": "Alost",
+        "code": "FLS"
+    },
+    {
+        "gareNL": "Aalst-Kerrebroek",
+        "gareFR": "Aalst-Kerrebroek",
+        "code": "FLSKB"
+    },
+    {
+        "gareNL": "Aalter",
+        "gareFR": "Aalter",
+        "code": "FLT"
+    },
+    {
+        "gareNL": "Aarau",
+        "gareFR": "Aarau",
+        "code": "AA"
+    },
+    {
+        "gareNL": "Aarlen",
+        "gareFR": "Arlon",
+        "code": "LL"
+    },
+    {
+        "gareNL": "Aarschot",
+        "gareFR": "Aarschot",
+        "code": "FRST"
+    },
+    {
+        "gareNL": "Aarsele",
+        "gareFR": "Aarsele",
+        "code": "FAR"
+    },
+    {
+        "gareNL": "Aat",
+        "gareFR": "Ath",
+        "code": "ATH"
+    },
+    {
+        "gareNL": "Acren",
+        "gareFR": "Acren",
+        "code": "FXA"
+    },
+    {
+        "gareNL": "Agde",
+        "gareFR": "Agde",
+        "code": "AGD"
+    },
+    {
+        "gareNL": "Aigremont-Block 8.7",
+        "gareFR": "Aigremont-Block 8.7",
+        "code": "BL8.7"
+    },
+    {
+        "gareNL": "Aime-la-Plagne",
+        "gareFR": "Aime-la-Plagne",
+        "code": "AGN"
+    },
+    {
+        "gareNL": "Aiseau",
+        "gareFR": "Aiseau",
+        "code": "FAO"
+    },
+    {
+        "gareNL": "Aisemont",
+        "gareFR": "Aisemont",
+        "code": "MAI"
+    },
+    {
+        "gareNL": "Aix-en-Provence TGV",
+        "gareFR": "Aix-en-Provence TGV",
+        "code": "AXV"
+    },
+    {
+        "gareNL": "Albertville",
+        "gareFR": "Albertville",
+        "code": "ALV"
+    },
+    {
+        "gareNL": "Alken",
+        "gareFR": "Alken",
+        "code": "FAK"
+    },
+    {
+        "gareNL": "Amay",
+        "gareFR": "Amay",
+        "code": "NM"
+    },
+    {
+        "gareNL": "Amay-Garage",
+        "gareFR": "Amay-Garage",
+        "code": "NMG"
+    },
+    {
+        "gareNL": "Amberieu",
+        "gareFR": "Amberieu",
+        "code": "AMB"
+    },
+    {
+        "gareNL": "Ampsin",
+        "gareFR": "Ampsin",
+        "code": "NA"
+    },
+    {
+        "gareNL": "Amsterdam Centraal",
+        "gareFR": "Amsterdam Centraal",
+        "code": "ASD"
+    },
+    {
+        "gareNL": "Amsterdam Lelylaan",
+        "gareFR": "Amsterdam Lelylaan",
+        "code": "ASDL"
+    },
+    {
+        "gareNL": "Amsterdam Sloterdijk",
+        "gareFR": "Amsterdam Sloterdijk",
+        "code": "ASS"
+    },
+    {
+        "gareNL": "Amsterdam-T.W.",
+        "gareFR": "Amsterdam-T.W.",
+        "code": "ASDW"
+    },
+    {
+        "gareNL": "Ancona",
+        "gareFR": "Ancona",
+        "code": "ANCON"
+    },
+    {
+        "gareNL": "Andenne",
+        "gareFR": "Andenne",
+        "code": "NDN"
+    },
+    {
+        "gareNL": "Andenne-Marchandises",
+        "gareFR": "Andenne-Marchandises",
+        "code": "NDNM"
+    },
+    {
+        "gareNL": "Anderlecht",
+        "gareFR": "Anderlecht",
+        "code": "ANDL"
+    },
+    {
+        "gareNL": "Andernach",
+        "gareFR": "Andernach",
+        "code": "KAND"
+    },
+    {
+        "gareNL": "Angers-Saint-Laud",
+        "gareFR": "Angers-Saint-Laud",
+        "code": "ASL"
+    },
+    {
+        "gareNL": "Angleur",
+        "gareFR": "Angleur",
+        "code": "MGR"
+    },
+    {
+        "gareNL": "Angoulème",
+        "gareFR": "Angoulème",
+        "code": "A"
+    },
+    {
+        "gareNL": "Annappes",
+        "gareFR": "Annappes",
+        "code": "ANP"
+    },
+    {
+        "gareNL": "Ans",
+        "gareFR": "Ans",
+        "code": "ANS"
+    },
+    {
+        "gareNL": "Anseremme",
+        "gareFR": "Anseremme",
+        "code": "MNS"
+    },
+    {
+        "gareNL": "Antibes",
+        "gareFR": "Antibes",
+        "code": "ATB"
+    },
+    {
+        "gareNL": "Antoing",
+        "gareFR": "Antoing",
+        "code": "FNT"
+    },
+    {
+        "gareNL": "Antoing-Quai de Service",
+        "gareFR": "Antoing-Quai de Service",
+        "code": "FNTQS"
+    },
+    {
+        "gareNL": "Antwerpen-Berchem",
+        "gareFR": "Anvers-Berchem",
+        "code": "FCV"
+    },
+    {
+        "gareNL": "Antwerpen-Centraal",
+        "gareFR": "Anvers-Central",
+        "code": "FN"
+    },
+    {
+        "gareNL": "Antwerpen-D.S.-Alaska",
+        "gareFR": "Antwerpen-D.S.-Alaska",
+        "code": "ALSKA"
+    },
+    {
+        "gareNL": "Antwerpen-D.S.-Amerika-Zuid",
+        "gareFR": "Antwerpen-D.S.-Amerika-Zuid",
+        "code": "AMZD"
+    },
+    {
+        "gareNL": "Antwerpen-D.S.-Angola",
+        "gareFR": "Antwerpen-D.S.-Angola",
+        "code": "ANGOL"
+    },
+    {
+        "gareNL": "Antwerpen-D.S.-BASF",
+        "gareFR": "Antwerpen-D.S.-BASF",
+        "code": "BASF"
+    },
+    {
+        "gareNL": "Antwerpen-D.S.-Belgische Basis",
+        "gareFR": "Antwerpen-D.S.-Belgische Basis",
+        "code": "BELBA"
+    },
+    {
+        "gareNL": "Antwerpen-D.S.-Berendrecht",
+        "gareFR": "Antwerpen-D.S.-Berendrecht",
+        "code": "BERDR"
+    },
+    {
+        "gareNL": "Antwerpen-D.S.-Combinant",
+        "gareFR": "Antwerpen-D.S.-Combinant",
+        "code": "COMBI"
+    },
+    {
+        "gareNL": "Antwerpen-D.S.-Far-West",
+        "gareFR": "Antwerpen-D.S.-Far-West",
+        "code": "FARWE"
+    },
+    {
+        "gareNL": "Antwerpen-D.S.-Groenland",
+        "gareFR": "Antwerpen-D.S.-Groenland",
+        "code": "GRLND"
+    },
+    {
+        "gareNL": "Antwerpen-D.S.-Ijsland",
+        "gareFR": "Antwerpen-D.S.-Ijsland",
+        "code": "IJSLD"
+    },
+    {
+        "gareNL": "Antwerpen-D.S.-Inrit Zandvliet",
+        "gareFR": "Antwerpen-D.S.-Inrit Zandvliet",
+        "code": "IZAVL"
+    },
+    {
+        "gareNL": "Antwerpen-D.S.-Kanaaldok B2",
+        "gareFR": "Antwerpen-D.S.-Kanaaldok B2",
+        "code": "KDKB2"
+    },
+    {
+        "gareNL": "Antwerpen-D.S.-Kongo",
+        "gareFR": "Antwerpen-D.S.-Kongo",
+        "code": "KONGO"
+    },
+    {
+        "gareNL": "Antwerpen-D.S.-Lillo",
+        "gareFR": "Antwerpen-D.S.-Lillo",
+        "code": "LILLO"
+    },
+    {
+        "gareNL": "Antwerpen-D.S.-Oorderen",
+        "gareFR": "Antwerpen-D.S.-Oorderen",
+        "code": "OORDE"
+    },
+    {
+        "gareNL": "Antwerpen-D.S.-Oudendijk",
+        "gareFR": "Antwerpen-D.S.-Oudendijk",
+        "code": "OUDYK"
+    },
+    {
+        "gareNL": "Antwerpen-D.S.-Petrol",
+        "gareFR": "Antwerpen-D.S.-Petrol",
+        "code": "PETRO"
+    },
+    {
+        "gareNL": "Antwerpen-D.S.-Rhodesië",
+        "gareFR": "Antwerpen-D.S.-Rhodesië",
+        "code": "RHODE"
+    },
+    {
+        "gareNL": "Antwerpen-D.S.-Stabroek",
+        "gareFR": "Antwerpen-D.S.-Stabroek",
+        "code": "STABR"
+    },
+    {
+        "gareNL": "Antwerpen-D.S.-West-Siberië",
+        "gareFR": "Antwerpen-D.S.-West-Siberië",
+        "code": "WSIB"
+    },
+    {
+        "gareNL": "Antwerpen-D.S.-Wilmarsdonk",
+        "gareFR": "Antwerpen-D.S.-Wilmarsdonk",
+        "code": "WILMA"
+    },
+    {
+        "gareNL": "Antwerpen-D.S.-Zandvliet",
+        "gareFR": "Antwerpen-D.S.-Zandvliet",
+        "code": "ZANDV"
+    },
+    {
+        "gareNL": "Antwerpen-Dam",
+        "gareFR": "Anvers-Dam",
+        "code": "FNDM"
+    },
+    {
+        "gareNL": "Antwerpen-DS-Noordzeeterminal",
+        "gareFR": "Antwerpen-DS-Noordzeeterminal",
+        "code": "NZT"
+    },
+    {
+        "gareNL": "Antwerpen-Haven",
+        "gareFR": "Anvers-Haven",
+        "code": "FNH"
+    },
+    {
+        "gareNL": "Antwerpen-Kiel",
+        "gareFR": "Anvers-Kiel",
+        "code": "FNKL"
+    },
+    {
+        "gareNL": "Antwerpen-Luchtbal",
+        "gareFR": "Anvers-Luchtbal",
+        "code": "LUBAL"
+    },
+    {
+        "gareNL": "Antwerpen-Noord-Bl.9-Rooster J",
+        "gareFR": "Antwerpen-Noord-Bl.9-Rooster J",
+        "code": "RBL9J"
+    },
+    {
+        "gareNL": "Antwerpen-Noord-Blok 10",
+        "gareFR": "Antwerpen-Noord-Blok 10",
+        "code": "FND10"
+    },
+    {
+        "gareNL": "Antwerpen-Noord-Blok G9-H9",
+        "gareFR": "Antwerpen-Noord-Blok G9-H9",
+        "code": "FNDG9"
+    },
+    {
+        "gareNL": "Antwerpen-Noord-Blok L9",
+        "gareFR": "Antwerpen-Noord-Blok L9",
+        "code": "FNDL9"
+    },
+    {
+        "gareNL": "Antwerpen-Noord-Blok M9-N9",
+        "gareFR": "Antwerpen-Noord-Blok M9-N9",
+        "code": "FNDM9"
+    },
+    {
+        "gareNL": "Antwerpen-Noord-Bundel A1",
+        "gareFR": "Antwerpen-Noord-Bundel A1",
+        "code": "FNDA1"
+    },
+    {
+        "gareNL": "Antwerpen-Noord-Bundel A2",
+        "gareFR": "Antwerpen-Noord-Bundel A2",
+        "code": "FNDA2"
+    },
+    {
+        "gareNL": "Antwerpen-Noord-Bundel B1",
+        "gareFR": "Antwerpen-Noord-Bundel B1",
+        "code": "FNDB1"
+    },
+    {
+        "gareNL": "Antwerpen-Noord-Bundel B2",
+        "gareFR": "Antwerpen-Noord-Bundel B2",
+        "code": "FNDB2"
+    },
+    {
+        "gareNL": "Antwerpen-Noord-Bundel B3",
+        "gareFR": "Antwerpen-Noord-Bundel B3",
+        "code": "FNDB3"
+    },
+    {
+        "gareNL": "Antwerpen-Noord-Bundel C1",
+        "gareFR": "Antwerpen-Noord-Bundel C1",
+        "code": "FNDC1"
+    },
+    {
+        "gareNL": "Antwerpen-Noord-Bundel C2",
+        "gareFR": "Antwerpen-Noord-Bundel C2",
+        "code": "FNDC2"
+    },
+    {
+        "gareNL": "Antwerpen-Noord-Bundel D",
+        "gareFR": "Antwerpen-Noord-Bundel D",
+        "code": "FNDD"
+    },
+    {
+        "gareNL": "Antwerpen-Noord-Bundel N",
+        "gareFR": "Antwerpen-Noord-Bundel N",
+        "code": "FNDN"
+    },
+    {
+        "gareNL": "Antwerpen-Noord-Inrit C1",
+        "gareFR": "Antwerpen-Noord-Inrit C1",
+        "code": "FNIC1"
+    },
+    {
+        "gareNL": "Antwerpen-Noord-Perron CHW",
+        "gareFR": "Antwerpen-Noord-Perron CHW",
+        "code": "FNCHW"
+    },
+    {
+        "gareNL": "Antwerpen-Noord-Perron MainHub",
+        "gareFR": "Antwerpen-Noord-Perron MainHub",
+        "code": "FNDMH"
+    },
+    {
+        "gareNL": "Antwerpen-Noord-Perron T.C.T.",
+        "gareFR": "Antwerpen-Noord-Perron T.C.T.",
+        "code": "FNDPT"
+    },
+    {
+        "gareNL": "Antwerpen-Noord-T.W.",
+        "gareFR": "Antwerpen-Noord-T.W.",
+        "code": "FNDW"
+    },
+    {
+        "gareNL": "Antwerpen-Noord-Toegang A1",
+        "gareFR": "Antwerpen-Noord-Toegang A1",
+        "code": "FNTA1"
+    },
+    {
+        "gareNL": "Antwerpen-Noord-Toegang A2",
+        "gareFR": "Antwerpen-Noord-Toegang A2",
+        "code": "FNTA2"
+    },
+    {
+        "gareNL": "Antwerpen-Noord-Uitrit B3",
+        "gareFR": "Antwerpen-Noord-Uitrit B3",
+        "code": "FNDU3"
+    },
+    {
+        "gareNL": "Antwerpen-Noord-Uitrit C1",
+        "gareFR": "Antwerpen-Noord-Uitrit C1",
+        "code": "FNDU1"
+    },
+    {
+        "gareNL": "Antwerpen-Noorderdokken",
+        "gareFR": "Anvers-Noorderdokken",
+        "code": "AND"
+    },
+    {
+        "gareNL": "Antwerpen-Oost",
+        "gareFR": "Anvers-Est",
+        "code": "GNS"
+    },
+    {
+        "gareNL": "Antwerpen-Schijnpoort-Bundel Q",
+        "gareFR": "Anvers-Schijnpoort-Faisceau Q",
+        "code": "FNZGQ"
+    },
+    {
+        "gareNL": "Antwerpen-Schijnpoort-Carwash",
+        "gareFR": "Antwerpen-Schijnpoort-Carwash",
+        "code": "FNZCH"
+    },
+    {
+        "gareNL": "Antwerpen-W.H.-A.E.T.",
+        "gareFR": "Antwerpen-W.H.-A.E.T.",
+        "code": "AET"
+    },
+    {
+        "gareNL": "Antwerpen-W.H.-B.Canada",
+        "gareFR": "Antwerpen-W.H.-B.Canada",
+        "code": "CND"
+    },
+    {
+        "gareNL": "Antwerpen-W.H.-B.Kalishoek",
+        "gareFR": "Antwerpen-W.H.-B.Kalishoek",
+        "code": "KALIS"
+    },
+    {
+        "gareNL": "Antwerpen-W.H.-B.Kallo",
+        "gareFR": "Antwerpen-W.H.-B.Kallo",
+        "code": "LKL"
+    },
+    {
+        "gareNL": "Antwerpen-W.H.-B.Krommenhoek",
+        "gareFR": "Antwerpen-W.H.-B.Krommenhoek",
+        "code": "KROMM"
+    },
+    {
+        "gareNL": "Antwerpen-W.H.-B.Liefkenshoek",
+        "gareFR": "Antwerpen-W.H.-B.Liefkenshoek",
+        "code": "LIEFK"
+    },
+    {
+        "gareNL": "Antwerpen-W.H.-B.Zuid",
+        "gareFR": "Antwerpen-W.H.-B.Zuid",
+        "code": "FNWHZ"
+    },
+    {
+        "gareNL": "Antwerpen-Zuid",
+        "gareFR": "Anvers-Sud",
+        "code": "FNZD"
+    },
+    {
+        "gareNL": "Anzegem",
+        "gareFR": "Anzegem",
+        "code": "FAN"
+    },
+    {
+        "gareNL": "Appelterre",
+        "gareFR": "Appelterre",
+        "code": "MAP"
+    },
+    {
+        "gareNL": "Arras",
+        "gareFR": "Arras",
+        "code": "ARR"
+    },
+    {
+        "gareNL": "Aschaffenburg Hafen",
+        "gareFR": "Aschaffenburg Hafen",
+        "code": "NAHA"
+    },
+    {
+        "gareNL": "Aschaffenburg Hbf",
+        "gareFR": "Aschaffenburg Hbf",
+        "code": "NAH"
+    },
+    {
+        "gareNL": "Ascq",
+        "gareFR": "Ascq",
+        "code": "ASC"
+    },
+    {
+        "gareNL": "Ashford International",
+        "gareFR": "Ashford International",
+        "code": "AFK"
+    },
+    {
+        "gareNL": "Asse",
+        "gareFR": "Asse",
+        "code": "LAS"
+    },
+    {
+        "gareNL": "Assesse",
+        "gareFR": "Assesse",
+        "code": "MAS"
+    },
+    {
+        "gareNL": "Athus",
+        "gareFR": "Athus",
+        "code": "MH"
+    },
+    {
+        "gareNL": "Athus-Frontière",
+        "gareFR": "Athus-Frontière",
+        "code": "MHFR"
+    },
+    {
+        "gareNL": "Aubange",
+        "gareFR": "Aubange",
+        "code": "AUBG"
+    },
+    {
+        "gareNL": "Aubange-Frontière-CFL",
+        "gareFR": "Aubange-Frontière-CFL",
+        "code": "AUFRL"
+    },
+    {
+        "gareNL": "Aubange-Frontière-SNCF",
+        "gareFR": "Aubange-Frontière-SNCF",
+        "code": "AUFRF"
+    },
+    {
+        "gareNL": "Aubange-Gril E",
+        "gareFR": "Aubange-Gril E",
+        "code": "AUBGE"
+    },
+    {
+        "gareNL": "Aubange-Zoning",
+        "gareFR": "Aubange-Zoning",
+        "code": "AUBGZ"
+    },
+    {
+        "gareNL": "Augsburg",
+        "gareFR": "Augsburg",
+        "code": "MA"
+    },
+    {
+        "gareNL": "Aulnoye-Aymeries",
+        "gareFR": "Aulnoye-Aymeries",
+        "code": "AYE"
+    },
+    {
+        "gareNL": "Auvelais",
+        "gareFR": "Auvelais",
+        "code": "FVL"
+    },
+    {
+        "gareNL": "Avignon TGV",
+        "gareFR": "Avignon TGV",
+        "code": "AVV"
+    },
+    {
+        "gareNL": "Avignon-Foncouverte",
+        "gareFR": "Avignon-Foncouverte",
+        "code": "AFT"
+    },
+    {
+        "gareNL": "Aye",
+        "gareFR": "Aye",
+        "code": "AYE"
+    },
+    {
+        "gareNL": "Aywaille",
+        "gareFR": "Aywaille",
+        "code": "MWL"
+    },
+    {
+        "gareNL": "Aéroport CDG 2 TGV",
+        "gareFR": "Aéroport CDG 2 TGV",
+        "code": "RYT"
+    },
+    {
+        "gareNL": "Baasrode-Zuid",
+        "gareFR": "Baasrode-Sud",
+        "code": "FRA"
+    },
+    {
+        "gareNL": "Bad Bentheim",
+        "gareFR": "Bad Bentheim",
+        "code": "HBTH"
+    },
+    {
+        "gareNL": "Bad Ragaz",
+        "gareFR": "Bad Ragaz",
+        "code": "BRAG"
+    },
+    {
+        "gareNL": "Baden",
+        "gareFR": "Baden",
+        "code": "BADEN"
+    },
+    {
+        "gareNL": "Baisieux",
+        "gareFR": "Baisieux",
+        "code": "BAI"
+    },
+    {
+        "gareNL": "Balegem-Dorp",
+        "gareFR": "Balegem-Village",
+        "code": "FGED"
+    },
+    {
+        "gareNL": "Balegem-Zuid",
+        "gareFR": "Balegem-Sud",
+        "code": "FGE"
+    },
+    {
+        "gareNL": "Balen",
+        "gareFR": "Balen",
+        "code": "LNE"
+    },
+    {
+        "gareNL": "Balen-Werkplaatsen",
+        "gareFR": "Balen-Usines",
+        "code": "GBW"
+    },
+    {
+        "gareNL": "Bambrugge",
+        "gareFR": "Bambrugge",
+        "code": "BAMBR"
+    },
+    {
+        "gareNL": "Bantzenheim",
+        "gareFR": "Bantzenheim",
+        "code": "BTZ"
+    },
+    {
+        "gareNL": "Barcelona-Morrot",
+        "gareFR": "Barcelona-Morrot",
+        "code": "BARCM"
+    },
+    {
+        "gareNL": "Barendrecht",
+        "gareFR": "Barendrecht",
+        "code": "BDR"
+    },
+    {
+        "gareNL": "Barking Railhead",
+        "gareFR": "Barking Railhead",
+        "code": "BKGRH"
+    },
+    {
+        "gareNL": "Barvaux",
+        "gareFR": "Barvaux",
+        "code": "LBV"
+    },
+    {
+        "gareNL": "Bas-Oha",
+        "gareFR": "Bas-Oha",
+        "code": "NBE"
+    },
+    {
+        "gareNL": "Bascharage-Sanem",
+        "gareFR": "Bascharage-Sanem",
+        "code": "XLBA"
+    },
+    {
+        "gareNL": "Bascoup",
+        "gareFR": "Bascoup",
+        "code": "LBC"
+    },
+    {
+        "gareNL": "Basel SBB",
+        "gareFR": "Basel SBB",
+        "code": "BS"
+    },
+    {
+        "gareNL": "Basel SBB RB",
+        "gareFR": "Basel SBB RB",
+        "code": "BSRB"
+    },
+    {
+        "gareNL": "Basse-Wavre",
+        "gareFR": "Basse-Wavre",
+        "code": "BGWV"
+    },
+    {
+        "gareNL": "Basècles",
+        "gareFR": "Basècles",
+        "code": "BSCLS"
+    },
+    {
+        "gareNL": "Batilly",
+        "gareFR": "Batilly",
+        "code": "BATLL"
+    },
+    {
+        "gareNL": "Baulers",
+        "gareFR": "Baulers",
+        "code": "FSU"
+    },
+    {
+        "gareNL": "Beauraing",
+        "gareFR": "Beauraing",
+        "code": "MBG"
+    },
+    {
+        "gareNL": "Bebra Rbf",
+        "gareFR": "Bebra Rbf",
+        "code": "FB_R"
+    },
+    {
+        "gareNL": "Beernem",
+        "gareFR": "Beernem",
+        "code": "LBM"
+    },
+    {
+        "gareNL": "Beersel",
+        "gareFR": "Beersel",
+        "code": "BRSEL"
+    },
+    {
+        "gareNL": "Beervelde",
+        "gareFR": "Beervelde",
+        "code": "FVB"
+    },
+    {
+        "gareNL": "Beez",
+        "gareFR": "Beez",
+        "code": "BEEZ"
+    },
+    {
+        "gareNL": "Begijnendijk",
+        "gareFR": "Begijnendijk",
+        "code": "GBD"
+    },
+    {
+        "gareNL": "Beignée",
+        "gareFR": "Beignée",
+        "code": "BEIGN"
+    },
+    {
+        "gareNL": "Bellain",
+        "gareFR": "Bellain",
+        "code": "XLBL"
+    },
+    {
+        "gareNL": "Bellem",
+        "gareFR": "Bellem",
+        "code": "FEB"
+    },
+    {
+        "gareNL": "Belsele",
+        "gareFR": "Belsele",
+        "code": "LLB"
+    },
+    {
+        "gareNL": "Belval-Rédange",
+        "gareFR": "Belval-Rédange",
+        "code": "XLBR"
+    },
+    {
+        "gareNL": "Belval-Université",
+        "gareFR": "Belval-Université",
+        "code": "XLBU"
+    },
+    {
+        "gareNL": "Belvaux-Soleuvre",
+        "gareFR": "Belvaux-Soleuvre",
+        "code": "XLBS"
+    },
+    {
+        "gareNL": "Berchem",
+        "gareFR": "Berchem",
+        "code": "XLBC"
+    },
+    {
+        "gareNL": "Bergen",
+        "gareFR": "Mons",
+        "code": "FMS"
+    },
+    {
+        "gareNL": "Beringen",
+        "gareFR": "Beringen",
+        "code": "MI"
+    },
+    {
+        "gareNL": "Beringen-Mijn",
+        "gareFR": "Beringen-Mine",
+        "code": "MIMIJ"
+    },
+    {
+        "gareNL": "Berlaar",
+        "gareFR": "Berlaar",
+        "code": "GBL"
+    },
+    {
+        "gareNL": "Berlaimont",
+        "gareFR": "Berlaimont",
+        "code": "BER"
+    },
+    {
+        "gareNL": "Berlin Hbf",
+        "gareFR": "Berlin Hbf",
+        "code": "BRLIN"
+    },
+    {
+        "gareNL": "Berlin Ostbahnhof",
+        "gareFR": "Berlin Ostbahnhof",
+        "code": "BHF"
+    },
+    {
+        "gareNL": "Berlin Zoologischer Garten",
+        "gareFR": "Berlin Zoologischer Garten",
+        "code": "BZOO"
+    },
+    {
+        "gareNL": "Berlin-Spandau",
+        "gareFR": "Berlin-Spandau",
+        "code": "BSPD"
+    },
+    {
+        "gareNL": "Bern",
+        "gareFR": "Bern",
+        "code": "BN"
+    },
+    {
+        "gareNL": "Bernburg",
+        "gareFR": "Bernburg",
+        "code": "LBG"
+    },
+    {
+        "gareNL": "Bertrange-Strassen",
+        "gareFR": "Bertrange-Strassen",
+        "code": "XLBG"
+    },
+    {
+        "gareNL": "Bertrix",
+        "gareFR": "Bertrix",
+        "code": "MBX"
+    },
+    {
+        "gareNL": "Berzée",
+        "gareFR": "Berzée",
+        "code": "LBZ"
+    },
+    {
+        "gareNL": "Bescot Yard",
+        "gareFR": "Bescot Yard",
+        "code": "BSCYD"
+    },
+    {
+        "gareNL": "Bettembourg",
+        "gareFR": "Bettembourg",
+        "code": "XLB"
+    },
+    {
+        "gareNL": "Bettembourg-Frontière",
+        "gareFR": "Bettembourg-Frontière",
+        "code": "XLXBB"
+    },
+    {
+        "gareNL": "Bettembourg-Marchandises",
+        "gareFR": "Bettembourg-Marchandises",
+        "code": "XLBM"
+    },
+    {
+        "gareNL": "Beuvraignes",
+        "gareFR": "Beuvraignes",
+        "code": "BEUVR"
+    },
+    {
+        "gareNL": "Beuzet",
+        "gareFR": "Beuzet",
+        "code": "MBZ"
+    },
+    {
+        "gareNL": "Beveren (Waas)",
+        "gareFR": "Beveren (Waes)",
+        "code": "FBR"
+    },
+    {
+        "gareNL": "Beveren-Wijkspoor",
+        "gareFR": "Beveren-Wijkspoor",
+        "code": "FBRWS"
+    },
+    {
+        "gareNL": "Beverlo",
+        "gareFR": "Beverlo",
+        "code": "MBV"
+    },
+    {
+        "gareNL": "Beverst",
+        "gareFR": "Beverst",
+        "code": "BVRST"
+    },
+    {
+        "gareNL": "Beverwijk Hoogovens Centraal",
+        "gareFR": "Beverwijk Hoogovens Centraal",
+        "code": "BVHC"
+    },
+    {
+        "gareNL": "Biarritz",
+        "gareFR": "Biarritz",
+        "code": "BZ"
+    },
+    {
+        "gareNL": "Bielefeld Hbf",
+        "gareFR": "Bielefeld Hbf",
+        "code": "EBIL"
+    },
+    {
+        "gareNL": "Bierges-Walibi",
+        "gareFR": "Bierges-Walibi",
+        "code": "BIEWA"
+    },
+    {
+        "gareNL": "Bierset-Awans",
+        "gareFR": "Bierset-Awans",
+        "code": "FTI"
+    },
+    {
+        "gareNL": "Bilzen",
+        "gareFR": "Bilzen",
+        "code": "FIE"
+    },
+    {
+        "gareNL": "Bilzen-Wijkspoor",
+        "gareFR": "Bilzen-Wijkspoor",
+        "code": "FIEWS"
+    },
+    {
+        "gareNL": "Binche",
+        "gareFR": "Binche",
+        "code": "LBH"
+    },
+    {
+        "gareNL": "Birrfeld CT",
+        "gareFR": "Birrfeld CT",
+        "code": "BRFLD"
+    },
+    {
+        "gareNL": "Bischofsheim an der Rhön",
+        "gareFR": "Bischofsheim an der Rhön",
+        "code": "NBIM"
+    },
+    {
+        "gareNL": "Bissegem",
+        "gareFR": "Bissegem",
+        "code": "MIM"
+    },
+    {
+        "gareNL": "Bitsingen",
+        "gareFR": "Bassenge",
+        "code": "BASS"
+    },
+    {
+        "gareNL": "Blandain-Frontière",
+        "gareFR": "Blandain-Frontière",
+        "code": "BLAFR"
+    },
+    {
+        "gareNL": "Blankenberge",
+        "gareFR": "Blankenberge",
+        "code": "FBK"
+    },
+    {
+        "gareNL": "Blanmont",
+        "gareFR": "Blanmont",
+        "code": "MBL"
+    },
+    {
+        "gareNL": "Blaton",
+        "gareFR": "Blaton",
+        "code": "LLT"
+    },
+    {
+        "gareNL": "Bleret",
+        "gareFR": "Bleret",
+        "code": "BLRET"
+    },
+    {
+        "gareNL": "Bobigny",
+        "gareFR": "Bobigny",
+        "code": "BOB"
+    },
+    {
+        "gareNL": "Bochum",
+        "gareFR": "Bochum",
+        "code": "EBO"
+    },
+    {
+        "gareNL": "Bockstael",
+        "gareFR": "Bockstael",
+        "code": "FBL"
+    },
+    {
+        "gareNL": "Boechout",
+        "gareFR": "Boechout",
+        "code": "GBC"
+    },
+    {
+        "gareNL": "Bois-d'Haine-Gril C/D",
+        "gareFR": "Bois-d'Haine-Gril C/D",
+        "code": "BDHCD"
+    },
+    {
+        "gareNL": "Bokrijk",
+        "gareFR": "Bokrijk",
+        "code": "FKY"
+    },
+    {
+        "gareNL": "Boksbergheide",
+        "gareFR": "Boksbergheide",
+        "code": "BOKBH"
+    },
+    {
+        "gareNL": "Bologna Interpor",
+        "gareFR": "Bologna Interpor",
+        "code": "BOLOI"
+    },
+    {
+        "gareNL": "Bomal",
+        "gareFR": "Bomal",
+        "code": "MBM"
+    },
+    {
+        "gareNL": "Booischot",
+        "gareFR": "Booischot",
+        "code": "GB"
+    },
+    {
+        "gareNL": "Boom",
+        "gareFR": "Boom",
+        "code": "FMB"
+    },
+    {
+        "gareNL": "Boondaal",
+        "gareFR": "Boondael",
+        "code": "BOOND"
+    },
+    {
+        "gareNL": "Boortmeerbeek",
+        "gareFR": "Boortmeerbeek",
+        "code": "FOB"
+    },
+    {
+        "gareNL": "Bordeaux-Saint-Jean",
+        "gareFR": "Bordeaux-Saint-Jean",
+        "code": "BX"
+    },
+    {
+        "gareNL": "Bordet",
+        "gareFR": "Bordet",
+        "code": "BORDT"
+    },
+    {
+        "gareNL": "Borgworm",
+        "gareFR": "Waremme",
+        "code": "FVR"
+    },
+    {
+        "gareNL": "Born",
+        "gareFR": "Born",
+        "code": "BON"
+    },
+    {
+        "gareNL": "Bornem",
+        "gareFR": "Bornem",
+        "code": "LOB"
+    },
+    {
+        "gareNL": "Bosvoorde",
+        "gareFR": "Boitsfort",
+        "code": "MBR"
+    },
+    {
+        "gareNL": "Bottrop Süd",
+        "gareFR": "Bottrop Süd",
+        "code": "EBTS"
+    },
+    {
+        "gareNL": "Botzelaer",
+        "gareFR": "Botzelaer",
+        "code": "BOTZ"
+    },
+    {
+        "gareNL": "Bourg-Saint-Maurice",
+        "gareFR": "Bourg-Saint-Maurice",
+        "code": "BSM"
+    },
+    {
+        "gareNL": "Boussu",
+        "gareFR": "Boussu",
+        "code": "FSB"
+    },
+    {
+        "gareNL": "Bouwel",
+        "gareFR": "Bouwel",
+        "code": "FOW"
+    },
+    {
+        "gareNL": "Bracquegnies",
+        "gareFR": "Bracquegnies",
+        "code": "LBQ"
+    },
+    {
+        "gareNL": "Bracquegnies-Garage",
+        "gareFR": "Bracquegnies-Garage",
+        "code": "LBQG"
+    },
+    {
+        "gareNL": "Braunschweig Hbf",
+        "gareFR": "Braunschweig Hbf",
+        "code": "HBS"
+    },
+    {
+        "gareNL": "Breda",
+        "gareFR": "Breda",
+        "code": "BD"
+    },
+    {
+        "gareNL": "Bremen Stahlwerke",
+        "gareFR": "Bremen Stahlwerke",
+        "code": "HBRS"
+    },
+    {
+        "gareNL": "Bressoux",
+        "gareFR": "Bressoux",
+        "code": "FBX"
+    },
+    {
+        "gareNL": "Brig",
+        "gareFR": "Brig",
+        "code": "BR"
+    },
+    {
+        "gareNL": "Brindisi",
+        "gareFR": "Brindisi",
+        "code": "BDS"
+    },
+    {
+        "gareNL": "Bruck an der Mur",
+        "gareFR": "Bruck an der Mur",
+        "code": "BM"
+    },
+    {
+        "gareNL": "Brugelette",
+        "gareFR": "Brugelette",
+        "code": "FBG"
+    },
+    {
+        "gareNL": "Brugg AG",
+        "gareFR": "Brugg AG",
+        "code": "BRUGG"
+    },
+    {
+        "gareNL": "Brugge",
+        "gareFR": "Bruges",
+        "code": "FR"
+    },
+    {
+        "gareNL": "Brugge-Bundel A",
+        "gareFR": "Brugge-Bundel A",
+        "code": "FRVA"
+    },
+    {
+        "gareNL": "Brugge-Bundel B",
+        "gareFR": "Brugge-Bundel B",
+        "code": "FRVB"
+    },
+    {
+        "gareNL": "Brugge-Bundels U/V",
+        "gareFR": "Brugge-Bundels U/V",
+        "code": "FRV"
+    },
+    {
+        "gareNL": "Brugge-Dijk",
+        "gareFR": "Brugge-Dijk",
+        "code": "FRMT"
+    },
+    {
+        "gareNL": "Brugge-O.C.",
+        "gareFR": "Brugge-O.C.",
+        "code": "FROC"
+    },
+    {
+        "gareNL": "Brugge-Rooster E",
+        "gareFR": "Brugge-Rooster E",
+        "code": "RFRE"
+    },
+    {
+        "gareNL": "Brugge-Sint-Pieters",
+        "gareFR": "Bruges-Saint-Pierre",
+        "code": "FRSP"
+    },
+    {
+        "gareNL": "Brussel-Centraal",
+        "gareFR": "Bruxelles-Central",
+        "code": "FBCL"
+    },
+    {
+        "gareNL": "Brussel-Congres",
+        "gareFR": "Bruxelles-Congrès",
+        "code": "FBCO"
+    },
+    {
+        "gareNL": "Brussel-Kapellekerk",
+        "gareFR": "Bruxelles-Chapelle",
+        "code": "FBCK"
+    },
+    {
+        "gareNL": "Brussel-Klein-Eiland",
+        "gareFR": "Bruxelles-Petite-Ile",
+        "code": "FBKE"
+    },
+    {
+        "gareNL": "Brussel-Klein-Eiland-Bundel F",
+        "gareFR": "Bruxelles-Petite-Ile-Faisc.F",
+        "code": "FBKIF"
+    },
+    {
+        "gareNL": "Brussel-Klein-Eiland-Carwash",
+        "gareFR": "Bruxelles-Petite-Ile-Carwash",
+        "code": "FBKIC"
+    },
+    {
+        "gareNL": "Brussel-Luxemburg",
+        "gareFR": "Bruxelles-Luxembourg",
+        "code": "LX"
+    },
+    {
+        "gareNL": "Brussel-Noord",
+        "gareFR": "Bruxelles-Nord",
+        "code": "FBN"
+    },
+    {
+        "gareNL": "Brussel-Noord-Rooster F",
+        "gareFR": "Bruxelles-Nord-Gril F",
+        "code": "RFBNF"
+    },
+    {
+        "gareNL": "Brussel-Schuman",
+        "gareFR": "Bruxelles-Schuman",
+        "code": "FBSM"
+    },
+    {
+        "gareNL": "Brussel-West",
+        "gareFR": "Bruxelles-Ouest",
+        "code": "FBOW"
+    },
+    {
+        "gareNL": "Brussel-Zuid",
+        "gareFR": "Bruxelles-Midi",
+        "code": "FBMZ"
+    },
+    {
+        "gareNL": "Brussel-Zuid-Rooster NZV",
+        "gareFR": "Bruxelles-Midi-Gril JNM",
+        "code": "RNZV"
+    },
+    {
+        "gareNL": "Brussel-Zuid-T.W.-HST",
+        "gareFR": "Bruxelles-Midi-A.T.-TGV",
+        "code": "FBMA"
+    },
+    {
+        "gareNL": "Brussels Airport-Zaventem",
+        "gareFR": "Brussels Airport - Zaventem",
+        "code": "FBNL"
+    },
+    {
+        "gareNL": "Bruyères-Gril S",
+        "gareFR": "Bruyères-Gril S",
+        "code": "LTS"
+    },
+    {
+        "gareNL": "Buda",
+        "gareFR": "Buda",
+        "code": "BUDA"
+    },
+    {
+        "gareNL": "Budel",
+        "gareFR": "Budel",
+        "code": "BDL"
+    },
+    {
+        "gareNL": "Buggenhout",
+        "gareFR": "Buggenhout",
+        "code": "FGN"
+    },
+    {
+        "gareNL": "Buizingen",
+        "gareFR": "Buizingen",
+        "code": "FGU"
+    },
+    {
+        "gareNL": "Bully-Grenay",
+        "gareFR": "Bully-Grenay",
+        "code": "BG"
+    },
+    {
+        "gareNL": "Buna-Werke",
+        "gareFR": "Buna-Werke",
+        "code": "LBW"
+    },
+    {
+        "gareNL": "Burghausen Wackerwerk",
+        "gareFR": "Burghausen Wackerwerk",
+        "code": "MWCK"
+    },
+    {
+        "gareNL": "Burst",
+        "gareFR": "Burst",
+        "code": "FRU"
+    },
+    {
+        "gareNL": "Busto Arsizio",
+        "gareFR": "Busto Arsizio",
+        "code": "BUSTO"
+    },
+    {
+        "gareNL": "Buzet",
+        "gareFR": "Buzet",
+        "code": "BUZET"
+    },
+    {
+        "gareNL": "Béziers",
+        "gareFR": "Béziers",
+        "code": "BS"
+    },
+    {
+        "gareNL": "Böhlen",
+        "gareFR": "Böhlen",
+        "code": "LBO"
+    },
+    {
+        "gareNL": "Calais-Fréthun",
+        "gareFR": "Calais-Fréthun",
+        "code": "CALF"
+    },
+    {
+        "gareNL": "Calais-Fréthun-Faisceau Tunnel",
+        "gareFR": "Calais-Fréthun-Faisceau Tunnel",
+        "code": "FRETH"
+    },
+    {
+        "gareNL": "Calais-Ville",
+        "gareFR": "Calais-Ville",
+        "code": "CS"
+    },
+    {
+        "gareNL": "Callenelle",
+        "gareFR": "Callenelle",
+        "code": "FCA"
+    },
+    {
+        "gareNL": "Cambrai-Ville",
+        "gareFR": "Cambrai-Ville",
+        "code": "CAM"
+    },
+    {
+        "gareNL": "Cambron-Casteau",
+        "gareFR": "Cambron-Casteau",
+        "code": "FUC"
+    },
+    {
+        "gareNL": "Cannes",
+        "gareFR": "Cannes",
+        "code": "CAV"
+    },
+    {
+        "gareNL": "Capellen",
+        "gareFR": "Capellen",
+        "code": "XLCP"
+    },
+    {
+        "gareNL": "Carcassonne",
+        "gareFR": "Carcassonne",
+        "code": "CCE"
+    },
+    {
+        "gareNL": "Carimate",
+        "gareFR": "Carimate",
+        "code": "CARIM"
+    },
+    {
+        "gareNL": "Carlsbourg",
+        "gareFR": "Carlsbourg",
+        "code": "MCL"
+    },
+    {
+        "gareNL": "Carnières",
+        "gareFR": "Carnières",
+        "code": "LNS"
+    },
+    {
+        "gareNL": "Cerbère",
+        "gareFR": "Cerbère",
+        "code": "CE"
+    },
+    {
+        "gareNL": "Chalon-sur-Saône (Port Nord)",
+        "gareFR": "Chalon-sur-Saône (Port Nord)",
+        "code": "CSSND"
+    },
+    {
+        "gareNL": "Chambéry-Challes-les-Eaux",
+        "gareFR": "Chambéry-Challes-les-Eaux",
+        "code": "CR"
+    },
+    {
+        "gareNL": "Champigneulles TR",
+        "gareFR": "Champigneulles TR",
+        "code": "CHG"
+    },
+    {
+        "gareNL": "Chapelle-Dieu",
+        "gareFR": "Chapelle-Dieu",
+        "code": "CHAPD"
+    },
+    {
+        "gareNL": "Chapois",
+        "gareFR": "Chapois",
+        "code": "CHAPO"
+    },
+    {
+        "gareNL": "Charleroi-A.T.",
+        "gareFR": "Charleroi-A.T.",
+        "code": "GCRA"
+    },
+    {
+        "gareNL": "Charleroi-Dry Port",
+        "gareFR": "Charleroi-Dry Port",
+        "code": "FCRDP"
+    },
+    {
+        "gareNL": "Charleroi-West",
+        "gareFR": "Charleroi-Ouest",
+        "code": "FCRO"
+    },
+    {
+        "gareNL": "Charleroi-Zuid",
+        "gareFR": "Charleroi-Sud",
+        "code": "FCR"
+    },
+    {
+        "gareNL": "Chastre",
+        "gareFR": "Chastre",
+        "code": "MC"
+    },
+    {
+        "gareNL": "Chaudfontaine",
+        "gareFR": "Chaudfontaine",
+        "code": "FCF"
+    },
+    {
+        "gareNL": "Cheratte",
+        "gareFR": "Cheratte",
+        "code": "FEA"
+    },
+    {
+        "gareNL": "Chertal",
+        "gareFR": "Chertal",
+        "code": "CHERT"
+    },
+    {
+        "gareNL": "Chur",
+        "gareFR": "Chur",
+        "code": "CH"
+    },
+    {
+        "gareNL": "Château-de-Seilles",
+        "gareFR": "Château-de-Seilles",
+        "code": "CHATS"
+    },
+    {
+        "gareNL": "Châtelet",
+        "gareFR": "Châtelet",
+        "code": "FCL"
+    },
+    {
+        "gareNL": "Châtelet-Carwash",
+        "gareFR": "Châtelet-Carwash",
+        "code": "FCLCH"
+    },
+    {
+        "gareNL": "Châtelet-Faisceau C",
+        "gareFR": "Châtelet-Faisceau C",
+        "code": "FCLC"
+    },
+    {
+        "gareNL": "Châtelet-Formation",
+        "gareFR": "Châtelet-Formation",
+        "code": "FCLF"
+    },
+    {
+        "gareNL": "Chênée",
+        "gareFR": "Chênée",
+        "code": "FCH"
+    },
+    {
+        "gareNL": "Ciney",
+        "gareFR": "Ciney",
+        "code": "LC"
+    },
+    {
+        "gareNL": "Ciumesti",
+        "gareFR": "Ciumesti",
+        "code": "CIUME"
+    },
+    {
+        "gareNL": "Clabecq-Marchandises",
+        "gareFR": "Clabecq-Marchandises",
+        "code": "FEQM"
+    },
+    {
+        "gareNL": "Clervaux",
+        "gareFR": "Clervaux",
+        "code": "XLCV"
+    },
+    {
+        "gareNL": "Colmar",
+        "gareFR": "Colmar",
+        "code": "CMR"
+    },
+    {
+        "gareNL": "Comblain-la-Tour",
+        "gareFR": "Comblain-la-Tour",
+        "code": "MCT"
+    },
+    {
+        "gareNL": "Compiègne",
+        "gareFR": "Compiègne",
+        "code": "CPE"
+    },
+    {
+        "gareNL": "Conflans-Jarny",
+        "gareFR": "Conflans-Jarny",
+        "code": "CJ"
+    },
+    {
+        "gareNL": "Constanti (Contenedores)",
+        "gareFR": "Constanti (Contenedores)",
+        "code": "CONST"
+    },
+    {
+        "gareNL": "Coo",
+        "gareFR": "Coo",
+        "code": "COO"
+    },
+    {
+        "gareNL": "Corbehem",
+        "gareFR": "Corbehem",
+        "code": "COR"
+    },
+    {
+        "gareNL": "Couillet",
+        "gareFR": "Couillet",
+        "code": "LCL"
+    },
+    {
+        "gareNL": "Cour-sur-Heure",
+        "gareFR": "Cour-sur-Heure",
+        "code": "LUH"
+    },
+    {
+        "gareNL": "Courbe de Jurbise-PN 78",
+        "gareFR": "Courbe de Jurbise-PN 78",
+        "code": "PN78"
+    },
+    {
+        "gareNL": "Courbe de Soignies-PN 63",
+        "gareFR": "Courbe de Soignies-PN 63",
+        "code": "PN63"
+    },
+    {
+        "gareNL": "Courcelles-Motte",
+        "gareFR": "Courcelles-Motte",
+        "code": "LCCM"
+    },
+    {
+        "gareNL": "Courrière",
+        "gareFR": "Courrière",
+        "code": "MRR"
+    },
+    {
+        "gareNL": "Court-Saint-Etienne",
+        "gareFR": "Court-Saint-Etienne",
+        "code": "LCN"
+    },
+    {
+        "gareNL": "Couvin",
+        "gareFR": "Couvin",
+        "code": "LCV"
+    },
+    {
+        "gareNL": "Cremona",
+        "gareFR": "Cremona",
+        "code": "CREMO"
+    },
+    {
+        "gareNL": "Creutzwald",
+        "gareFR": "Creutzwald",
+        "code": "CCX"
+    },
+    {
+        "gareNL": "Croix-l'Allumette",
+        "gareFR": "Croix-l'Allumette",
+        "code": "CIX"
+    },
+    {
+        "gareNL": "Croix-Rouge",
+        "gareFR": "Croix-Rouge",
+        "code": "MCR"
+    },
+    {
+        "gareNL": "Croix-Wasquehal",
+        "gareFR": "Croix-Wasquehal",
+        "code": "CRW"
+    },
+    {
+        "gareNL": "Cuesmes",
+        "gareFR": "Cuesmes",
+        "code": "LCS"
+    },
+    {
+        "gareNL": "Cuesmes-A.C.",
+        "gareFR": "Cuesmes-A.C.",
+        "code": "LCSA"
+    },
+    {
+        "gareNL": "Culmont-Chalindrey",
+        "gareFR": "Culmont-Chalindrey",
+        "code": "CY"
+    },
+    {
+        "gareNL": "Curtici",
+        "gareFR": "Curtici",
+        "code": "CRTCI"
+    },
+    {
+        "gareNL": "Céroux-Mousty",
+        "gareFR": "Céroux-Mousty",
+        "code": "MCM"
+    },
+    {
+        "gareNL": "Dave-Saint-Martin",
+        "gareFR": "Dave-Saint-Martin",
+        "code": "MDT"
+    },
+    {
+        "gareNL": "Daventry Int Rft Intermodal",
+        "gareFR": "Daventry Int Rft Intermodal",
+        "code": "DIRFT"
+    },
+    {
+        "gareNL": "De Bist",
+        "gareFR": "De Bist",
+        "code": "DBIST"
+    },
+    {
+        "gareNL": "De Hoek",
+        "gareFR": "De Hoek",
+        "code": "DHOEK"
+    },
+    {
+        "gareNL": "De Panne",
+        "gareFR": "La Panne",
+        "code": "FDK"
+    },
+    {
+        "gareNL": "De Panne-Grens",
+        "gareFR": "La Panne-Frontière",
+        "code": "FDKGR"
+    },
+    {
+        "gareNL": "De Pinte",
+        "gareFR": "De Pinte",
+        "code": "FPT"
+    },
+    {
+        "gareNL": "De Vink",
+        "gareFR": "De Vink",
+        "code": "DVNK"
+    },
+    {
+        "gareNL": "Deinze",
+        "gareFR": "Deinze",
+        "code": "FD"
+    },
+    {
+        "gareNL": "Deinze-Wijksporen",
+        "gareFR": "Deinze-Wijksporen",
+        "code": "FDWS"
+    },
+    {
+        "gareNL": "Delft",
+        "gareFR": "Delft",
+        "code": "DT"
+    },
+    {
+        "gareNL": "Delft Zuid",
+        "gareFR": "Delft Zuid",
+        "code": "DTZ"
+    },
+    {
+        "gareNL": "Delta",
+        "gareFR": "Delta",
+        "code": "DELTA"
+    },
+    {
+        "gareNL": "Den Haag Hollands Spoor",
+        "gareFR": "Den Haag Hollands Spoor",
+        "code": "GV"
+    },
+    {
+        "gareNL": "Den Haag Laan van NOI",
+        "gareFR": "Den Haag Laan van NOI",
+        "code": "LAA"
+    },
+    {
+        "gareNL": "Den Haag Mariahoeve",
+        "gareFR": "Den Haag Mariahoeve",
+        "code": "GVM"
+    },
+    {
+        "gareNL": "Den Haag Moerwijk",
+        "gareFR": "Den Haag Moerwijk",
+        "code": "GVMW"
+    },
+    {
+        "gareNL": "Denderleeuw",
+        "gareFR": "Denderleeuw",
+        "code": "FDD"
+    },
+    {
+        "gareNL": "Dendermonde",
+        "gareFR": "Termonde",
+        "code": "FDR"
+    },
+    {
+        "gareNL": "Desio",
+        "gareFR": "Desio",
+        "code": "DESIO"
+    },
+    {
+        "gareNL": "Deventer",
+        "gareFR": "Deventer",
+        "code": "DV"
+    },
+    {
+        "gareNL": "Devínska Nová Ves",
+        "gareFR": "Devínska Nová Ves",
+        "code": "DVNSK"
+    },
+    {
+        "gareNL": "Didcot Yard",
+        "gareFR": "Didcot Yard",
+        "code": "DIDYD"
+    },
+    {
+        "gareNL": "Diegem",
+        "gareFR": "Diegem",
+        "code": "FDG"
+    },
+    {
+        "gareNL": "Diepenbeek",
+        "gareFR": "Diepenbeek",
+        "code": "GDP"
+    },
+    {
+        "gareNL": "Diepholz",
+        "gareFR": "Diepholz",
+        "code": "HDIP"
+    },
+    {
+        "gareNL": "Diesdelle",
+        "gareFR": "Vivier d'Oie",
+        "code": "VIVOI"
+    },
+    {
+        "gareNL": "Diest",
+        "gareFR": "Diest",
+        "code": "FDT"
+    },
+    {
+        "gareNL": "Differdange",
+        "gareFR": "Differdange",
+        "code": "XLDI"
+    },
+    {
+        "gareNL": "Digoin",
+        "gareFR": "Digoin",
+        "code": "DIG"
+    },
+    {
+        "gareNL": "Dijon-Perrigny-Triage",
+        "gareFR": "Dijon-Perrigny-Triage",
+        "code": "DPY"
+    },
+    {
+        "gareNL": "Dijon-Porte-d'Ouche-Perrigny",
+        "gareFR": "Dijon-Porte-d'Ouche-Perrigny",
+        "code": "DDP"
+    },
+    {
+        "gareNL": "Diksmuide",
+        "gareFR": "Dixmude",
+        "code": "FIK"
+    },
+    {
+        "gareNL": "Dilbeek",
+        "gareFR": "Dilbeek",
+        "code": "FKB"
+    },
+    {
+        "gareNL": "Dillingen (Saar) Ford-Werke",
+        "gareFR": "Dillingen (Saar) Ford-Werke",
+        "code": "SDLF"
+    },
+    {
+        "gareNL": "Dinant",
+        "gareFR": "Dinant",
+        "code": "NDT"
+    },
+    {
+        "gareNL": "Dingolfing BMW Dynamikzentrum",
+        "gareFR": "Dingolfing BMW Dynamikzentrum",
+        "code": "MADF"
+    },
+    {
+        "gareNL": "Dippach-Reckange",
+        "gareFR": "Dippach-Reckange",
+        "code": "XLDR"
+    },
+    {
+        "gareNL": "Docherie",
+        "gareFR": "Docherie",
+        "code": "LRR"
+    },
+    {
+        "gareNL": "Dolhain-Gileppe",
+        "gareFR": "Dolhain-Gileppe",
+        "code": "GDL"
+    },
+    {
+        "gareNL": "Dolhain-Vicinal",
+        "gareFR": "Dolhain-Vicinal",
+        "code": "VDL"
+    },
+    {
+        "gareNL": "Dollands Moor EWS",
+        "gareFR": "Dollands Moor EWS",
+        "code": "DOLLA"
+    },
+    {
+        "gareNL": "Domodossola",
+        "gareFR": "Domodossola",
+        "code": "DMDSL"
+    },
+    {
+        "gareNL": "Doornik",
+        "gareFR": "Tournai",
+        "code": "FTY"
+    },
+    {
+        "gareNL": "Dordrecht",
+        "gareFR": "Dordrecht",
+        "code": "DDR"
+    },
+    {
+        "gareNL": "Dordrecht Zuid",
+        "gareFR": "Dordrecht Zuid",
+        "code": "DDZD"
+    },
+    {
+        "gareNL": "Dormagen",
+        "gareFR": "Dormagen",
+        "code": "KDO"
+    },
+    {
+        "gareNL": "Dortmund Hbf",
+        "gareFR": "Dortmund Hbf",
+        "code": "DORTM"
+    },
+    {
+        "gareNL": "Douai",
+        "gareFR": "Douai",
+        "code": "DO"
+    },
+    {
+        "gareNL": "Dourges",
+        "gareFR": "Dourges",
+        "code": "DOU"
+    },
+    {
+        "gareNL": "Drauffelt",
+        "gareFR": "Drauffelt",
+        "code": "XLDF"
+    },
+    {
+        "gareNL": "Dresden-Friedrichstad",
+        "gareFR": "Dresden-Friedrichstad",
+        "code": "DF"
+    },
+    {
+        "gareNL": "Drongen",
+        "gareFR": "Tronchiennes",
+        "code": "FDO"
+    },
+    {
+        "gareNL": "Dudelange-Usines",
+        "gareFR": "Dudelange-Usines",
+        "code": "XLDU"
+    },
+    {
+        "gareNL": "Dudzele-Blok 1",
+        "gareFR": "Dudzele-Blok 1",
+        "code": "DUDZ"
+    },
+    {
+        "gareNL": "Duffel",
+        "gareFR": "Duffel",
+        "code": "FDF"
+    },
+    {
+        "gareNL": "Duinbergen",
+        "gareFR": "Duinbergen",
+        "code": "DUINB"
+    },
+    {
+        "gareNL": "Duisburg Hbf",
+        "gareFR": "Duisburg Hbf",
+        "code": "EDG"
+    },
+    {
+        "gareNL": "Duisburg-Rheinhausen",
+        "gareFR": "Duisburg-Rheinhausen",
+        "code": "KRH"
+    },
+    {
+        "gareNL": "Duisburg-Ruhrort Hafen",
+        "gareFR": "Duisburg-Ruhrort Hafen",
+        "code": "EDRH"
+    },
+    {
+        "gareNL": "Dunkerque-Grande-Synthe",
+        "gareFR": "Dunkerque-Grande-Synthe",
+        "code": "DKQGS"
+    },
+    {
+        "gareNL": "Düren",
+        "gareFR": "Düren",
+        "code": "KDN"
+    },
+    {
+        "gareNL": "Düsseldorf Flughafen",
+        "gareFR": "Düsseldorf Flughafen",
+        "code": "KDFF"
+    },
+    {
+        "gareNL": "Düsseldorf Hbf",
+        "gareFR": "Düsseldorf Hbf",
+        "code": "KD"
+    },
+    {
+        "gareNL": "Ebbsfleet International",
+        "gareFR": "Ebbsfleet International",
+        "code": "EBBSF"
+    },
+    {
+        "gareNL": "Ecaussinnes",
+        "gareFR": "Ecaussinnes",
+        "code": "FCS"
+    },
+    {
+        "gareNL": "Ede",
+        "gareFR": "Ede",
+        "code": "MEE"
+    },
+    {
+        "gareNL": "Edingen",
+        "gareFR": "Enghien",
+        "code": "FNG"
+    },
+    {
+        "gareNL": "Eeklo",
+        "gareFR": "Eeklo",
+        "code": "FKLO"
+    },
+    {
+        "gareNL": "Eerken",
+        "gareFR": "Archennes",
+        "code": "ARCHE"
+    },
+    {
+        "gareNL": "Eichem",
+        "gareFR": "Eichem",
+        "code": "EICHM"
+    },
+    {
+        "gareNL": "Eigenbrakel",
+        "gareFR": "Braine-l'Alleud",
+        "code": "FBD"
+    },
+    {
+        "gareNL": "Eijsden",
+        "gareFR": "Eijsden",
+        "code": "EDN"
+    },
+    {
+        "gareNL": "Eine",
+        "gareFR": "Eine",
+        "code": "FEI"
+    },
+    {
+        "gareNL": "Eisenach",
+        "gareFR": "Eisenach",
+        "code": "UEI"
+    },
+    {
+        "gareNL": "Eke-Nazareth",
+        "gareFR": "Eke-Nazareth",
+        "code": "EKENA"
+    },
+    {
+        "gareNL": "Ekeren",
+        "gareFR": "Ekeren",
+        "code": "LKR"
+    },
+    {
+        "gareNL": "Ekeren-Brug",
+        "gareFR": "Ekeren-Brug",
+        "code": "LKRBR"
+    },
+    {
+        "gareNL": "Emmerich",
+        "gareFR": "Emmerich",
+        "code": "KYEA"
+    },
+    {
+        "gareNL": "Engis",
+        "gareFR": "Engis",
+        "code": "NG"
+    },
+    {
+        "gareNL": "Eppegem",
+        "gareFR": "Eppegem",
+        "code": "FPH"
+    },
+    {
+        "gareNL": "Erbisoeul",
+        "gareFR": "Erbisoeul",
+        "code": "FIU"
+    },
+    {
+        "gareNL": "Erembodegem",
+        "gareFR": "Erembodegem",
+        "code": "FRMB"
+    },
+    {
+        "gareNL": "Ernage",
+        "gareFR": "Ernage",
+        "code": "MNG"
+    },
+    {
+        "gareNL": "Erpe-Mere",
+        "gareFR": "Erpe-Mere",
+        "code": "FRPM"
+    },
+    {
+        "gareNL": "Erps-Kwerps",
+        "gareFR": "Erps-Kwerps",
+        "code": "MRP"
+    },
+    {
+        "gareNL": "Erquelinnes",
+        "gareFR": "Erquelinnes",
+        "code": "LQ"
+    },
+    {
+        "gareNL": "Erquelinnes-Dorp",
+        "gareFR": "Erquelinnes-Village",
+        "code": "LQVIL"
+    },
+    {
+        "gareNL": "Erquelinnes-Frontière",
+        "gareFR": "Erquelinnes-Frontière",
+        "code": "LQFR"
+    },
+    {
+        "gareNL": "Ertvelde-Kluizendok",
+        "gareFR": "Ertvelde-Kluizendok",
+        "code": "FELS"
+    },
+    {
+        "gareNL": "Esch-sur-Alzette",
+        "gareFR": "Esch-sur-Alzette",
+        "code": "XLEA"
+    },
+    {
+        "gareNL": "Esneux",
+        "gareFR": "Esneux",
+        "code": "LSN"
+    },
+    {
+        "gareNL": "Esplechin-Frontière",
+        "gareFR": "Esplechin-Frontière",
+        "code": "ESPFR"
+    },
+    {
+        "gareNL": "Essen",
+        "gareFR": "Essen",
+        "code": "FES"
+    },
+    {
+        "gareNL": "Essen Hbf",
+        "gareFR": "Essen Hbf",
+        "code": "EE"
+    },
+    {
+        "gareNL": "Essen-Grens",
+        "gareFR": "Essen-Grens",
+        "code": "FESGR"
+    },
+    {
+        "gareNL": "Essene-Lombeek",
+        "gareFR": "Essene-Lombeek",
+        "code": "FKS"
+    },
+    {
+        "gareNL": "Esztergom",
+        "gareFR": "Esztergom",
+        "code": "ESZTE"
+    },
+    {
+        "gareNL": "Ettelbruck",
+        "gareFR": "Ettelbruck",
+        "code": "XLET"
+    },
+    {
+        "gareNL": "Etterbeek",
+        "gareFR": "Etterbeek",
+        "code": "MTB"
+    },
+    {
+        "gareNL": "Eupen",
+        "gareFR": "Eupen",
+        "code": "REP"
+    },
+    {
+        "gareNL": "Eurotunnel-Frontière SNCF",
+        "gareFR": "Eurotunnel-Frontière SNCF",
+        "code": "EURFR"
+    },
+    {
+        "gareNL": "Evere",
+        "gareFR": "Evere",
+        "code": "EVERE"
+    },
+    {
+        "gareNL": "Evergem",
+        "gareFR": "Evergem",
+        "code": "FMV"
+    },
+    {
+        "gareNL": "Evergem-Overdam",
+        "gareFR": "Evergem-Overdam",
+        "code": "FMVOD"
+    },
+    {
+        "gareNL": "Evergem-Sluis",
+        "gareFR": "Evergem-Sluis",
+        "code": "FMVSL"
+    },
+    {
+        "gareNL": "Ezemaal",
+        "gareFR": "Ezemaal",
+        "code": "FZE"
+    },
+    {
+        "gareNL": "Faisceau Blanchisserie",
+        "gareFR": "Faisceau Blanchisserie",
+        "code": "FCRBL"
+    },
+    {
+        "gareNL": "Falconara Marittima",
+        "gareFR": "Falconara Marittima",
+        "code": "FALCM"
+    },
+    {
+        "gareNL": "Familleureux",
+        "gareFR": "Familleureux",
+        "code": "FFM"
+    },
+    {
+        "gareNL": "Farciennes",
+        "gareFR": "Farciennes",
+        "code": "FFC"
+    },
+    {
+        "gareNL": "Fargniers-Garage",
+        "gareFR": "Fargniers-Garage",
+        "code": "FARGA"
+    },
+    {
+        "gareNL": "Faux",
+        "gareFR": "Faux",
+        "code": "MFX"
+    },
+    {
+        "gareNL": "Feignies",
+        "gareFR": "Feignies",
+        "code": "FEI"
+    },
+    {
+        "gareNL": "Feluy-Cul de Sac",
+        "gareFR": "Feluy-Cul de Sac",
+        "code": "LFLCS"
+    },
+    {
+        "gareNL": "Feluy-Zoning",
+        "gareFR": "Feluy-Zoning",
+        "code": "LFLZ"
+    },
+    {
+        "gareNL": "Feluy-Zoning-Faisceau B",
+        "gareFR": "Feluy-Zoning-Faisceau B",
+        "code": "LFLZB"
+    },
+    {
+        "gareNL": "Fexhe-le-Haut-Clocher",
+        "gareFR": "Fexhe-le-Haut-Clocher",
+        "code": "FXH"
+    },
+    {
+        "gareNL": "Fieberbrunn",
+        "gareFR": "Fieberbrunn",
+        "code": "FIE"
+    },
+    {
+        "gareNL": "Flawinne",
+        "gareFR": "Flawinne",
+        "code": "FFW"
+    },
+    {
+        "gareNL": "Fleurus",
+        "gareFR": "Fleurus",
+        "code": "LFR"
+    },
+    {
+        "gareNL": "Floreffe",
+        "gareFR": "Floreffe",
+        "code": "FLF"
+    },
+    {
+        "gareNL": "Floreffe-Zoning Basse Sambre",
+        "gareFR": "Floreffe-Zoning Basse Sambre",
+        "code": "FLFZ"
+    },
+    {
+        "gareNL": "Florenville",
+        "gareFR": "Florenville",
+        "code": "MFL"
+    },
+    {
+        "gareNL": "Florival",
+        "gareFR": "Florival",
+        "code": "GFL"
+    },
+    {
+        "gareNL": "Florée",
+        "gareFR": "Florée",
+        "code": "FLORE"
+    },
+    {
+        "gareNL": "Flémalle-Annexe",
+        "gareFR": "Flémalle-Annexe",
+        "code": "LFA"
+    },
+    {
+        "gareNL": "Flémalle-Grande",
+        "gareFR": "Flémalle-Grande",
+        "code": "NFG"
+    },
+    {
+        "gareNL": "Flémalle-Haute",
+        "gareFR": "Flémalle-Haute",
+        "code": "LFH"
+    },
+    {
+        "gareNL": "Fontaine-l'Evêque",
+        "gareFR": "Fontaine-l'Evêque",
+        "code": "FFL"
+    },
+    {
+        "gareNL": "Fontaine-Valmont",
+        "gareFR": "Fontaine-Valmont",
+        "code": "NFV"
+    },
+    {
+        "gareNL": "Forchies",
+        "gareFR": "Forchies",
+        "code": "LFC"
+    },
+    {
+        "gareNL": "Forrières",
+        "gareFR": "Forrières",
+        "code": "MFR"
+    },
+    {
+        "gareNL": "Fossacesia T.S.",
+        "gareFR": "Fossacesia T.S.",
+        "code": "FOSSA"
+    },
+    {
+        "gareNL": "Fraipont",
+        "gareFR": "Fraipont",
+        "code": "FRPNT"
+    },
+    {
+        "gareNL": "Frameries",
+        "gareFR": "Frameries",
+        "code": "LRS"
+    },
+    {
+        "gareNL": "Franchimont",
+        "gareFR": "Franchimont",
+        "code": "FFCMT"
+    },
+    {
+        "gareNL": "Franière",
+        "gareFR": "Franière",
+        "code": "FNF"
+    },
+    {
+        "gareNL": "Franière-Garage",
+        "gareFR": "Franière-Garage",
+        "code": "FNFG"
+    },
+    {
+        "gareNL": "Frankfurt(M) Flughafen Fernbf",
+        "gareFR": "Frankfurt(M) Flughafen Fernbf",
+        "code": "FFLF"
+    },
+    {
+        "gareNL": "Frankfurt(Main) Hbf",
+        "gareFR": "Frankfurt(Main) Hbf",
+        "code": "FF"
+    },
+    {
+        "gareNL": "Frankfurt(Main) Ost Ubf",
+        "gareFR": "Frankfurt(Main) Ost Ubf",
+        "code": "FFO"
+    },
+    {
+        "gareNL": "Frankfurt-Höchst Industriepark",
+        "gareFR": "Frankfurt-Höchst Industriepark",
+        "code": "FHOEI"
+    },
+    {
+        "gareNL": "Frick",
+        "gareFR": "Frick",
+        "code": "FRICK"
+    },
+    {
+        "gareNL": "Froidmont",
+        "gareFR": "Froidmont",
+        "code": "RFROI"
+    },
+    {
+        "gareNL": "Froyennes",
+        "gareFR": "Froyennes",
+        "code": "GFY"
+    },
+    {
+        "gareNL": "Futuroscope",
+        "gareFR": "Futuroscope",
+        "code": "FUTU"
+    },
+    {
+        "gareNL": "Gablingen",
+        "gareFR": "Gablingen",
+        "code": "MGAL"
+    },
+    {
+        "gareNL": "Gallarate",
+        "gareFR": "Gallarate",
+        "code": "GALLA"
+    },
+    {
+        "gareNL": "Galmaarden",
+        "gareFR": "Gammerages",
+        "code": "FGM"
+    },
+    {
+        "gareNL": "Gantaufet-Zoning",
+        "gareFR": "Gantaufet-Zoning",
+        "code": "GANT"
+    },
+    {
+        "gareNL": "Garching",
+        "gareFR": "Garching",
+        "code": "MGA"
+    },
+    {
+        "gareNL": "Gastuche",
+        "gareFR": "Gastuche",
+        "code": "GG"
+    },
+    {
+        "gareNL": "Gavere-Asper",
+        "gareFR": "Gavere-Asper",
+        "code": "FGA"
+    },
+    {
+        "gareNL": "Gedinne",
+        "gareFR": "Gedinne",
+        "code": "MG"
+    },
+    {
+        "gareNL": "Gedinne-Marchandises",
+        "gareFR": "Gedinne-Marchandises",
+        "code": "MGMAR"
+    },
+    {
+        "gareNL": "Geel",
+        "gareFR": "Geel",
+        "code": "LG"
+    },
+    {
+        "gareNL": "Geel-Containerterminal",
+        "gareFR": "Geel-Containerterminal",
+        "code": "LGCT"
+    },
+    {
+        "gareNL": "Geleen-Lutterade",
+        "gareFR": "Geleen-Lutterade",
+        "code": "LUT"
+    },
+    {
+        "gareNL": "Gellingen",
+        "gareFR": "Ghislenghien",
+        "code": "FGS"
+    },
+    {
+        "gareNL": "Gembloux",
+        "gareFR": "Gembloux",
+        "code": "LGB"
+    },
+    {
+        "gareNL": "Gemmenich",
+        "gareFR": "Gemmenich",
+        "code": "KAG"
+    },
+    {
+        "gareNL": "Gendron-Celles",
+        "gareFR": "Gendron-Celles",
+        "code": "MGN"
+    },
+    {
+        "gareNL": "Genk",
+        "gareFR": "Genk",
+        "code": "FKG"
+    },
+    {
+        "gareNL": "Genk-Goederen",
+        "gareFR": "Genk-Goederen",
+        "code": "FKGG"
+    },
+    {
+        "gareNL": "Genk-Goederen-Museumlijn",
+        "gareFR": "Genk-Goederen-Museumlijn",
+        "code": "FKGGM"
+    },
+    {
+        "gareNL": "Genk-Zuid-L.O.-Ford",
+        "gareFR": "Genk-Zuid-L.O.-Ford",
+        "code": "FKGLF"
+    },
+    {
+        "gareNL": "Genk-Zuid-L.O.-L232",
+        "gareFR": "Genk-Zuid-L.O.-L232",
+        "code": "FKGL2"
+    },
+    {
+        "gareNL": "Genk-Zuid-LO-Inrit Noord FORD",
+        "gareFR": "Genk-Zuid-LO-Inrit Noord FORD",
+        "code": "FKGNF"
+    },
+    {
+        "gareNL": "Genk-Zuid-LO-Inrit Zuid FORD",
+        "gareFR": "Genk-Zuid-LO-Inrit Zuid FORD",
+        "code": "FKGZF"
+    },
+    {
+        "gareNL": "Genk-Zuid-R.O.-Haven",
+        "gareFR": "Genk-Zuid-R.O.-Haven",
+        "code": "FKGRH"
+    },
+    {
+        "gareNL": "Genk-Zuid-R.O.-L230",
+        "gareFR": "Genk-Zuid-R.O.-L230",
+        "code": "FKGR0"
+    },
+    {
+        "gareNL": "Genk-Zuid-R.O.-L231",
+        "gareFR": "Genk-Zuid-R.O.-L231",
+        "code": "FKGR1"
+    },
+    {
+        "gareNL": "Genly",
+        "gareFR": "Genly",
+        "code": "GENLY"
+    },
+    {
+        "gareNL": "Gent-Dampoort",
+        "gareFR": "Gand-Dampoort",
+        "code": "FGDM"
+    },
+    {
+        "gareNL": "Gent-Noord",
+        "gareFR": "Gand-Nord",
+        "code": "FGND"
+    },
+    {
+        "gareNL": "Gent-Rodenhuize",
+        "gareFR": "Gand-Rodenhuize",
+        "code": "RODEH"
+    },
+    {
+        "gareNL": "Gent-Rodenhuizedok",
+        "gareFR": "Gent-Rodenhuizedok",
+        "code": "RODEC"
+    },
+    {
+        "gareNL": "Gent-Rooster Snepbrug",
+        "gareFR": "Gent-Rooster Snepbrug",
+        "code": "RSNBR"
+    },
+    {
+        "gareNL": "Gent-Sint-Pieters",
+        "gareFR": "Gand-Saint-Pierre",
+        "code": "FGSP"
+    },
+    {
+        "gareNL": "Gent-Sint-Pieters-Bundel C",
+        "gareFR": "Gent-Sint-Pieters-Bundel C",
+        "code": "FGSPC"
+    },
+    {
+        "gareNL": "Gent-Zeehaven",
+        "gareFR": "Gand-Maritime",
+        "code": "FGZH"
+    },
+    {
+        "gareNL": "Gent-Zeehaven-Darsen",
+        "gareFR": "Gent-Zeehaven-Darsen",
+        "code": "DARSE"
+    },
+    {
+        "gareNL": "Gent-Zeehaven-Groot Dok",
+        "gareFR": "Gent-Zeehaven-Groot Dok",
+        "code": "GGDOK"
+    },
+    {
+        "gareNL": "Gent-Zeehaven-Sifferdok",
+        "gareFR": "Gent-Zeehaven-Sifferdok",
+        "code": "SIFF"
+    },
+    {
+        "gareNL": "Gent-Zeehaven-Sifferdok L.O.",
+        "gareFR": "Gent-Zeehaven-Sifferdok L.O.",
+        "code": "SIFFL"
+    },
+    {
+        "gareNL": "Gent-Zeehaven-Sifferdok R.O.",
+        "gareFR": "Gent-Zeehaven-Sifferdok R.O.",
+        "code": "SIFFR"
+    },
+    {
+        "gareNL": "Gentbrugge",
+        "gareFR": "Gentbrugge",
+        "code": "FUGE"
+    },
+    {
+        "gareNL": "Gentbrugge-Perron C.W.",
+        "gareFR": "Gentbrugge-Perron C.W.",
+        "code": "FUGW"
+    },
+    {
+        "gareNL": "Genval",
+        "gareFR": "Genval",
+        "code": "MGV"
+    },
+    {
+        "gareNL": "Genève",
+        "gareFR": "Genève",
+        "code": "GE"
+    },
+    {
+        "gareNL": "Geraardsbergen",
+        "gareFR": "Grammont",
+        "code": "FGRA"
+    },
+    {
+        "gareNL": "Germersheim",
+        "gareFR": "Germersheim",
+        "code": "RGE"
+    },
+    {
+        "gareNL": "Gevrey-Triage",
+        "gareFR": "Gevrey-Triage",
+        "code": "GEVTR"
+    },
+    {
+        "gareNL": "Ghlin",
+        "gareFR": "Ghlin",
+        "code": "FIH"
+    },
+    {
+        "gareNL": "Giessen Rbf",
+        "gareFR": "Giessen Rbf",
+        "code": "FGR"
+    },
+    {
+        "gareNL": "Glaaien",
+        "gareFR": "Glons",
+        "code": "LGL"
+    },
+    {
+        "gareNL": "Gliwice",
+        "gareFR": "Gliwice",
+        "code": "GLIWI"
+    },
+    {
+        "gareNL": "Godarville",
+        "gareFR": "Godarville",
+        "code": "FDI"
+    },
+    {
+        "gareNL": "Godinne",
+        "gareFR": "Godinne",
+        "code": "NGD"
+    },
+    {
+        "gareNL": "Goebelsmühle",
+        "gareFR": "Goebelsmühle",
+        "code": "XLGB"
+    },
+    {
+        "gareNL": "Gontrode",
+        "gareFR": "Gontrode",
+        "code": "FOO"
+    },
+    {
+        "gareNL": "Gouvy",
+        "gareFR": "Gouvy",
+        "code": "FVY"
+    },
+    {
+        "gareNL": "Gouvy-Frontière",
+        "gareFR": "Gouvy-Frontière",
+        "code": "FVYFR"
+    },
+    {
+        "gareNL": "Gouy-lez-Piéton",
+        "gareFR": "Gouy-lez-Piéton",
+        "code": "FGP"
+    },
+    {
+        "gareNL": "Graide",
+        "gareFR": "Graide",
+        "code": "MGD"
+    },
+    {
+        "gareNL": "Granollers (Contenedores)",
+        "gareFR": "Granollers (Contenedores)",
+        "code": "GRANC"
+    },
+    {
+        "gareNL": "Graz Hbf",
+        "gareFR": "Graz Hbf",
+        "code": "G"
+    },
+    {
+        "gareNL": "Gremberg",
+        "gareFR": "Gremberg",
+        "code": "KG"
+    },
+    {
+        "gareNL": "Grenoble",
+        "gareFR": "Grenoble",
+        "code": "GE"
+    },
+    {
+        "gareNL": "Groenendaal",
+        "gareFR": "Groenendaal",
+        "code": "MDL"
+    },
+    {
+        "gareNL": "Groenenhoek-Wijkbundel",
+        "gareFR": "Groenenhoek-Wijkbundel",
+        "code": "FCVGH"
+    },
+    {
+        "gareNL": "Groot-Bijgaarden",
+        "gareFR": "Groot-Bijgaarden",
+        "code": "MGA"
+    },
+    {
+        "gareNL": "Grupont",
+        "gareFR": "Grupont",
+        "code": "MGP"
+    },
+    {
+        "gareNL": "Grupont-Garage",
+        "gareFR": "Grupont-Garage",
+        "code": "MGPG"
+    },
+    {
+        "gareNL": "Guben",
+        "gareFR": "Guben",
+        "code": "GUBEN"
+    },
+    {
+        "gareNL": "Guignicourt",
+        "gareFR": "Guignicourt",
+        "code": "GUI"
+    },
+    {
+        "gareNL": "Haacht",
+        "gareFR": "Haacht",
+        "code": "FAT"
+    },
+    {
+        "gareNL": "Haacht-Wijkspoor",
+        "gareFR": "Haacht-Wijkspoor",
+        "code": "FATWS"
+    },
+    {
+        "gareNL": "Haaltert",
+        "gareFR": "Haaltert",
+        "code": "FHA"
+    },
+    {
+        "gareNL": "Haarlem",
+        "gareFR": "Haarlem",
+        "code": "HLM"
+    },
+    {
+        "gareNL": "Habay",
+        "gareFR": "Habay",
+        "code": "MHB"
+    },
+    {
+        "gareNL": "Hagen-Halden",
+        "gareFR": "Hagen-Halden",
+        "code": "EHGH"
+    },
+    {
+        "gareNL": "Hagen-Kabel",
+        "gareFR": "Hagen-Kabel",
+        "code": "EHGK"
+    },
+    {
+        "gareNL": "Hagen-Vorhalle",
+        "gareFR": "Hagen-Vorhalle",
+        "code": "EHGV"
+    },
+    {
+        "gareNL": "Hagondange",
+        "gareFR": "Hagondange",
+        "code": "HGD"
+    },
+    {
+        "gareNL": "Hainin",
+        "gareFR": "Hainin",
+        "code": "HAINI"
+    },
+    {
+        "gareNL": "Halanzy",
+        "gareFR": "Halanzy",
+        "code": "MHZ"
+    },
+    {
+        "gareNL": "Halkali",
+        "gareFR": "Halkali",
+        "code": "HALKA"
+    },
+    {
+        "gareNL": "Hall in Tirol",
+        "gareFR": "Hall in Tirol",
+        "code": "H"
+    },
+    {
+        "gareNL": "Halle",
+        "gareFR": "Hal",
+        "code": "FH"
+    },
+    {
+        "gareNL": "Halle-Goederen",
+        "gareFR": "Halle-Goederen",
+        "code": "FHBV"
+    },
+    {
+        "gareNL": "Halle-Ring",
+        "gareFR": "Halle-Ring",
+        "code": "FHRIN"
+    },
+    {
+        "gareNL": "Ham",
+        "gareFR": "Ham",
+        "code": "HAM"
+    },
+    {
+        "gareNL": "Ham-sur-Heure",
+        "gareFR": "Ham-sur-Heure",
+        "code": "LHH"
+    },
+    {
+        "gareNL": "Ham-sur-Sambre",
+        "gareFR": "Ham-sur-Sambre",
+        "code": "MHM"
+    },
+    {
+        "gareNL": "Hambos",
+        "gareFR": "Hambos",
+        "code": "HAMB"
+    },
+    {
+        "gareNL": "Hamburg Hbf",
+        "gareFR": "Hamburg Hbf",
+        "code": "AH"
+    },
+    {
+        "gareNL": "Hamminkeln",
+        "gareFR": "Hamminkeln",
+        "code": "EHK"
+    },
+    {
+        "gareNL": "Hamoir",
+        "gareFR": "Hamoir",
+        "code": "LHM"
+    },
+    {
+        "gareNL": "Hamont",
+        "gareFR": "Hamont",
+        "code": "GHA"
+    },
+    {
+        "gareNL": "Hamont-Grens",
+        "gareFR": "Hamont-Grens",
+        "code": "GHAGR"
+    },
+    {
+        "gareNL": "Hams Hall",
+        "gareFR": "Hams Hall",
+        "code": "HAMSH"
+    },
+    {
+        "gareNL": "Hannover Hbf",
+        "gareFR": "Hannover Hbf",
+        "code": "HH"
+    },
+    {
+        "gareNL": "Hannover-Linden",
+        "gareFR": "Hannover-Linden",
+        "code": "HLI"
+    },
+    {
+        "gareNL": "Hansbeke",
+        "gareFR": "Hansbeke",
+        "code": "FHK"
+    },
+    {
+        "gareNL": "Harchies",
+        "gareFR": "Harchies",
+        "code": "FRH"
+    },
+    {
+        "gareNL": "Harelbeke",
+        "gareFR": "Harelbeke",
+        "code": "FHL"
+    },
+    {
+        "gareNL": "Haren",
+        "gareFR": "Haren",
+        "code": "GHT"
+    },
+    {
+        "gareNL": "Haren-Zuid",
+        "gareFR": "Haren-Sud",
+        "code": "HARZ"
+    },
+    {
+        "gareNL": "Hasselt",
+        "gareFR": "Hasselt",
+        "code": "FHS"
+    },
+    {
+        "gareNL": "Hasselt-Aflos L.35",
+        "gareFR": "Hasselt-Aflos L.35",
+        "code": "WDT35"
+    },
+    {
+        "gareNL": "Hasselt-Aflos L.35/1",
+        "gareFR": "Hasselt-Aflos L.35/1",
+        "code": "FHS35"
+    },
+    {
+        "gareNL": "Hasselt-Afwisseling",
+        "gareFR": "Hasselt-Afwisseling",
+        "code": "FHSA"
+    },
+    {
+        "gareNL": "Hasselt-L.C.I.",
+        "gareFR": "Hasselt-L.C.I.",
+        "code": "FHSL"
+    },
+    {
+        "gareNL": "Hasselt-T.W.",
+        "gareFR": "Hasselt-T.W.",
+        "code": "FHSW"
+    },
+    {
+        "gareNL": "Hatrival",
+        "gareFR": "Hatrival",
+        "code": "MHT"
+    },
+    {
+        "gareNL": "Hausbergen",
+        "gareFR": "Hausbergen",
+        "code": "HN"
+    },
+    {
+        "gareNL": "Haute-Flône",
+        "gareFR": "Haute-Flône",
+        "code": "HAUFL"
+    },
+    {
+        "gareNL": "Hautmont",
+        "gareFR": "Hautmont",
+        "code": "HAT"
+    },
+    {
+        "gareNL": "Haversin",
+        "gareFR": "Haversin",
+        "code": "MHV"
+    },
+    {
+        "gareNL": "Haversin-Garage",
+        "gareFR": "Haversin-Garage",
+        "code": "MHVG"
+    },
+    {
+        "gareNL": "Havinnes",
+        "gareFR": "Havinnes",
+        "code": "FHV"
+    },
+    {
+        "gareNL": "Havré",
+        "gareFR": "Havré",
+        "code": "LHR"
+    },
+    {
+        "gareNL": "Hayettes",
+        "gareFR": "Hayettes",
+        "code": "HAYET"
+    },
+    {
+        "gareNL": "Hegyeshalom",
+        "gareFR": "Hegyeshalom",
+        "code": "HEGYE"
+    },
+    {
+        "gareNL": "Heide",
+        "gareFR": "Heide",
+        "code": "MID"
+    },
+    {
+        "gareNL": "Heike-Rooster K/L/C",
+        "gareFR": "Heike-Rooster K/L/C",
+        "code": "RHKLC"
+    },
+    {
+        "gareNL": "HEILBRONN",
+        "gareFR": "HEILBRONN",
+        "code": "TH"
+    },
+    {
+        "gareNL": "Heist",
+        "gareFR": "Heist",
+        "code": "FHI"
+    },
+    {
+        "gareNL": "Heist-op-den-Berg",
+        "gareFR": "Heist-op-den-Berg",
+        "code": "GHO"
+    },
+    {
+        "gareNL": "Heizijde",
+        "gareFR": "Heizijde",
+        "code": "LEZ"
+    },
+    {
+        "gareNL": "Hellemmes",
+        "gareFR": "Hellemmes",
+        "code": "HEL"
+    },
+    {
+        "gareNL": "Hemiksem",
+        "gareFR": "Hemiksem",
+        "code": "LKM"
+    },
+    {
+        "gareNL": "Hendaye",
+        "gareFR": "Hendaye",
+        "code": "HE"
+    },
+    {
+        "gareNL": "Hennuyères",
+        "gareFR": "Hennuyères",
+        "code": "FNY"
+    },
+    {
+        "gareNL": "Hennuyères-Garage",
+        "gareFR": "Hennuyères-Garage",
+        "code": "FNYG"
+    },
+    {
+        "gareNL": "Herent",
+        "gareFR": "Herent",
+        "code": "FET"
+    },
+    {
+        "gareNL": "Herentals",
+        "gareFR": "Herentals",
+        "code": "FHT"
+    },
+    {
+        "gareNL": "Hergenrath",
+        "gareFR": "Hergenrath",
+        "code": "REG"
+    },
+    {
+        "gareNL": "Hergenrath-Frontière",
+        "gareFR": "Hergenrath-Frontière",
+        "code": "REGFR"
+    },
+    {
+        "gareNL": "Hermalle-sous-Huy",
+        "gareFR": "Hermalle-sous-Huy",
+        "code": "NH"
+    },
+    {
+        "gareNL": "Herne",
+        "gareFR": "Herne",
+        "code": "FRE"
+    },
+    {
+        "gareNL": "Herstal",
+        "gareFR": "Herstal",
+        "code": "LHS"
+    },
+    {
+        "gareNL": "Herzeeuw",
+        "gareFR": "Herseaux",
+        "code": "FXS"
+    },
+    {
+        "gareNL": "Herzele",
+        "gareFR": "Herzele",
+        "code": "FHZ"
+    },
+    {
+        "gareNL": "Heusden",
+        "gareFR": "Heusden",
+        "code": "MHD"
+    },
+    {
+        "gareNL": "Hever",
+        "gareFR": "Hever",
+        "code": "HEVER"
+    },
+    {
+        "gareNL": "Heverlee",
+        "gareFR": "Heverlee",
+        "code": "GHE"
+    },
+    {
+        "gareNL": "Heverlee-Rooster K/L",
+        "gareFR": "Heverlee-Rooster K/L",
+        "code": "GHEKL"
+    },
+    {
+        "gareNL": "Hillegem",
+        "gareFR": "Hillegem",
+        "code": "HILGM"
+    },
+    {
+        "gareNL": "Hoboken-Polder",
+        "gareFR": "Hoboken-Polder",
+        "code": "FOE"
+    },
+    {
+        "gareNL": "Hoegaarden",
+        "gareFR": "Hoegaarden",
+        "code": "RHD"
+    },
+    {
+        "gareNL": "Hoei",
+        "gareFR": "Huy",
+        "code": "LY"
+    },
+    {
+        "gareNL": "Hoeilaart",
+        "gareFR": "Hoeilaart",
+        "code": "FOY"
+    },
+    {
+        "gareNL": "Hofstade",
+        "gareFR": "Hofstade",
+        "code": "FHF"
+    },
+    {
+        "gareNL": "Holleken",
+        "gareFR": "Holleken",
+        "code": "HOLKN"
+    },
+    {
+        "gareNL": "Hollerich",
+        "gareFR": "Hollerich",
+        "code": "XLLH"
+    },
+    {
+        "gareNL": "Hony",
+        "gareFR": "Hony",
+        "code": "HONY"
+    },
+    {
+        "gareNL": "Hoofddorp",
+        "gareFR": "Hoofddorp",
+        "code": "HFD"
+    },
+    {
+        "gareNL": "Hooglede-Gits",
+        "gareFR": "Hooglede-Gits",
+        "code": "LIG"
+    },
+    {
+        "gareNL": "Hopfgarten im Brixemtal",
+        "gareFR": "Hopfgarten im Brixemtal",
+        "code": "HP"
+    },
+    {
+        "gareNL": "Horka Grenze",
+        "gareFR": "Horka Grenze",
+        "code": "BXH"
+    },
+    {
+        "gareNL": "Houraing",
+        "gareFR": "Houraing",
+        "code": "HOURG"
+    },
+    {
+        "gareNL": "Hourpes",
+        "gareFR": "Hourpes",
+        "code": "HOURP"
+    },
+    {
+        "gareNL": "Houyet",
+        "gareFR": "Houyet",
+        "code": "MHY"
+    },
+    {
+        "gareNL": "Hove",
+        "gareFR": "Hove",
+        "code": "MHO"
+    },
+    {
+        "gareNL": "Huizingen",
+        "gareFR": "Huizingen",
+        "code": "HUIZ"
+    },
+    {
+        "gareNL": "Iddergem",
+        "gareFR": "Iddergem",
+        "code": "IDDGM"
+    },
+    {
+        "gareNL": "Idegem",
+        "gareFR": "Idegem",
+        "code": "FID"
+    },
+    {
+        "gareNL": "Ieper",
+        "gareFR": "Ypres",
+        "code": "FI"
+    },
+    {
+        "gareNL": "Ieper-Goederen",
+        "gareFR": "Ieper-Goederen",
+        "code": "FIV"
+    },
+    {
+        "gareNL": "Illingen (Württ)",
+        "gareFR": "Illingen (Württ)",
+        "code": "TIL"
+    },
+    {
+        "gareNL": "Ingelmunster",
+        "gareFR": "Ingelmunster",
+        "code": "FNM"
+    },
+    {
+        "gareNL": "Ingolstadt Nord",
+        "gareFR": "Ingolstadt Nord",
+        "code": "MIN"
+    },
+    {
+        "gareNL": "Innsbruck Hbf",
+        "gareFR": "Innsbruck Hbf",
+        "code": "I"
+    },
+    {
+        "gareNL": "Interlaken-Ost",
+        "gareFR": "Interlaken-Ost",
+        "code": "IO"
+    },
+    {
+        "gareNL": "Interlaken-West",
+        "gareFR": "Interlaken-West",
+        "code": "IW"
+    },
+    {
+        "gareNL": "Irun",
+        "gareFR": "Irun",
+        "code": "IRUN"
+    },
+    {
+        "gareNL": "Irvine",
+        "gareFR": "Irvine",
+        "code": "IRV"
+    },
+    {
+        "gareNL": "Isbergues",
+        "gareFR": "Isbergues",
+        "code": "ISBER"
+    },
+    {
+        "gareNL": "Issoudun",
+        "gareFR": "Issoudun",
+        "code": "IS"
+    },
+    {
+        "gareNL": "Izegem",
+        "gareFR": "Izegem",
+        "code": "LZG"
+    },
+    {
+        "gareNL": "Izegem-Wijkspoor",
+        "gareFR": "Izegem-Wijkspoor",
+        "code": "LZGG"
+    },
+    {
+        "gareNL": "Jabbeke",
+        "gareFR": "Jabbeke",
+        "code": "FGB"
+    },
+    {
+        "gareNL": "Jambes",
+        "gareFR": "Jambes",
+        "code": "NJ"
+    },
+    {
+        "gareNL": "Jambes-Oost",
+        "gareFR": "Jambes-Est",
+        "code": "NJEST"
+    },
+    {
+        "gareNL": "Jamioulx",
+        "gareFR": "Jamioulx",
+        "code": "GJ"
+    },
+    {
+        "gareNL": "Java",
+        "gareFR": "Java",
+        "code": "JAVA"
+    },
+    {
+        "gareNL": "Jemappes",
+        "gareFR": "Jemappes",
+        "code": "FJM"
+    },
+    {
+        "gareNL": "Jemelle",
+        "gareFR": "Jemelle",
+        "code": "LJ"
+    },
+    {
+        "gareNL": "Jemeppe-Froidmont",
+        "gareFR": "Jemeppe-Froidmont",
+        "code": "LJF"
+    },
+    {
+        "gareNL": "Jemeppe-sur-Meuse",
+        "gareFR": "Jemeppe-sur-Meuse",
+        "code": "LJP"
+    },
+    {
+        "gareNL": "Jemeppe-sur-Sambre",
+        "gareFR": "Jemeppe-sur-Sambre",
+        "code": "FJS"
+    },
+    {
+        "gareNL": "Jemeppe-sur-Sambre-Marchandise",
+        "gareFR": "Jemeppe-sur-Sambre-Marchandise",
+        "code": "FJSMA"
+    },
+    {
+        "gareNL": "Jette",
+        "gareFR": "Jette",
+        "code": "FJT"
+    },
+    {
+        "gareNL": "Jeumont",
+        "gareFR": "Jeumont",
+        "code": "JT"
+    },
+    {
+        "gareNL": "Jonction du Lion d'or",
+        "gareFR": "Jonction du Lion d'or",
+        "code": "JLDOR"
+    },
+    {
+        "gareNL": "Jupille",
+        "gareFR": "Jupille",
+        "code": "FJ"
+    },
+    {
+        "gareNL": "Jurbeke",
+        "gareFR": "Jurbise",
+        "code": "FJR"
+    },
+    {
+        "gareNL": "Juslenville",
+        "gareFR": "Juslenville",
+        "code": "FJL"
+    },
+    {
+        "gareNL": "Kalmthout",
+        "gareFR": "Kalmthout",
+        "code": "FKTH"
+    },
+    {
+        "gareNL": "Kapelle-op-den-Bos",
+        "gareFR": "Kapelle-op-den-Bos",
+        "code": "FKP"
+    },
+    {
+        "gareNL": "Kapelle-op-den-Bos-Zeekanaal",
+        "gareFR": "Kapelle-op-den-Bos-Zeekanaal",
+        "code": "FKPZK"
+    },
+    {
+        "gareNL": "Kapellen",
+        "gareFR": "Kapellen",
+        "code": "LKP"
+    },
+    {
+        "gareNL": "Kassel Rbf",
+        "gareFR": "Kassel Rbf",
+        "code": "FKRBF"
+    },
+    {
+        "gareNL": "Katy Wroclawskie",
+        "gareFR": "Katy Wroclawskie",
+        "code": "KATYW"
+    },
+    {
+        "gareNL": "Kautenbach",
+        "gareFR": "Kautenbach",
+        "code": "XLKT"
+    },
+    {
+        "gareNL": "Kessel",
+        "gareFR": "Kessel",
+        "code": "LEK"
+    },
+    {
+        "gareNL": "Kiewit",
+        "gareFR": "Kiewit",
+        "code": "KIEWI"
+    },
+    {
+        "gareNL": "Kijfhoek",
+        "gareFR": "Kijfhoek",
+        "code": "KFH"
+    },
+    {
+        "gareNL": "Kijkuit",
+        "gareFR": "Kijkuit",
+        "code": "GKT"
+    },
+    {
+        "gareNL": "Kinkempois-A.T.",
+        "gareFR": "Kinkempois-A.T.",
+        "code": "NKA"
+    },
+    {
+        "gareNL": "Kinkempois-Block 2",
+        "gareFR": "Kinkempois-Block 2",
+        "code": "NK2"
+    },
+    {
+        "gareNL": "Kinkempois-Formation",
+        "gareFR": "Kinkempois-Formation",
+        "code": "NK"
+    },
+    {
+        "gareNL": "Kinkempois-Relais",
+        "gareFR": "Kinkempois-Relais",
+        "code": "NKREL"
+    },
+    {
+        "gareNL": "Kirchberg in Tirol",
+        "gareFR": "Kirchberg in Tirol",
+        "code": "KIT"
+    },
+    {
+        "gareNL": "Kitzbühel",
+        "gareFR": "Kitzbühel",
+        "code": "KZB"
+    },
+    {
+        "gareNL": "Klabbeek",
+        "gareFR": "Clabecq",
+        "code": "FEQ"
+    },
+    {
+        "gareNL": "Kleinbettingen",
+        "gareFR": "Kleinbettingen",
+        "code": "XLKB"
+    },
+    {
+        "gareNL": "Kloosterheide",
+        "gareFR": "Kloosterheide",
+        "code": "KLHEI"
+    },
+    {
+        "gareNL": "Knokke",
+        "gareFR": "Knokke",
+        "code": "FKK"
+    },
+    {
+        "gareNL": "Koksijde",
+        "gareFR": "Koksijde",
+        "code": "MX"
+    },
+    {
+        "gareNL": "Kolin",
+        "gareFR": "Kolin",
+        "code": "KOLIN"
+    },
+    {
+        "gareNL": "Komen",
+        "gareFR": "Comines",
+        "code": "FOI"
+    },
+    {
+        "gareNL": "Kontich",
+        "gareFR": "Kontich",
+        "code": "FKI"
+    },
+    {
+        "gareNL": "Kortemark",
+        "gareFR": "Kortemark",
+        "code": "FTK"
+    },
+    {
+        "gareNL": "Kortenberg",
+        "gareFR": "Kortenberg",
+        "code": "FTB"
+    },
+    {
+        "gareNL": "Kortenberg-Goederen",
+        "gareFR": "Kortenberg-Goederen",
+        "code": "FTBG"
+    },
+    {
+        "gareNL": "Kortrijk",
+        "gareFR": "Courtrai",
+        "code": "LK"
+    },
+    {
+        "gareNL": "Kortrijk-Goederen",
+        "gareFR": "Kortrijk-Goederen",
+        "code": "LKV"
+    },
+    {
+        "gareNL": "Kortrijk-Ringlaan",
+        "gareFR": "Kortrijk-Ringlaan",
+        "code": "LKRLN"
+    },
+    {
+        "gareNL": "Kortrijk-T.O.P.",
+        "gareFR": "Kortrijk-T.O.P.",
+        "code": "LKOP"
+    },
+    {
+        "gareNL": "Krzewie",
+        "gareFR": "Krzewie",
+        "code": "KRZEW"
+    },
+    {
+        "gareNL": "Kufstein",
+        "gareFR": "Kufstein",
+        "code": "K"
+    },
+    {
+        "gareNL": "Kuregem-Doodspoor",
+        "gareFR": "Cureghem-Cul de Sac",
+        "code": "FBCM"
+    },
+    {
+        "gareNL": "Kutnow",
+        "gareFR": "Kutnow",
+        "code": "KUTNO"
+    },
+    {
+        "gareNL": "Kwatrecht",
+        "gareFR": "Kwatrecht",
+        "code": "FQT"
+    },
+    {
+        "gareNL": "Köbenhavn",
+        "gareFR": "Köbenhavn",
+        "code": "KOBN"
+    },
+    {
+        "gareNL": "Köln Hbf",
+        "gareFR": "Köln Hbf",
+        "code": "KOLN"
+    },
+    {
+        "gareNL": "Köln-Deutz",
+        "gareFR": "Köln-Deutz",
+        "code": "KOLND"
+    },
+    {
+        "gareNL": "Köln-Eifeltor Ubf",
+        "gareFR": "Köln-Eifeltor Ubf",
+        "code": "KKEU"
+    },
+    {
+        "gareNL": "Köln-Kalk",
+        "gareFR": "Köln-Kalk",
+        "code": "KKA"
+    },
+    {
+        "gareNL": "Köln-Niehl Hafen Ubf",
+        "gareFR": "Köln-Niehl Hafen Ubf",
+        "code": "KKNH"
+    },
+    {
+        "gareNL": "Köln/Bonn Flughafen",
+        "gareFR": "Köln/Bonn Flughafen",
+        "code": "KFKB"
+    },
+    {
+        "gareNL": "La Louvière-Centrum",
+        "gareFR": "La Louvière-Centre",
+        "code": "LVR"
+    },
+    {
+        "gareNL": "La Louvière-Industriestation",
+        "gareFR": "La Louvière-Gare Industrielle",
+        "code": "GLI"
+    },
+    {
+        "gareNL": "La Louvière-Zuid",
+        "gareFR": "La Louvière-Sud",
+        "code": "LVRS"
+    },
+    {
+        "gareNL": "La Roche (Brabant)",
+        "gareFR": "La Roche (Brabant)",
+        "code": "GLR"
+    },
+    {
+        "gareNL": "La Sambre",
+        "gareFR": "La Sambre",
+        "code": "LLS"
+    },
+    {
+        "gareNL": "Labuissière",
+        "gareFR": "Labuissière",
+        "code": "NLB"
+    },
+    {
+        "gareNL": "Lage Zwaluwe",
+        "gareFR": "Lage Zwaluwe",
+        "code": "ZLW"
+    },
+    {
+        "gareNL": "Lamadeleine",
+        "gareFR": "Lamadeleine",
+        "code": "XLLMD"
+    },
+    {
+        "gareNL": "Lanaken",
+        "gareFR": "Lanaken",
+        "code": "GLK"
+    },
+    {
+        "gareNL": "Lanaken-Grens",
+        "gareFR": "Lanaken-Grens",
+        "code": "GLKGR"
+    },
+    {
+        "gareNL": "Landegem",
+        "gareFR": "Landegem",
+        "code": "FLM"
+    },
+    {
+        "gareNL": "Landelies",
+        "gareFR": "Landelies",
+        "code": "NL"
+    },
+    {
+        "gareNL": "Landen",
+        "gareFR": "Landen",
+        "code": "FLD"
+    },
+    {
+        "gareNL": "Landquart",
+        "gareFR": "Landquart",
+        "code": "LQ"
+    },
+    {
+        "gareNL": "Landry",
+        "gareFR": "Landry",
+        "code": "LAY"
+    },
+    {
+        "gareNL": "Landskouter",
+        "gareFR": "Landskouter",
+        "code": "LNDKO"
+    },
+    {
+        "gareNL": "Langdorp",
+        "gareFR": "Langdorp",
+        "code": "LGDRP"
+    },
+    {
+        "gareNL": "Langerbrugge",
+        "gareFR": "Langerbrugge",
+        "code": "LGBG"
+    },
+    {
+        "gareNL": "Laroche-Migennes",
+        "gareFR": "Laroche-Migennes",
+        "code": "LAR"
+    },
+    {
+        "gareNL": "Lauwe",
+        "gareFR": "Lauwe",
+        "code": "FWU"
+    },
+    {
+        "gareNL": "Lauwe-L.A.R.",
+        "gareFR": "Lauwe-L.A.R.",
+        "code": "FWULR"
+    },
+    {
+        "gareNL": "Lavaux",
+        "gareFR": "Lavaux",
+        "code": "MLV"
+    },
+    {
+        "gareNL": "Le Blanc-Mesnil",
+        "gareFR": "Le Blanc-Mesnil",
+        "code": "BMESN"
+    },
+    {
+        "gareNL": "Le Boulou-Perthus",
+        "gareFR": "Le Boulou-Perthus",
+        "code": "LBP"
+    },
+    {
+        "gareNL": "Le Bourget",
+        "gareFR": "Le Bourget",
+        "code": "LBT"
+    },
+    {
+        "gareNL": "Le Campinaire",
+        "gareFR": "Le Campinaire",
+        "code": "FRC"
+    },
+    {
+        "gareNL": "Le Coucou-Base LGV",
+        "gareFR": "Le Coucou-Base LGV",
+        "code": "LECOU"
+    },
+    {
+        "gareNL": "Le Creusot-Montceau TGV",
+        "gareFR": "Le Creusot-Montceau TGV",
+        "code": "LCM"
+    },
+    {
+        "gareNL": "Le Landy-A.T.-TGV",
+        "gareFR": "Le Landy-A.T.-TGV",
+        "code": "LDXAT"
+    },
+    {
+        "gareNL": "Lebbeke",
+        "gareFR": "Lebbeke",
+        "code": "FEK"
+    },
+    {
+        "gareNL": "Lede",
+        "gareFR": "Lede",
+        "code": "FLE"
+    },
+    {
+        "gareNL": "Leffrinckoucke",
+        "gareFR": "Leffrinckoucke",
+        "code": "LNK"
+    },
+    {
+        "gareNL": "Leiden Centraal",
+        "gareFR": "Leiden Centraal",
+        "code": "LEDN"
+    },
+    {
+        "gareNL": "Leignon",
+        "gareFR": "Leignon",
+        "code": "MLG"
+    },
+    {
+        "gareNL": "Leman",
+        "gareFR": "Leman",
+        "code": "LEMAN"
+    },
+    {
+        "gareNL": "Lembeek",
+        "gareFR": "Lembeek",
+        "code": "FLB"
+    },
+    {
+        "gareNL": "Lembeek-Signaux PT/QT/RT",
+        "gareFR": "Lembeek-Signaux PT/QT/RT",
+        "code": "FLBPQ"
+    },
+    {
+        "gareNL": "Lens",
+        "gareFR": "Lens",
+        "code": "FNE"
+    },
+    {
+        "gareNL": "Lenzburg",
+        "gareFR": "Lenzburg",
+        "code": "LB"
+    },
+    {
+        "gareNL": "Leopoldsburg",
+        "gareFR": "Bourg-Léopold",
+        "code": "LBG"
+    },
+    {
+        "gareNL": "Les Arcs Draguignan",
+        "gareFR": "Les Arcs Draguignan",
+        "code": "LAC"
+    },
+    {
+        "gareNL": "Lessen",
+        "gareFR": "Lessines",
+        "code": "FLN"
+    },
+    {
+        "gareNL": "Leudelange",
+        "gareFR": "Leudelange",
+        "code": "XLLD"
+    },
+    {
+        "gareNL": "Leupegem-Seinen SL9-TL9",
+        "gareFR": "Leupegem-Seinen SL9-TL9",
+        "code": "FPG"
+    },
+    {
+        "gareNL": "Leuven",
+        "gareFR": "Louvain",
+        "code": "FLV"
+    },
+    {
+        "gareNL": "Leuven-Bundel M",
+        "gareFR": "Leuven-Bundel M",
+        "code": "FLVV"
+    },
+    {
+        "gareNL": "Leuven-Bundel P",
+        "gareFR": "Leuven-Bundel P",
+        "code": "FLVP"
+    },
+    {
+        "gareNL": "Leuven-Bundel Q",
+        "gareFR": "Leuven-Bundel Q",
+        "code": "FLVQ"
+    },
+    {
+        "gareNL": "Leuven-EBP sporen 471/472",
+        "gareFR": "Leuven-EBP sporen 471/472",
+        "code": "FLVEB"
+    },
+    {
+        "gareNL": "Leuze",
+        "gareFR": "Leuze",
+        "code": "FLZ"
+    },
+    {
+        "gareNL": "Leval",
+        "gareFR": "Leval",
+        "code": "LVL"
+    },
+    {
+        "gareNL": "Lezennes",
+        "gareFR": "Lezennes",
+        "code": "LZS"
+    },
+    {
+        "gareNL": "Libourne",
+        "gareFR": "Libourne",
+        "code": "LI"
+    },
+    {
+        "gareNL": "Libramont",
+        "gareFR": "Libramont",
+        "code": "LRB"
+    },
+    {
+        "gareNL": "Lichtervelde",
+        "gareFR": "Lichtervelde",
+        "code": "FLC"
+    },
+    {
+        "gareNL": "Liedekerke",
+        "gareFR": "Liedekerke",
+        "code": "LKD"
+    },
+    {
+        "gareNL": "Lier",
+        "gareFR": "Lierre",
+        "code": "FLR"
+    },
+    {
+        "gareNL": "Lier-Rooster C/G",
+        "gareFR": "Lier-Rooster C/G",
+        "code": "FLRCG"
+    },
+    {
+        "gareNL": "Lier-Rooster D/E",
+        "gareFR": "Lier-Rooster D/E",
+        "code": "FLRDE"
+    },
+    {
+        "gareNL": "Lierde",
+        "gareFR": "Lierde",
+        "code": "FRD"
+    },
+    {
+        "gareNL": "Liers",
+        "gareFR": "Liers",
+        "code": "LSL"
+    },
+    {
+        "gareNL": "Liers-Faisceau",
+        "gareFR": "Liers-Faisceau",
+        "code": "LSLF"
+    },
+    {
+        "gareNL": "Liestal",
+        "gareFR": "Liestal",
+        "code": "LST"
+    },
+    {
+        "gareNL": "Ligny",
+        "gareFR": "Ligny",
+        "code": "FGY"
+    },
+    {
+        "gareNL": "Lijn 36/1-Spoor 059",
+        "gareFR": "Ligne 36/1-Voie 059",
+        "code": "SP059"
+    },
+    {
+        "gareNL": "Lille Flandres",
+        "gareFR": "Lille Flandres",
+        "code": "LE"
+    },
+    {
+        "gareNL": "Lille-Champs de Mars",
+        "gareFR": "Lille-Champs de Mars",
+        "code": "LCDM"
+    },
+    {
+        "gareNL": "Lille-Délivrance",
+        "gareFR": "Lille-Délivrance",
+        "code": "LDV"
+    },
+    {
+        "gareNL": "Lille-Europe",
+        "gareFR": "Lille-Europe",
+        "code": "LEW"
+    },
+    {
+        "gareNL": "Lillois",
+        "gareFR": "Lillois",
+        "code": "FOL"
+    },
+    {
+        "gareNL": "Limal",
+        "gareFR": "Limal",
+        "code": "GLM"
+    },
+    {
+        "gareNL": "Limburg Süd",
+        "gareFR": "Limburg Süd",
+        "code": "FLIS"
+    },
+    {
+        "gareNL": "Linkebeek",
+        "gareFR": "Linkebeek",
+        "code": "LKN"
+    },
+    {
+        "gareNL": "Linz Hbf",
+        "gareFR": "Linz Hbf",
+        "code": "LZ"
+    },
+    {
+        "gareNL": "Linz Voestalpine",
+        "gareFR": "Linz Voestalpine",
+        "code": "XALS"
+    },
+    {
+        "gareNL": "Lissewege",
+        "gareFR": "Lissewege",
+        "code": "FLW"
+    },
+    {
+        "gareNL": "Liège-Guillemins-Faisceau",
+        "gareFR": "Liège-Guillemins-Faisceau",
+        "code": "FL4"
+    },
+    {
+        "gareNL": "Liège-Plans",
+        "gareFR": "Liège-Plans",
+        "code": "GFLPL"
+    },
+    {
+        "gareNL": "Ljubljana KT",
+        "gareFR": "Ljubljana KT",
+        "code": "LJUBL"
+    },
+    {
+        "gareNL": "Lobbes",
+        "gareFR": "Lobbes",
+        "code": "NLS"
+    },
+    {
+        "gareNL": "Lobbes-Garage",
+        "gareFR": "Lobbes-Garage",
+        "code": "NLSG"
+    },
+    {
+        "gareNL": "Lodelinsart",
+        "gareFR": "Lodelinsart",
+        "code": "LDS"
+    },
+    {
+        "gareNL": "Lokeren",
+        "gareFR": "Lokeren",
+        "code": "FLK"
+    },
+    {
+        "gareNL": "Lokeren-Oost",
+        "gareFR": "Lokeren-Oost",
+        "code": "FLKO"
+    },
+    {
+        "gareNL": "Lommel",
+        "gareFR": "Lommel",
+        "code": "LOL"
+    },
+    {
+        "gareNL": "Lonato",
+        "gareFR": "Lonato",
+        "code": "LONAT"
+    },
+    {
+        "gareNL": "Londerzeel",
+        "gareFR": "Londerzeel",
+        "code": "FZL"
+    },
+    {
+        "gareNL": "London-St-Pancras Intl",
+        "gareFR": "London-St-Pancras Intl",
+        "code": "STP"
+    },
+    {
+        "gareNL": "London-Waterloo",
+        "gareFR": "London-Waterloo",
+        "code": "WAT"
+    },
+    {
+        "gareNL": "Longuyon",
+        "gareFR": "Longuyon",
+        "code": "LGN"
+    },
+    {
+        "gareNL": "Lonzée",
+        "gareFR": "Lonzée",
+        "code": "MLZ"
+    },
+    {
+        "gareNL": "Lot",
+        "gareFR": "Lot",
+        "code": "LOT"
+    },
+    {
+        "gareNL": "Lourdes",
+        "gareFR": "Lourdes",
+        "code": "LD"
+    },
+    {
+        "gareNL": "Louvain-la-Neuve-Universiteit",
+        "gareFR": "Louvain-la-Neuve-Université",
+        "code": "LNO"
+    },
+    {
+        "gareNL": "Lovosice",
+        "gareFR": "Lovosice",
+        "code": "LOVOS"
+    },
+    {
+        "gareNL": "Luchtbal-Blok 8",
+        "gareFR": "Luchtbal-Blok 8",
+        "code": "BLOK8"
+    },
+    {
+        "gareNL": "Luchtbal-Wijkbundel",
+        "gareFR": "Luchtbal-Wijkbundel",
+        "code": "LB"
+    },
+    {
+        "gareNL": "Ludwigshafen(Rh) Rhb",
+        "gareFR": "Ludwigshafen(Rh) Rhb",
+        "code": "RLHR"
+    },
+    {
+        "gareNL": "Lugo",
+        "gareFR": "Lugo",
+        "code": "LUGO"
+    },
+    {
+        "gareNL": "Luik-Guillemins",
+        "gareFR": "Liège-Guillemins",
+        "code": "FL"
+    },
+    {
+        "gareNL": "Luik-Jonfosse",
+        "gareFR": "Liège-Jonfosse",
+        "code": "FLJON"
+    },
+    {
+        "gareNL": "Luik-Paleis",
+        "gareFR": "Liège-Palais",
+        "code": "FLGP"
+    },
+    {
+        "gareNL": "Luino",
+        "gareFR": "Luino",
+        "code": "LUINO"
+    },
+    {
+        "gareNL": "Lupfig",
+        "gareFR": "Lupfig",
+        "code": "LPFIG"
+    },
+    {
+        "gareNL": "Lustin",
+        "gareFR": "Lustin",
+        "code": "NLT"
+    },
+    {
+        "gareNL": "Luttre",
+        "gareFR": "Luttre",
+        "code": "FLU"
+    },
+    {
+        "gareNL": "Luxembourg-A.T.",
+        "gareFR": "Luxembourg-A.T.",
+        "code": "XLLAT"
+    },
+    {
+        "gareNL": "Luxembourg-Triage",
+        "gareFR": "Luxembourg-Triage",
+        "code": "XLLTR"
+    },
+    {
+        "gareNL": "Luxemburg",
+        "gareFR": "Luxembourg",
+        "code": "XLL"
+    },
+    {
+        "gareNL": "Lyon-Guillotière",
+        "gareFR": "Lyon-Guillotière",
+        "code": "LN"
+    },
+    {
+        "gareNL": "Lyon-Part-Dieu",
+        "gareFR": "Lyon-Part-Dieu",
+        "code": "LYD"
+    },
+    {
+        "gareNL": "Lyon-Perrache",
+        "gareFR": "Lyon-Perrache",
+        "code": "LPR"
+    },
+    {
+        "gareNL": "Lyon-Saint-Exupéry TGV",
+        "gareFR": "Lyon-Saint-Exupéry TGV",
+        "code": "SXA"
+    },
+    {
+        "gareNL": "Lérouville",
+        "gareFR": "Lérouville",
+        "code": "LER"
+    },
+    {
+        "gareNL": "Maastricht",
+        "gareFR": "Maastricht",
+        "code": "MT"
+    },
+    {
+        "gareNL": "Maastricht Randwyck",
+        "gareFR": "Maastricht Randwyck",
+        "code": "MTR"
+    },
+    {
+        "gareNL": "Machelen",
+        "gareFR": "Machelen",
+        "code": "FMCH"
+    },
+    {
+        "gareNL": "Macon Port Fluvial",
+        "gareFR": "Macon Port Fluvial",
+        "code": "MACPF"
+    },
+    {
+        "gareNL": "Madrid-Abronigal (CT)",
+        "gareFR": "Madrid-Abronigal (CT)",
+        "code": "MDABR"
+    },
+    {
+        "gareNL": "Maffle",
+        "gareFR": "Maffle",
+        "code": "FFA"
+    },
+    {
+        "gareNL": "Maienfeld",
+        "gareFR": "Maienfeld",
+        "code": "MF"
+    },
+    {
+        "gareNL": "Malderen",
+        "gareFR": "Malderen",
+        "code": "FMD"
+    },
+    {
+        "gareNL": "Malmö",
+        "gareFR": "Malmö",
+        "code": "M"
+    },
+    {
+        "gareNL": "Mamer",
+        "gareFR": "Mamer",
+        "code": "XLMR"
+    },
+    {
+        "gareNL": "Mamer-Lycée",
+        "gareFR": "Mamer-Lycée",
+        "code": "XLMY"
+    },
+    {
+        "gareNL": "Manage",
+        "gareFR": "Manage",
+        "code": "FMN"
+    },
+    {
+        "gareNL": "Manchester Trafford Park",
+        "gareFR": "Manchester Trafford Park",
+        "code": "TRA"
+    },
+    {
+        "gareNL": "Mannheim Rbf BW 2",
+        "gareFR": "Mannheim Rbf BW 2",
+        "code": "RMR"
+    },
+    {
+        "gareNL": "Mannheim-Rheinau",
+        "gareFR": "Mannheim-Rheinau",
+        "code": "RMA"
+    },
+    {
+        "gareNL": "Marbehan",
+        "gareFR": "Marbehan",
+        "code": "LMH"
+    },
+    {
+        "gareNL": "Marche-en-Famenne",
+        "gareFR": "Marche-en-Famenne",
+        "code": "MCH"
+    },
+    {
+        "gareNL": "Marche-les-Dames",
+        "gareFR": "Marche-les-Dames",
+        "code": "NMD"
+    },
+    {
+        "gareNL": "Marche-les-Dames-Marchandises",
+        "gareFR": "Marche-les-Dames-Marchandises",
+        "code": "NMDMA"
+    },
+    {
+        "gareNL": "Marche-lez-Ecaussinnes",
+        "gareFR": "Marche-lez-Ecaussinnes",
+        "code": "FCZ"
+    },
+    {
+        "gareNL": "Marchienne-au-Pont",
+        "gareFR": "Marchienne-au-Pont",
+        "code": "FMR"
+    },
+    {
+        "gareNL": "Marchienne-Groupe Nord",
+        "gareFR": "Marchienne-Groupe Nord",
+        "code": "FMRN"
+    },
+    {
+        "gareNL": "Marchienne-Zone",
+        "gareFR": "Marchienne-Zone",
+        "code": "NZ"
+    },
+    {
+        "gareNL": "Marchin",
+        "gareFR": "Marchin",
+        "code": "LAC"
+    },
+    {
+        "gareNL": "Marcinelle",
+        "gareFR": "Marcinelle",
+        "code": "FMI"
+    },
+    {
+        "gareNL": "Maria-Aalter",
+        "gareFR": "Maria-Aalter",
+        "code": "FIA"
+    },
+    {
+        "gareNL": "Mariembourg",
+        "gareFR": "Mariembourg",
+        "code": "LMG"
+    },
+    {
+        "gareNL": "Marloie",
+        "gareFR": "Marloie",
+        "code": "MML"
+    },
+    {
+        "gareNL": "Marne-la-Vallée-Chessy",
+        "gareFR": "Marne-la-Vallée-Chessy",
+        "code": "MVC"
+    },
+    {
+        "gareNL": "Marseille-Saint-Charles",
+        "gareFR": "Marseille-Saint-Charles",
+        "code": "MSC"
+    },
+    {
+        "gareNL": "Maschen Rbf",
+        "gareFR": "Maschen Rbf",
+        "code": "AM"
+    },
+    {
+        "gareNL": "Masnuy-Saint-Pierre",
+        "gareFR": "Masnuy-Saint-Pierre",
+        "code": "FYP"
+    },
+    {
+        "gareNL": "Massy TGV",
+        "gareFR": "Massy TGV",
+        "code": "MPW"
+    },
+    {
+        "gareNL": "Maubeuge",
+        "gareFR": "Maubeuge",
+        "code": "MBG"
+    },
+    {
+        "gareNL": "Maubray",
+        "gareFR": "Maubray",
+        "code": "MAU"
+    },
+    {
+        "gareNL": "Maulusmühle",
+        "gareFR": "Maulusmühle",
+        "code": "XLML"
+    },
+    {
+        "gareNL": "Mazy",
+        "gareFR": "Mazy",
+        "code": "FZY"
+    },
+    {
+        "gareNL": "Mechelen",
+        "gareFR": "Malines",
+        "code": "FM"
+    },
+    {
+        "gareNL": "Mechelen-C.W.",
+        "gareFR": "Mechelen-C.W.",
+        "code": "FMW"
+    },
+    {
+        "gareNL": "Mechelen-Dijkstraat",
+        "gareFR": "Mechelen-Dijkstraat",
+        "code": "FMDST"
+    },
+    {
+        "gareNL": "Mechelen-Nekkerspoel",
+        "gareFR": "Malines-Nekkerspoel",
+        "code": "LNK"
+    },
+    {
+        "gareNL": "Meer-Grens",
+        "gareFR": "Meer-Grens",
+        "code": "MEEGR"
+    },
+    {
+        "gareNL": "Meerhout-W.C.T.",
+        "gareFR": "Meerhout-W.C.T.",
+        "code": "MHWCT"
+    },
+    {
+        "gareNL": "Meiser",
+        "gareFR": "Meiser",
+        "code": "MEISR"
+    },
+    {
+        "gareNL": "Melkouwen",
+        "gareFR": "Melkouwen",
+        "code": "MWC"
+    },
+    {
+        "gareNL": "Melle",
+        "gareFR": "Melle",
+        "code": "FML"
+    },
+    {
+        "gareNL": "Melnik",
+        "gareFR": "Melnik",
+        "code": "MELNI"
+    },
+    {
+        "gareNL": "Melreux-Hotton",
+        "gareFR": "Melreux-Hotton",
+        "code": "MLR"
+    },
+    {
+        "gareNL": "Melsele",
+        "gareFR": "Melsele",
+        "code": "LM"
+    },
+    {
+        "gareNL": "Melzo",
+        "gareFR": "Melzo",
+        "code": "MELZO"
+    },
+    {
+        "gareNL": "Menen",
+        "gareFR": "Menin",
+        "code": "FME"
+    },
+    {
+        "gareNL": "Merchtem",
+        "gareFR": "Merchtem",
+        "code": "FMHT"
+    },
+    {
+        "gareNL": "Merelbeke",
+        "gareFR": "Merelbeke",
+        "code": "FKR"
+    },
+    {
+        "gareNL": "Merelbeke-C.H.W.",
+        "gareFR": "Merelbeke-C.H.W.",
+        "code": "FKRCH"
+    },
+    {
+        "gareNL": "Merelbeke-Centraal",
+        "gareFR": "Merelbeke-Centraal",
+        "code": "FKRCL"
+    },
+    {
+        "gareNL": "Merelbeke-Rooster S",
+        "gareFR": "Merelbeke-Rooster S",
+        "code": "RFKRS"
+    },
+    {
+        "gareNL": "Merelbeke-Rooster T",
+        "gareFR": "Merelbeke-Rooster T",
+        "code": "RFKRT"
+    },
+    {
+        "gareNL": "Merelbeke-Sas T.W.",
+        "gareFR": "Merelbeke-Sas T.W.",
+        "code": "FKRSW"
+    },
+    {
+        "gareNL": "Merelbeke-T.W.",
+        "gareFR": "Merelbeke-T.W.",
+        "code": "FKRW"
+    },
+    {
+        "gareNL": "Mersch",
+        "gareFR": "Mersch",
+        "code": "XLM"
+    },
+    {
+        "gareNL": "Messancy",
+        "gareFR": "Messancy",
+        "code": "MY"
+    },
+    {
+        "gareNL": "Metz-Sablon",
+        "gareFR": "Metz-Sablon",
+        "code": "MZS"
+    },
+    {
+        "gareNL": "Metz-Ville",
+        "gareFR": "Metz-Ville",
+        "code": "MZ"
+    },
+    {
+        "gareNL": "Michelau",
+        "gareFR": "Michelau",
+        "code": "XLMC"
+    },
+    {
+        "gareNL": "Milano",
+        "gareFR": "Milano",
+        "code": "MILAN"
+    },
+    {
+        "gareNL": "Millingen Solvay",
+        "gareFR": "Millingen Solvay",
+        "code": "KMILS"
+    },
+    {
+        "gareNL": "Milmort",
+        "gareFR": "Milmort",
+        "code": "LTM"
+    },
+    {
+        "gareNL": "Mirwart-Block 66",
+        "gareFR": "Mirwart-Block 66",
+        "code": "BL66"
+    },
+    {
+        "gareNL": "Misburg",
+        "gareFR": "Misburg",
+        "code": "HMI"
+    },
+    {
+        "gareNL": "Modane",
+        "gareFR": "Modane",
+        "code": "MOD"
+    },
+    {
+        "gareNL": "Moensberg",
+        "gareFR": "Moensberg",
+        "code": "MOEBG"
+    },
+    {
+        "gareNL": "Moers",
+        "gareFR": "Moers",
+        "code": "KMO"
+    },
+    {
+        "gareNL": "Moeskroen",
+        "gareFR": "Mouscron",
+        "code": "FMC"
+    },
+    {
+        "gareNL": "Moeskroen-Grens",
+        "gareFR": "Mouscron-Frontière",
+        "code": "FMCFR"
+    },
+    {
+        "gareNL": "Moha-G.P.Carmeuse",
+        "gareFR": "Moha-G.P.Carmeuse",
+        "code": "MOHA"
+    },
+    {
+        "gareNL": "Mol",
+        "gareFR": "Mol",
+        "code": "LML"
+    },
+    {
+        "gareNL": "Mollem",
+        "gareFR": "Mollem",
+        "code": "LHL"
+    },
+    {
+        "gareNL": "Momalle",
+        "gareFR": "Momalle",
+        "code": "MO"
+    },
+    {
+        "gareNL": "Monceau-Block 17",
+        "gareFR": "Monceau-Block 17",
+        "code": "BL17"
+    },
+    {
+        "gareNL": "Monceau-Chargement Gasoil",
+        "gareFR": "Monceau-Chargement Gasoil",
+        "code": "LNCA"
+    },
+    {
+        "gareNL": "Monceau-Formation",
+        "gareFR": "Monceau-Formation",
+        "code": "LNC"
+    },
+    {
+        "gareNL": "Monceau-Réception",
+        "gareFR": "Monceau-Réception",
+        "code": "LNCR"
+    },
+    {
+        "gareNL": "Mons-Aviation",
+        "gareFR": "Mons-Aviation",
+        "code": "FMSA"
+    },
+    {
+        "gareNL": "Monsin",
+        "gareFR": "Monsin",
+        "code": "MOSIN"
+    },
+    {
+        "gareNL": "Mont-Saint-Guibert",
+        "gareFR": "Mont-Saint-Guibert",
+        "code": "MM"
+    },
+    {
+        "gareNL": "Mont-Saint-Martin-Poste 2",
+        "gareFR": "Mont-Saint-Martin-Poste 2",
+        "code": "MSMP2"
+    },
+    {
+        "gareNL": "Montabaur",
+        "gareFR": "Montabaur",
+        "code": "FMT"
+    },
+    {
+        "gareNL": "Montpellier",
+        "gareFR": "Montpellier",
+        "code": "MPL"
+    },
+    {
+        "gareNL": "Montzen",
+        "gareFR": "Montzen",
+        "code": "GMN"
+    },
+    {
+        "gareNL": "Montzen-Block 14",
+        "gareFR": "Montzen-Block 14",
+        "code": "GMN14"
+    },
+    {
+        "gareNL": "Montzen-Block 15",
+        "gareFR": "Montzen-Block 15",
+        "code": "GMN15"
+    },
+    {
+        "gareNL": "Montzen-Est",
+        "gareFR": "Montzen-Est",
+        "code": "GMNE"
+    },
+    {
+        "gareNL": "Montzen-Frontière",
+        "gareFR": "Montzen-Frontière",
+        "code": "GMNFR"
+    },
+    {
+        "gareNL": "Montzen-Gril Q",
+        "gareFR": "Montzen-Gril Q",
+        "code": "GMNQ"
+    },
+    {
+        "gareNL": "Montzen-Installation Gasoil",
+        "gareFR": "Montzen-Installation Gasoil",
+        "code": "GMNA"
+    },
+    {
+        "gareNL": "Moortsele",
+        "gareFR": "Moortsele",
+        "code": "FZM"
+    },
+    {
+        "gareNL": "Morcenx",
+        "gareFR": "Morcenx",
+        "code": "MCX"
+    },
+    {
+        "gareNL": "Morlanwelz",
+        "gareFR": "Morlanwelz",
+        "code": "LMZ"
+    },
+    {
+        "gareNL": "Mortara",
+        "gareFR": "Mortara",
+        "code": "MRTR"
+    },
+    {
+        "gareNL": "Mortsel",
+        "gareFR": "Mortsel",
+        "code": "GMO"
+    },
+    {
+        "gareNL": "Mortsel-Deurnesteenweg",
+        "gareFR": "Mortsel-Deurnesteenweg",
+        "code": "GMODS"
+    },
+    {
+        "gareNL": "Mortsel-Liersesteenweg",
+        "gareFR": "Mortsel-Liersesteenweg",
+        "code": "GMOLS"
+    },
+    {
+        "gareNL": "Mortsel-Oude God",
+        "gareFR": "Mortsel-Oude God",
+        "code": "GMOG"
+    },
+    {
+        "gareNL": "Moskva",
+        "gareFR": "Moskva",
+        "code": "MOSKV"
+    },
+    {
+        "gareNL": "Mouguerre CEF",
+        "gareFR": "Mouguerre CEF",
+        "code": "MOUGU"
+    },
+    {
+        "gareNL": "Moustier",
+        "gareFR": "Moustier",
+        "code": "FMT"
+    },
+    {
+        "gareNL": "Moustier-Garage",
+        "gareFR": "Moustier-Garage",
+        "code": "FMTG"
+    },
+    {
+        "gareNL": "Moutiers-Salins-Brides-Les-B",
+        "gareFR": "Moutiers-Salins-Brides-Les-B",
+        "code": "MOS"
+    },
+    {
+        "gareNL": "Mszczonow",
+        "gareFR": "Mszczonow",
+        "code": "MSZCZ"
+    },
+    {
+        "gareNL": "Muizen",
+        "gareFR": "Muizen",
+        "code": "FIZ"
+    },
+    {
+        "gareNL": "Muizen-Goederen",
+        "gareFR": "Muizen-Marchandises",
+        "code": "FIZG"
+    },
+    {
+        "gareNL": "Muizen-Rooster T",
+        "gareFR": "Muizen-Rooster T",
+        "code": "RFIZT"
+    },
+    {
+        "gareNL": "Mulhouse-Ville",
+        "gareFR": "Mulhouse-Ville",
+        "code": "MSE"
+    },
+    {
+        "gareNL": "Munkzwalm",
+        "gareFR": "Munkzwalm",
+        "code": "MNK"
+    },
+    {
+        "gareNL": "Mérode",
+        "gareFR": "Mérode",
+        "code": "MRDE"
+    },
+    {
+        "gareNL": "Méry",
+        "gareFR": "Méry",
+        "code": "MRY"
+    },
+    {
+        "gareNL": "Mévergnies-Attre",
+        "gareFR": "Mévergnies-Attre",
+        "code": "FEV"
+    },
+    {
+        "gareNL": "München-Ost",
+        "gareFR": "München-Ost",
+        "code": "IMOR"
+    },
+    {
+        "gareNL": "München-Riem Ubf",
+        "gareFR": "München-Riem Ubf",
+        "code": "MRIU"
+    },
+    {
+        "gareNL": "Namen",
+        "gareFR": "Namur",
+        "code": "FNR"
+    },
+    {
+        "gareNL": "Namur-Herbatte",
+        "gareFR": "Namur-Herbatte",
+        "code": "FNRHB"
+    },
+    {
+        "gareNL": "Namêche",
+        "gareFR": "Namêche",
+        "code": "NMH"
+    },
+    {
+        "gareNL": "Naninne",
+        "gareFR": "Naninne",
+        "code": "MNN"
+    },
+    {
+        "gareNL": "Narbonne",
+        "gareFR": "Narbonne",
+        "code": "NA"
+    },
+    {
+        "gareNL": "Natoye",
+        "gareFR": "Natoye",
+        "code": "MNT"
+    },
+    {
+        "gareNL": "Neerpelt",
+        "gareFR": "Neerpelt",
+        "code": "LNP"
+    },
+    {
+        "gareNL": "Neerwinden",
+        "gareFR": "Neerwinden",
+        "code": "FWI"
+    },
+    {
+        "gareNL": "Nesle Somme",
+        "gareFR": "Nesle Somme",
+        "code": "NES"
+    },
+    {
+        "gareNL": "Nessonvaux",
+        "gareFR": "Nessonvaux",
+        "code": "FNV"
+    },
+    {
+        "gareNL": "Neufchâteau",
+        "gareFR": "Neufchâteau",
+        "code": "LNG"
+    },
+    {
+        "gareNL": "Neufchâteau-Garage",
+        "gareFR": "Neufchâteau-Garage",
+        "code": "LNGG"
+    },
+    {
+        "gareNL": "Neufvilles",
+        "gareFR": "Neufvilles",
+        "code": "FFV"
+    },
+    {
+        "gareNL": "Neufvilles-Garage",
+        "gareFR": "Neufvilles-Garage",
+        "code": "FFVG"
+    },
+    {
+        "gareNL": "Neuss Gbf",
+        "gareFR": "Neuss Gbf",
+        "code": "KNG"
+    },
+    {
+        "gareNL": "Nice-Ville",
+        "gareFR": "Nice-Ville",
+        "code": "NE"
+    },
+    {
+        "gareNL": "Niederglatt",
+        "gareFR": "Niederglatt",
+        "code": "XSNI"
+    },
+    {
+        "gareNL": "Niederkorn",
+        "gareFR": "Niederkorn",
+        "code": "XLNK"
+    },
+    {
+        "gareNL": "Niel",
+        "gareFR": "Niel",
+        "code": "LNI"
+    },
+    {
+        "gareNL": "Nieuw Vennep",
+        "gareFR": "Nieuw Vennep",
+        "code": "NVP"
+    },
+    {
+        "gareNL": "Nieuwe Y.Noord Dr.Aarschot",
+        "gareFR": "Nieuwe Y.Noord Dr.Aarschot",
+        "code": "NRSTN"
+    },
+    {
+        "gareNL": "Nieuwkerken-Waas",
+        "gareFR": "Nieuwkerken-Waas",
+        "code": "FNU"
+    },
+    {
+        "gareNL": "Nijlen",
+        "gareFR": "Nijlen",
+        "code": "FJE"
+    },
+    {
+        "gareNL": "Nijvel",
+        "gareFR": "Nivelles",
+        "code": "FNVT"
+    },
+    {
+        "gareNL": "Nimy",
+        "gareFR": "Nimy",
+        "code": "LNM"
+    },
+    {
+        "gareNL": "Ninove",
+        "gareFR": "Ninove",
+        "code": "FNN"
+    },
+    {
+        "gareNL": "Ninove-Wijkspoor",
+        "gareFR": "Ninove-Wijkspoor",
+        "code": "FNNWS"
+    },
+    {
+        "gareNL": "Noertzange",
+        "gareFR": "Noertzange",
+        "code": "XLNZ"
+    },
+    {
+        "gareNL": "Noorderkempen",
+        "gareFR": "Noorderkempen",
+        "code": "NDK"
+    },
+    {
+        "gareNL": "Nossegem",
+        "gareFR": "Nossegem",
+        "code": "LEM"
+    },
+    {
+        "gareNL": "Nossegem-Rooster C/D",
+        "gareFR": "Nossegem-Rooster C/D",
+        "code": "LEMCD"
+    },
+    {
+        "gareNL": "Novara",
+        "gareFR": "Novara",
+        "code": "NOVAR"
+    },
+    {
+        "gareNL": "Novo Mesto",
+        "gareFR": "Novo Mesto",
+        "code": "NVMST"
+    },
+    {
+        "gareNL": "Nîmes",
+        "gareFR": "Nîmes",
+        "code": "NI"
+    },
+    {
+        "gareNL": "Nürnberg",
+        "gareFR": "Nürnberg",
+        "code": "NN"
+    },
+    {
+        "gareNL": "Obaix-Buzet",
+        "gareFR": "Obaix-Buzet",
+        "code": "FXB"
+    },
+    {
+        "gareNL": "Oberhausen Hbf",
+        "gareFR": "Oberhausen Hbf",
+        "code": "EOB"
+    },
+    {
+        "gareNL": "Oberhausen West",
+        "gareFR": "Oberhausen West",
+        "code": "EOBR"
+    },
+    {
+        "gareNL": "Oberkorn",
+        "gareFR": "Oberkorn",
+        "code": "XLOK"
+    },
+    {
+        "gareNL": "Obourg",
+        "gareFR": "Obourg",
+        "code": "LRG"
+    },
+    {
+        "gareNL": "Obourg-Marchandises",
+        "gareFR": "Obourg-Marchandises",
+        "code": "LRGG"
+    },
+    {
+        "gareNL": "Offenbach (Main) Hbf",
+        "gareFR": "Offenbach (Main) Hbf",
+        "code": "FO"
+    },
+    {
+        "gareNL": "Oignies",
+        "gareFR": "Oignies",
+        "code": "OIP"
+    },
+    {
+        "gareNL": "Okegem",
+        "gareFR": "Okegem",
+        "code": "FKO"
+    },
+    {
+        "gareNL": "Oldenzaal-Grens",
+        "gareFR": "Oldenzaal-Grens",
+        "code": "ODZG"
+    },
+    {
+        "gareNL": "Oleggio",
+        "gareFR": "Oleggio",
+        "code": "OLEGG"
+    },
+    {
+        "gareNL": "Olen",
+        "gareFR": "Olen",
+        "code": "GOL"
+    },
+    {
+        "gareNL": "Olne",
+        "gareFR": "Olne",
+        "code": "GON"
+    },
+    {
+        "gareNL": "Olten",
+        "gareFR": "Olten",
+        "code": "OL"
+    },
+    {
+        "gareNL": "Oostakker",
+        "gareFR": "Oostakker",
+        "code": "FOA"
+    },
+    {
+        "gareNL": "Oostende",
+        "gareFR": "Ostende",
+        "code": "FSD"
+    },
+    {
+        "gareNL": "Oostende-Bundel A",
+        "gareFR": "Oostende-Bundel A",
+        "code": "FSDA"
+    },
+    {
+        "gareNL": "Oostende-Bundel B",
+        "gareFR": "Oostende-Bundel B",
+        "code": "FSDB"
+    },
+    {
+        "gareNL": "Oostende-Bundel Plassendale 1",
+        "gareFR": "Oostende-Bundel Plassendale 1",
+        "code": "FSDP1"
+    },
+    {
+        "gareNL": "Oostende-Perron T.O.P.",
+        "gareFR": "Oostende-Perron T.O.P.",
+        "code": "FSDPT"
+    },
+    {
+        "gareNL": "Oostende-Rooster C",
+        "gareFR": "Oostende-Rooster C",
+        "code": "RFSDC"
+    },
+    {
+        "gareNL": "Oostende-Rooster G",
+        "gareFR": "Oostende-Rooster G",
+        "code": "RFSDG"
+    },
+    {
+        "gareNL": "Oostende-T.W.",
+        "gareFR": "Oostende-T.W.",
+        "code": "FSDW"
+    },
+    {
+        "gareNL": "Oostende-Zeehaven",
+        "gareFR": "Ostende-Maritime",
+        "code": "FSDM"
+    },
+    {
+        "gareNL": "Oostkamp",
+        "gareFR": "Oostkamp",
+        "code": "FPO"
+    },
+    {
+        "gareNL": "Opwijk",
+        "gareFR": "Opwijk",
+        "code": "FKW"
+    },
+    {
+        "gareNL": "Opzullik",
+        "gareFR": "Silly",
+        "code": "FIL"
+    },
+    {
+        "gareNL": "Oradea",
+        "gareFR": "Oradea",
+        "code": "ORAD"
+    },
+    {
+        "gareNL": "Osnabrück Rbf",
+        "gareFR": "Osnabrück Rbf",
+        "code": "HOR"
+    },
+    {
+        "gareNL": "Ottignies",
+        "gareFR": "Ottignies",
+        "code": "LT"
+    },
+    {
+        "gareNL": "Ottignies-Relais",
+        "gareFR": "Ottignies-Relais",
+        "code": "LTR"
+    },
+    {
+        "gareNL": "Oud-Heverlee",
+        "gareFR": "Oud-Heverlee",
+        "code": "GVH"
+    },
+    {
+        "gareNL": "Oudegem",
+        "gareFR": "Oudegem",
+        "code": "FDM"
+    },
+    {
+        "gareNL": "Oudenaarde",
+        "gareFR": "Audenarde",
+        "code": "FDN"
+    },
+    {
+        "gareNL": "Oudenbosch",
+        "gareFR": "Oudenbosch",
+        "code": "ODB"
+    },
+    {
+        "gareNL": "Overpelt",
+        "gareFR": "Overpelt",
+        "code": "GOUST"
+    },
+    {
+        "gareNL": "Overpelt-Werkplaatsen",
+        "gareFR": "Overpelt-Usines",
+        "code": "GOU"
+    },
+    {
+        "gareNL": "Padova",
+        "gareFR": "Padova",
+        "code": "PADOV"
+    },
+    {
+        "gareNL": "Paliseul",
+        "gareFR": "Paliseul",
+        "code": "MPL"
+    },
+    {
+        "gareNL": "Papegem",
+        "gareFR": "Papignies",
+        "code": "FAP"
+    },
+    {
+        "gareNL": "Paray-le-Monial",
+        "gareFR": "Paray-le-Monial",
+        "code": "PLM"
+    },
+    {
+        "gareNL": "Paris-Lyon",
+        "gareFR": "Paris-Lyon",
+        "code": "PLY"
+    },
+    {
+        "gareNL": "Paris-Nord",
+        "gareFR": "Paris-Nord",
+        "code": "PNO"
+    },
+    {
+        "gareNL": "Pau",
+        "gareFR": "Pau",
+        "code": "PAU"
+    },
+    {
+        "gareNL": "Pecrot",
+        "gareFR": "Pecrot",
+        "code": "PECRT"
+    },
+    {
+        "gareNL": "Pepinster",
+        "gareFR": "Pepinster",
+        "code": "FPS"
+    },
+    {
+        "gareNL": "Pepinster-Cité",
+        "gareFR": "Pepinster-Cité",
+        "code": "FPSCT"
+    },
+    {
+        "gareNL": "Pernis",
+        "gareFR": "Pernis",
+        "code": "PS"
+    },
+    {
+        "gareNL": "Perpignan",
+        "gareFR": "Perpignan",
+        "code": "PPN"
+    },
+    {
+        "gareNL": "Pfaeffikon Sz",
+        "gareFR": "Pfaeffikon Sz",
+        "code": "PF"
+    },
+    {
+        "gareNL": "Philippeville",
+        "gareFR": "Philippeville",
+        "code": "GPL"
+    },
+    {
+        "gareNL": "Piacenza",
+        "gareFR": "Piacenza",
+        "code": "PIACE"
+    },
+    {
+        "gareNL": "Pirdop",
+        "gareFR": "Pirdop",
+        "code": "PRDP"
+    },
+    {
+        "gareNL": "Piéton",
+        "gareFR": "Piéton",
+        "code": "LPT"
+    },
+    {
+        "gareNL": "Plomcot",
+        "gareFR": "Plomcot",
+        "code": "PLMCT"
+    },
+    {
+        "gareNL": "Poitiers",
+        "gareFR": "Poitiers",
+        "code": "PS"
+    },
+    {
+        "gareNL": "Poix-de-Picardie",
+        "gareFR": "Poix-de-Picardie",
+        "code": "PDP"
+    },
+    {
+        "gareNL": "Poix-Saint-Hubert",
+        "gareFR": "Poix-Saint-Hubert",
+        "code": "MPX"
+    },
+    {
+        "gareNL": "Pomezia-S.Palomba",
+        "gareFR": "Pomezia-S.Palomba",
+        "code": "POMEZ"
+    },
+    {
+        "gareNL": "Pont-de-Seraing",
+        "gareFR": "Pont-de-Seraing",
+        "code": "PTNSR"
+    },
+    {
+        "gareNL": "Pont-à-Celles",
+        "gareFR": "Pont-à-Celles",
+        "code": "FPN"
+    },
+    {
+        "gareNL": "Pont-à-Mousson",
+        "gareFR": "Pont-à-Mousson",
+        "code": "PAM"
+    },
+    {
+        "gareNL": "Poperinge",
+        "gareFR": "Poperinge",
+        "code": "FPP"
+    },
+    {
+        "gareNL": "Portbou",
+        "gareFR": "Portbou",
+        "code": "PORTB"
+    },
+    {
+        "gareNL": "Poulseur",
+        "gareFR": "Poulseur",
+        "code": "MPS"
+    },
+    {
+        "gareNL": "Pousset",
+        "gareFR": "Pousset",
+        "code": "RPS"
+    },
+    {
+        "gareNL": "Priort",
+        "gareFR": "Priort",
+        "code": "BPOT"
+    },
+    {
+        "gareNL": "Profondsart",
+        "gareFR": "Profondsart",
+        "code": "PRFSA"
+    },
+    {
+        "gareNL": "Pry",
+        "gareFR": "Pry",
+        "code": "PRY"
+    },
+    {
+        "gareNL": "Publier",
+        "gareFR": "Publier",
+        "code": "PUB"
+    },
+    {
+        "gareNL": "Puurs",
+        "gareFR": "Puurs",
+        "code": "FRP"
+    },
+    {
+        "gareNL": "Péruwelz",
+        "gareFR": "Péruwelz",
+        "code": "FPL"
+    },
+    {
+        "gareNL": "Pétange",
+        "gareFR": "Pétange",
+        "code": "XLP"
+    },
+    {
+        "gareNL": "Quaregnon",
+        "gareFR": "Quaregnon",
+        "code": "FQR"
+    },
+    {
+        "gareNL": "Quenast",
+        "gareFR": "Quenast",
+        "code": "FQN"
+    },
+    {
+        "gareNL": "Quimper",
+        "gareFR": "Quimper",
+        "code": "QR"
+    },
+    {
+        "gareNL": "Quiévrain",
+        "gareFR": "Quiévrain",
+        "code": "FQ"
+    },
+    {
+        "gareNL": "Quévy",
+        "gareFR": "Quévy",
+        "code": "LQV"
+    },
+    {
+        "gareNL": "Quévy-Frontière",
+        "gareFR": "Quévy-Frontière",
+        "code": "LQVFR"
+    },
+    {
+        "gareNL": "Racc.Andenne-Carmeuse",
+        "gareFR": "Racc.Andenne-Carmeuse",
+        "code": "RCARM"
+    },
+    {
+        "gareNL": "Racc.Belle-Roche",
+        "gareFR": "Racc.Belle-Roche",
+        "code": "RBLRO"
+    },
+    {
+        "gareNL": "Racc.Bierset-Zone Fret",
+        "gareFR": "Racc.Bierset-Zone Fret",
+        "code": "RBIER"
+    },
+    {
+        "gareNL": "Racc.BP Chemicals",
+        "gareFR": "Racc.BP Chemicals",
+        "code": "RBPCH"
+    },
+    {
+        "gareNL": "Racc.Burgo Ardennes",
+        "gareFR": "Racc.Burgo Ardennes",
+        "code": "RBURG"
+    },
+    {
+        "gareNL": "Racc.Carsid 4",
+        "gareFR": "Racc.Carsid 4",
+        "code": "RCRS4"
+    },
+    {
+        "gareNL": "Racc.Carsid 8",
+        "gareFR": "Racc.Carsid 8",
+        "code": "RCRS8"
+    },
+    {
+        "gareNL": "Racc.Dumont-Wauthier",
+        "gareFR": "Racc.Dumont-Wauthier",
+        "code": "RDUMO"
+    },
+    {
+        "gareNL": "Racc.Engis-Carmeuse",
+        "gareFR": "Racc.Engis-Carmeuse",
+        "code": "NGZ"
+    },
+    {
+        "gareNL": "Racc.Eurogal",
+        "gareFR": "Racc.Eurogal",
+        "code": "REUGL"
+    },
+    {
+        "gareNL": "Racc.Flémalle-Cockerill 3-4",
+        "gareFR": "Racc.Flémalle-Cockerill 3-4",
+        "code": "RLFHC"
+    },
+    {
+        "gareNL": "Racc.FontainUnion",
+        "gareFR": "Racc.FontainUnion",
+        "code": "RUNIO"
+    },
+    {
+        "gareNL": "Racc.Jéhonville-M.D.N.",
+        "gareFR": "Racc.Jéhonville-M.D.N.",
+        "code": "RJEHO"
+    },
+    {
+        "gareNL": "Racc.Kemira",
+        "gareFR": "Racc.Kemira",
+        "code": "RKEMS"
+    },
+    {
+        "gareNL": "Racc.Marche-Défense Nationale",
+        "gareFR": "Racc.Marche-Défense Nationale",
+        "code": "RMARD"
+    },
+    {
+        "gareNL": "Racc.MGM-Winters",
+        "gareFR": "Racc.MGM-Winters",
+        "code": "RMGMW"
+    },
+    {
+        "gareNL": "Racc.Moustier-Solvay 1",
+        "gareFR": "Racc.Moustier-Solvay 1",
+        "code": "RSOL1"
+    },
+    {
+        "gareNL": "Racc.Moustier-Solvay 2",
+        "gareFR": "Racc.Moustier-Solvay 2",
+        "code": "RSOL2"
+    },
+    {
+        "gareNL": "Racc.Ollignies-Dupuis",
+        "gareFR": "Racc.Ollignies-Dupuis",
+        "code": "RDUP"
+    },
+    {
+        "gareNL": "Racc.Palifor",
+        "gareFR": "Racc.Palifor",
+        "code": "RPAL"
+    },
+    {
+        "gareNL": "Racc.Petite-Folie",
+        "gareFR": "Racc.Petite-Folie",
+        "code": "RPETF"
+    },
+    {
+        "gareNL": "Racc.Polyol",
+        "gareFR": "Racc.Polyol",
+        "code": "RPOLY"
+    },
+    {
+        "gareNL": "Racc.Port-Autonome-Charleroi",
+        "gareFR": "Racc.Port-Autonome-Charleroi",
+        "code": "RFCLV"
+    },
+    {
+        "gareNL": "Racc.Porta",
+        "gareFR": "Racc.Porta",
+        "code": "RPORT"
+    },
+    {
+        "gareNL": "Racc.Reilly Chemicals",
+        "gareFR": "Racc.Reilly Chemicals",
+        "code": "RRECH"
+    },
+    {
+        "gareNL": "Racc.Riva",
+        "gareFR": "Racc.Riva",
+        "code": "RRIVA"
+    },
+    {
+        "gareNL": "Racc.Ruau",
+        "gareFR": "Racc.Ruau",
+        "code": "RRUAU"
+    },
+    {
+        "gareNL": "Racc.Seraing-Cockerill-2",
+        "gareFR": "Racc.Seraing-Cockerill-2",
+        "code": "RNSR2"
+    },
+    {
+        "gareNL": "Racc.Seraing-Cockerill-6",
+        "gareFR": "Racc.Seraing-Cockerill-6",
+        "code": "RNSR6"
+    },
+    {
+        "gareNL": "Racc.Ségal",
+        "gareFR": "Racc.Ségal",
+        "code": "SEGAL"
+    },
+    {
+        "gareNL": "Racc.Van Ocem-Thône",
+        "gareFR": "Racc.Van Ocem-Thône",
+        "code": "RTHON"
+    },
+    {
+        "gareNL": "Racc.Visé-CBR",
+        "gareFR": "Racc.Visé-CBR",
+        "code": "RFVS"
+    },
+    {
+        "gareNL": "Racc.Yves-Gomezée-Les Petons",
+        "gareFR": "Racc.Yves-Gomezée-Les Petons",
+        "code": "RPET"
+    },
+    {
+        "gareNL": "Raeren",
+        "gareFR": "Raeren",
+        "code": "RER"
+    },
+    {
+        "gareNL": "Rastatt",
+        "gareFR": "Rastatt",
+        "code": "RRA"
+    },
+    {
+        "gareNL": "Rebaix",
+        "gareFR": "Rebaix",
+        "code": "FXR"
+    },
+    {
+        "gareNL": "Regensburg-Ost BMW",
+        "gareFR": "Regensburg-Ost BMW",
+        "code": "NROB"
+    },
+    {
+        "gareNL": "Rekingen AG",
+        "gareFR": "Rekingen AG",
+        "code": "RKNG"
+    },
+    {
+        "gareNL": "Remersdaal-Blok 12",
+        "gareFR": "Remersdaal-Blok 12",
+        "code": "BL12"
+    },
+    {
+        "gareNL": "Remicourt",
+        "gareFR": "Remicourt",
+        "code": "FMU"
+    },
+    {
+        "gareNL": "Renory 1",
+        "gareFR": "Renory 1",
+        "code": "RENO1"
+    },
+    {
+        "gareNL": "Renory 2",
+        "gareFR": "Renory 2",
+        "code": "RENO2"
+    },
+    {
+        "gareNL": "Revigny",
+        "gareFR": "Revigny",
+        "code": "REV"
+    },
+    {
+        "gareNL": "Rheinfelden",
+        "gareFR": "Rheinfelden",
+        "code": "RFLDN"
+    },
+    {
+        "gareNL": "Rhisnes",
+        "gareFR": "Rhisnes",
+        "code": "MRN"
+    },
+    {
+        "gareNL": "Rhisnes-Garage",
+        "gareFR": "Rhisnes-Garage",
+        "code": "MRNG"
+    },
+    {
+        "gareNL": "Rijswijk",
+        "gareFR": "Rijswijk",
+        "code": "RSW"
+    },
+    {
+        "gareNL": "Rimini",
+        "gareFR": "Rimini",
+        "code": "RIMI"
+    },
+    {
+        "gareNL": "Rivage",
+        "gareFR": "Rivage",
+        "code": "MRV"
+    },
+    {
+        "gareNL": "Rivage-Marchandises",
+        "gareFR": "Rivage-Marchandises",
+        "code": "MRVM"
+    },
+    {
+        "gareNL": "Rixensart",
+        "gareFR": "Rixensart",
+        "code": "MRX"
+    },
+    {
+        "gareNL": "Rodange",
+        "gareFR": "Rodange",
+        "code": "XLRD"
+    },
+    {
+        "gareNL": "Roeselare",
+        "gareFR": "Roulers",
+        "code": "FRL"
+    },
+    {
+        "gareNL": "Rogier",
+        "gareFR": "Rogier",
+        "code": "RGR"
+    },
+    {
+        "gareNL": "Roma",
+        "gareFR": "Roma",
+        "code": "ROMA"
+    },
+    {
+        "gareNL": "Ronet",
+        "gareFR": "Ronet",
+        "code": "FEO"
+    },
+    {
+        "gareNL": "Ronet-C.L.I.",
+        "gareFR": "Ronet-C.L.I.",
+        "code": "FEOCL"
+    },
+    {
+        "gareNL": "Ronet-P.E.",
+        "gareFR": "Ronet-P.E.",
+        "code": "FEOPE"
+    },
+    {
+        "gareNL": "Ronet-Vorming",
+        "gareFR": "Ronet-Formation",
+        "code": "FEOF"
+    },
+    {
+        "gareNL": "Ronse",
+        "gareFR": "Renaix",
+        "code": "FRN"
+    },
+    {
+        "gareNL": "Roosendaal",
+        "gareFR": "Roosendaal",
+        "code": "RSD"
+    },
+    {
+        "gareNL": "Rosenheim",
+        "gareFR": "Rosenheim",
+        "code": "MRO"
+    },
+    {
+        "gareNL": "Rotkreuz",
+        "gareFR": "Rotkreuz",
+        "code": "ROTKR"
+    },
+    {
+        "gareNL": "Rotterdam Blaak",
+        "gareFR": "Rotterdam Blaak",
+        "code": "RTB"
+    },
+    {
+        "gareNL": "Rotterdam Botlek",
+        "gareFR": "Rotterdam Botlek",
+        "code": "RBOTL"
+    },
+    {
+        "gareNL": "Rotterdam Centraal",
+        "gareFR": "Rotterdam Centraal",
+        "code": "RTD"
+    },
+    {
+        "gareNL": "Rotterdam Lombardijen",
+        "gareFR": "Rotterdam Lombardijen",
+        "code": "RTLB"
+    },
+    {
+        "gareNL": "Rotterdam Maasvlakte",
+        "gareFR": "Rotterdam Maasvlakte",
+        "code": "RTMV"
+    },
+    {
+        "gareNL": "Rotterdam Rail Service Center",
+        "gareFR": "Rotterdam Rail Service Center",
+        "code": "RSCW"
+    },
+    {
+        "gareNL": "Rotterdam Stadion",
+        "gareFR": "Rotterdam Stadion",
+        "code": "RTST"
+    },
+    {
+        "gareNL": "Rotterdam Waalhaven",
+        "gareFR": "Rotterdam Waalhaven",
+        "code": "RWHV"
+    },
+    {
+        "gareNL": "Rotterdam Zuid",
+        "gareFR": "Rotterdam Zuid",
+        "code": "RTZ"
+    },
+    {
+        "gareNL": "Roubaix",
+        "gareFR": "Roubaix",
+        "code": "RX"
+    },
+    {
+        "gareNL": "Roux",
+        "gareFR": "Roux",
+        "code": "FRX"
+    },
+    {
+        "gareNL": "Ruhland",
+        "gareFR": "Ruhland",
+        "code": "BRU"
+    },
+    {
+        "gareNL": "Ruisbroek",
+        "gareFR": "Ruisbroek",
+        "code": "FRB"
+    },
+    {
+        "gareNL": "Ruisbroek-Bundel",
+        "gareFR": "Ruisbroek-Bundel",
+        "code": "FRBB"
+    },
+    {
+        "gareNL": "Ruisbroek-Sauvegarde",
+        "gareFR": "Ruisbroek-Sauvegarde",
+        "code": "FRBS"
+    },
+    {
+        "gareNL": "Ruisbroek-Zeekanaal",
+        "gareFR": "Ruisbroek-Zeekanaal",
+        "code": "FRBZK"
+    },
+    {
+        "gareNL": "Rzepin",
+        "gareFR": "Rzepin",
+        "code": "RZPN"
+    },
+    {
+        "gareNL": "Rüsselsheim",
+        "gareFR": "Rüsselsheim",
+        "code": "FRUE"
+    },
+    {
+        "gareNL": "Saalfelden",
+        "gareFR": "Saalfelden",
+        "code": "SAA"
+    },
+    {
+        "gareNL": "Safenwil",
+        "gareFR": "Safenwil",
+        "code": "SAF"
+    },
+    {
+        "gareNL": "Saint-Denis-Bovesse",
+        "gareFR": "Saint-Denis-Bovesse",
+        "code": "MD"
+    },
+    {
+        "gareNL": "Saint-Ghislain",
+        "gareFR": "Saint-Ghislain",
+        "code": "FGH"
+    },
+    {
+        "gareNL": "Saint-Louis (Haut-Rhin)",
+        "gareFR": "Saint-Louis (Haut-Rhin)",
+        "code": "STL"
+    },
+    {
+        "gareNL": "Saint-Omer (Pas-de-Calais)",
+        "gareFR": "Saint-Omer (Pas-de-Calais)",
+        "code": "STO"
+    },
+    {
+        "gareNL": "Saint-Pierre-des-Corps",
+        "gareFR": "Saint-Pierre-des-Corps",
+        "code": "SP"
+    },
+    {
+        "gareNL": "Saint-Quentin",
+        "gareFR": "Saint-Quentin",
+        "code": "SQ"
+    },
+    {
+        "gareNL": "Saint-Raphaël-Valescure",
+        "gareFR": "Saint-Raphaël-Valescure",
+        "code": "SRV"
+    },
+    {
+        "gareNL": "Saint-Vincent-Bellefontaine",
+        "gareFR": "Saint-Vincent-Bellefontaine",
+        "code": "MBF"
+    },
+    {
+        "gareNL": "Saintes-Block 11",
+        "gareFR": "Saintes-Block 11",
+        "code": "BL11"
+    },
+    {
+        "gareNL": "Saleux",
+        "gareFR": "Saleux",
+        "code": "SLX"
+    },
+    {
+        "gareNL": "Salzburg Hbf",
+        "gareFR": "Salzburg Hbf",
+        "code": "SB"
+    },
+    {
+        "gareNL": "Salzinnes-A.C.",
+        "gareFR": "Salzinnes-A.C.",
+        "code": "FAZA"
+    },
+    {
+        "gareNL": "San Candido",
+        "gareFR": "San Candido",
+        "code": "SCAND"
+    },
+    {
+        "gareNL": "Sargans",
+        "gareFR": "Sargans",
+        "code": "SA"
+    },
+    {
+        "gareNL": "Sart-Bernard",
+        "gareFR": "Sart-Bernard",
+        "code": "SARTB"
+    },
+    {
+        "gareNL": "Sas-van-Gent",
+        "gareFR": "Sas-van-Gent",
+        "code": "SASVG"
+    },
+    {
+        "gareNL": "Saverne",
+        "gareFR": "Saverne",
+        "code": "SNE"
+    },
+    {
+        "gareNL": "Schaarbeek",
+        "gareFR": "Schaerbeek",
+        "code": "FSR"
+    },
+    {
+        "gareNL": "Schaarbeek-Bundel D",
+        "gareFR": "Schaerbeek-Faisceau D",
+        "code": "FSRD"
+    },
+    {
+        "gareNL": "Schaarbeek-Bundel L",
+        "gareFR": "Schaerbeek-Faisceau L",
+        "code": "FSRL"
+    },
+    {
+        "gareNL": "Schaarbeek-Bundel M",
+        "gareFR": "Schaerbeek-Faisceau M",
+        "code": "FSRM"
+    },
+    {
+        "gareNL": "Schaarbeek-Bundel P",
+        "gareFR": "Schaerbeek-Faisceau P",
+        "code": "FSRP"
+    },
+    {
+        "gareNL": "Schaarbeek-Bundel V",
+        "gareFR": "Schaerbeek-Faisceau V",
+        "code": "FSRBV"
+    },
+    {
+        "gareNL": "Schaarbeek-Carwash",
+        "gareFR": "Schaerbeek-Carwash",
+        "code": "FSRCH"
+    },
+    {
+        "gareNL": "Schaarbeek-Doodspoor 814",
+        "gareFR": "Schaerbeek-Cul de sac 814",
+        "code": "FSR14"
+    },
+    {
+        "gareNL": "Schaarbeek-Groep G",
+        "gareFR": "Schaerbeek-Groupe G",
+        "code": "FSRG"
+    },
+    {
+        "gareNL": "Schaarbeek-Groep R",
+        "gareFR": "Schaerbeek-Groupe R",
+        "code": "FSRR"
+    },
+    {
+        "gareNL": "Schaarbeek-Inrit Groep R",
+        "gareFR": "Schaerbeek-Entrée Groupe R",
+        "code": "FSRIR"
+    },
+    {
+        "gareNL": "Schaarbeek-Josaphat",
+        "gareFR": "Schaerbeek-Josaphat",
+        "code": "GSJ"
+    },
+    {
+        "gareNL": "Schaarbeek-L.C.I.",
+        "gareFR": "Schaerbeek-C.L.I.",
+        "code": "FSRCL"
+    },
+    {
+        "gareNL": "Schaarbeek-P.C.I.",
+        "gareFR": "Schaerbeek-C.P.I.",
+        "code": "FSRCP"
+    },
+    {
+        "gareNL": "Schaarbeek-Perron P.C.I.",
+        "gareFR": "Schaerbeek-Quai C.P.I",
+        "code": "FSRQC"
+    },
+    {
+        "gareNL": "Schaarbeek-Perron T.W./D.-NOS",
+        "gareFR": "Schaerbeek-Quai A.T./D.-NOS",
+        "code": "FSRPW"
+    },
+    {
+        "gareNL": "Schaarbeek-Perron T.W./D.-ZOS",
+        "gareFR": "Schaerbeek-Quai A.T./D.-ZOS",
+        "code": "FSRPZ"
+    },
+    {
+        "gareNL": "Schaarbeek-Perron Vorming",
+        "gareFR": "Schaerbeek-Quai Formation",
+        "code": "FSRPV"
+    },
+    {
+        "gareNL": "Schaarbeek-Sas K/C",
+        "gareFR": "Schaerbeek-Sas K/C",
+        "code": "FSRKC"
+    },
+    {
+        "gareNL": "Schaarbeek-Spoor LZ",
+        "gareFR": "Schaerbeek-Voie LZ",
+        "code": "FSRLZ"
+    },
+    {
+        "gareNL": "Schaarbeek-T.W./D.",
+        "gareFR": "Schaerbeek-A.T./D.",
+        "code": "FSRWD"
+    },
+    {
+        "gareNL": "Schaarbeek-T.W./E.",
+        "gareFR": "Schaerbeek-A.T./E.",
+        "code": "FSRWE"
+    },
+    {
+        "gareNL": "Schaarbeek-Vorming",
+        "gareFR": "Schaerbeek-Formation",
+        "code": "FSRV"
+    },
+    {
+        "gareNL": "Scheldewindeke",
+        "gareFR": "Scheldewindeke",
+        "code": "FSK"
+    },
+    {
+        "gareNL": "Schelle",
+        "gareFR": "Schelle",
+        "code": "SCHLL"
+    },
+    {
+        "gareNL": "Schellebelle",
+        "gareFR": "Schellebelle",
+        "code": "FCB"
+    },
+    {
+        "gareNL": "Schendelbeke",
+        "gareFR": "Schendelbeke",
+        "code": "FED"
+    },
+    {
+        "gareNL": "Schiedam",
+        "gareFR": "Schiedam",
+        "code": "SDM"
+    },
+    {
+        "gareNL": "Schifflange",
+        "gareFR": "Schifflange",
+        "code": "XLSL"
+    },
+    {
+        "gareNL": "Schiphol",
+        "gareFR": "Schiphol",
+        "code": "SHLH"
+    },
+    {
+        "gareNL": "Schoonaarde",
+        "gareFR": "Schoonaarde",
+        "code": "FAD"
+    },
+    {
+        "gareNL": "Schouweiler",
+        "gareFR": "Schouweiler",
+        "code": "XLSW"
+    },
+    {
+        "gareNL": "Schulen",
+        "gareFR": "Schulen",
+        "code": "GSU"
+    },
+    {
+        "gareNL": "Schulen-Wijkspoor",
+        "gareFR": "Schulen-Wijkspoor",
+        "code": "GSUWS"
+    },
+    {
+        "gareNL": "Schwedt (Oder)",
+        "gareFR": "Schwedt (Oder)",
+        "code": "WSC"
+    },
+    {
+        "gareNL": "Schwerte",
+        "gareFR": "Schwerte",
+        "code": "ESRT"
+    },
+    {
+        "gareNL": "Sclaigneaux",
+        "gareFR": "Sclaigneaux",
+        "code": "NS"
+    },
+    {
+        "gareNL": "Sclessin",
+        "gareFR": "Sclessin",
+        "code": "NSN"
+    },
+    {
+        "gareNL": "Segrate",
+        "gareFR": "Segrate",
+        "code": "SGRAT"
+    },
+    {
+        "gareNL": "Selestat",
+        "gareFR": "Selestat",
+        "code": "STT"
+    },
+    {
+        "gareNL": "Seneffe-Parc Industriel",
+        "gareFR": "Seneffe-Parc Industriel",
+        "code": "LSFPI"
+    },
+    {
+        "gareNL": "Senica nad Myjavou",
+        "gareFR": "Senica nad Myjavou",
+        "code": "SNCNM"
+    },
+    {
+        "gareNL": "Seraing",
+        "gareFR": "Seraing",
+        "code": "NSR"
+    },
+    {
+        "gareNL": "Serskamp",
+        "gareFR": "Serskamp",
+        "code": "SERSK"
+    },
+    {
+        "gareNL": "Sibelin",
+        "gareFR": "Sibelin",
+        "code": "SIB"
+    },
+    {
+        "gareNL": "Siegburg/Bonn",
+        "gareFR": "Siegburg/Bonn",
+        "code": "SIEGB"
+    },
+    {
+        "gareNL": "Siegen",
+        "gareFR": "Siegen",
+        "code": "ESIE"
+    },
+    {
+        "gareNL": "Sierre",
+        "gareFR": "Sierre",
+        "code": "SIERR"
+    },
+    {
+        "gareNL": "Simonis",
+        "gareFR": "Simonis",
+        "code": "SIMON"
+    },
+    {
+        "gareNL": "Sinaai",
+        "gareFR": "Sinaai",
+        "code": "LSW"
+    },
+    {
+        "gareNL": "Sint-Agatha-Berchem",
+        "gareFR": "Berchem-Sainte-Agathe",
+        "code": "FBSG"
+    },
+    {
+        "gareNL": "Sint-Denijs-Boekel",
+        "gareFR": "Sint-Denijs-Boekel",
+        "code": "FNZ"
+    },
+    {
+        "gareNL": "Sint-Genesius-Rode",
+        "gareFR": "Rhode-Saint-Genèse",
+        "code": "FGO"
+    },
+    {
+        "gareNL": "Sint-Gillis (Dendermonde)",
+        "gareFR": "Sint-Gillis (Termonde)",
+        "code": "FSI"
+    },
+    {
+        "gareNL": "Sint-Job",
+        "gareFR": "Saint-Job",
+        "code": "STJOB"
+    },
+    {
+        "gareNL": "Sint-Joris-Weert",
+        "gareFR": "Sint-Joris-Weert",
+        "code": "GSW"
+    },
+    {
+        "gareNL": "Sint-Katelijne-Waver",
+        "gareFR": "Sint-Katelijne-Waver",
+        "code": "FWA"
+    },
+    {
+        "gareNL": "Sint-Katherina",
+        "gareFR": "Sint-Katherina",
+        "code": "STKAT"
+    },
+    {
+        "gareNL": "Sint-Mariaburg",
+        "gareFR": "Sint-Mariaburg",
+        "code": "MRB"
+    },
+    {
+        "gareNL": "Sint-Martens-Bodegem",
+        "gareFR": "Sint-Martens-Bodegem",
+        "code": "FSMB"
+    },
+    {
+        "gareNL": "Sint-Martens-Voeren-Blok 10",
+        "gareFR": "Fouron-Saint-Martin-Block 10",
+        "code": "GFM"
+    },
+    {
+        "gareNL": "Sint-Niklaas",
+        "gareFR": "Saint-Nicolas",
+        "code": "FSN"
+    },
+    {
+        "gareNL": "Sint-Niklaas-Oost",
+        "gareFR": "Sint-Niklaas-Oost",
+        "code": "FSNO"
+    },
+    {
+        "gareNL": "Sint-Truiden",
+        "gareFR": "Saint-Trond",
+        "code": "FST"
+    },
+    {
+        "gareNL": "Sissach",
+        "gareFR": "Sissach",
+        "code": "SIS"
+    },
+    {
+        "gareNL": "Sittard",
+        "gareFR": "Sittard",
+        "code": "STD"
+    },
+    {
+        "gareNL": "Sleidinge",
+        "gareFR": "Sleidinge",
+        "code": "LSD"
+    },
+    {
+        "gareNL": "Sloehaven",
+        "gareFR": "Sloehaven",
+        "code": "SLOE"
+    },
+    {
+        "gareNL": "Sluiskil Dow Chemical",
+        "gareFR": "Sluiskil Dow Chemical",
+        "code": "SLUD"
+    },
+    {
+        "gareNL": "Solre-sur-Sambre",
+        "gareFR": "Solre-sur-Sambre",
+        "code": "NSS"
+    },
+    {
+        "gareNL": "Somain",
+        "gareFR": "Somain",
+        "code": "SOM"
+    },
+    {
+        "gareNL": "Sopron",
+        "gareFR": "Sopron",
+        "code": "SPRON"
+    },
+    {
+        "gareNL": "Spa",
+        "gareFR": "Spa",
+        "code": "FSS"
+    },
+    {
+        "gareNL": "Spa-Géronstère",
+        "gareFR": "Spa-Géronstère",
+        "code": "FSSG"
+    },
+    {
+        "gareNL": "Spiez",
+        "gareFR": "Spiez",
+        "code": "SP"
+    },
+    {
+        "gareNL": "St.-Johann in Tirol",
+        "gareFR": "St.-Johann in Tirol",
+        "code": "JTI"
+    },
+    {
+        "gareNL": "Stabroek-Rooster Q",
+        "gareFR": "Stabroek-Rooster Q",
+        "code": "STBKQ"
+    },
+    {
+        "gareNL": "Statte",
+        "gareFR": "Statte",
+        "code": "LHY"
+    },
+    {
+        "gareNL": "Stein-Saeckingen",
+        "gareFR": "Stein-Saeckingen",
+        "code": "STSAK"
+    },
+    {
+        "gareNL": "Steindorf b.Str.-Fa.Lagermax",
+        "gareFR": "Steindorf b.Str.-Fa.Lagermax",
+        "code": "NSL"
+    },
+    {
+        "gareNL": "Steindorf bei Strasswalchen",
+        "gareFR": "Steindorf bei Strasswalchen",
+        "code": "NST"
+    },
+    {
+        "gareNL": "Sterpenich-Frontière",
+        "gareFR": "Sterpenich-Frontière",
+        "code": "MSFR"
+    },
+    {
+        "gareNL": "Stockem",
+        "gareFR": "Stockem",
+        "code": "MKM"
+    },
+    {
+        "gareNL": "Stockem-A.T.",
+        "gareFR": "Stockem-A.T.",
+        "code": "MKMA"
+    },
+    {
+        "gareNL": "Stockem-Block 94",
+        "gareFR": "Stockem-Block 94",
+        "code": "MKM94"
+    },
+    {
+        "gareNL": "Stockem-Block 95",
+        "gareFR": "Stockem-Block 95",
+        "code": "MKM95"
+    },
+    {
+        "gareNL": "Stockem-Faisceau A",
+        "gareFR": "Stockem-Faisceau A",
+        "code": "MKMFA"
+    },
+    {
+        "gareNL": "Stockem-Faisceau B",
+        "gareFR": "Stockem-Faisceau B",
+        "code": "MKMFB"
+    },
+    {
+        "gareNL": "Stolberg Hauptbahnhof",
+        "gareFR": "Stolberg Hauptbahnhof",
+        "code": "KST"
+    },
+    {
+        "gareNL": "Stoumont-Block 6",
+        "gareFR": "Stoumont-Block 6",
+        "code": "BL6"
+    },
+    {
+        "gareNL": "Strasbourg-Port-du-Rhin",
+        "gareFR": "Strasbourg-Port-du-Rhin",
+        "code": "SRH"
+    },
+    {
+        "gareNL": "Strasbourg-Ville",
+        "gareFR": "Strasbourg-Ville",
+        "code": "SG"
+    },
+    {
+        "gareNL": "Stratford International",
+        "gareFR": "Stratford International",
+        "code": "SRA"
+    },
+    {
+        "gareNL": "Stuttgart Hafen",
+        "gareFR": "Stuttgart Hafen",
+        "code": "TSH"
+    },
+    {
+        "gareNL": "Sucy-Bonneuil",
+        "gareFR": "Sucy-Bonneuil",
+        "code": "SUB"
+    },
+    {
+        "gareNL": "Swindon",
+        "gareFR": "Swindon",
+        "code": "SWI"
+    },
+    {
+        "gareNL": "Sy",
+        "gareFR": "Sy",
+        "code": "SY"
+    },
+    {
+        "gareNL": "Sète",
+        "gareFR": "Sète",
+        "code": "STE"
+    },
+    {
+        "gareNL": "Tamines",
+        "gareFR": "Tamines",
+        "code": "FTM"
+    },
+    {
+        "gareNL": "Tamines-Garage",
+        "gareFR": "Tamines-Garage",
+        "code": "FTMG"
+    },
+    {
+        "gareNL": "Tarbes",
+        "gareFR": "Tarbes",
+        "code": "TS"
+    },
+    {
+        "gareNL": "Tarragona",
+        "gareFR": "Tarragona",
+        "code": "TRRGN"
+    },
+    {
+        "gareNL": "Tavaux",
+        "gareFR": "Tavaux",
+        "code": "TAV"
+    },
+    {
+        "gareNL": "Tavazzano",
+        "gareFR": "Tavazzano",
+        "code": "TAVAZ"
+    },
+    {
+        "gareNL": "Temse",
+        "gareFR": "Tamise",
+        "code": "FTS"
+    },
+    {
+        "gareNL": "Tergnier",
+        "gareFR": "Tergnier",
+        "code": "TGR"
+    },
+    {
+        "gareNL": "Terhagen",
+        "gareFR": "Terhagen",
+        "code": "MTH"
+    },
+    {
+        "gareNL": "Terhulpen",
+        "gareFR": "La Hulpe",
+        "code": "ML"
+    },
+    {
+        "gareNL": "Ternat",
+        "gareFR": "Ternat",
+        "code": "FTN"
+    },
+    {
+        "gareNL": "Terneuzen",
+        "gareFR": "Terneuzen",
+        "code": "TNZ"
+    },
+    {
+        "gareNL": "Tertre",
+        "gareFR": "Tertre",
+        "code": "LTT"
+    },
+    {
+        "gareNL": "Tessenderlo",
+        "gareFR": "Tessenderlo",
+        "code": "LTD"
+    },
+    {
+        "gareNL": "Testelt",
+        "gareFR": "Testelt",
+        "code": "GTT"
+    },
+    {
+        "gareNL": "TGV Haute Picardie",
+        "gareFR": "TGV Haute Picardie",
+        "code": "HPI"
+    },
+    {
+        "gareNL": "Thalwil",
+        "gareFR": "Thalwil",
+        "code": "TW"
+    },
+    {
+        "gareNL": "Theux",
+        "gareFR": "Theux",
+        "code": "FTX"
+    },
+    {
+        "gareNL": "Thieu",
+        "gareFR": "Thieu",
+        "code": "LU"
+    },
+    {
+        "gareNL": "Thimister-Clermont",
+        "gareFR": "Thimister-Clermont",
+        "code": "LTI"
+    },
+    {
+        "gareNL": "Thionville",
+        "gareFR": "Thionville",
+        "code": "THL"
+    },
+    {
+        "gareNL": "Thuin",
+        "gareFR": "Thuin",
+        "code": "NTH"
+    },
+    {
+        "gareNL": "Thulin",
+        "gareFR": "Thulin",
+        "code": "FTU"
+    },
+    {
+        "gareNL": "Thun",
+        "gareFR": "Thun",
+        "code": "TH"
+    },
+    {
+        "gareNL": "Tielen",
+        "gareFR": "Tielen",
+        "code": "TIEL"
+    },
+    {
+        "gareNL": "Tielt",
+        "gareFR": "Tielt",
+        "code": "FTT"
+    },
+    {
+        "gareNL": "Tienen",
+        "gareFR": "Tirlemont",
+        "code": "FTNN"
+    },
+    {
+        "gareNL": "Tilff",
+        "gareFR": "Tilff",
+        "code": "MTF"
+    },
+    {
+        "gareNL": "Tilleur",
+        "gareFR": "Tilleur",
+        "code": "NTL"
+    },
+    {
+        "gareNL": "Tilly",
+        "gareFR": "Tilly",
+        "code": "GTI"
+    },
+    {
+        "gareNL": "Tilly-Garage",
+        "gareFR": "Tilly-Garage",
+        "code": "GTIG"
+    },
+    {
+        "gareNL": "Tollembeek",
+        "gareFR": "Tollembeek",
+        "code": "LOK"
+    },
+    {
+        "gareNL": "Tongeren",
+        "gareFR": "Tongres",
+        "code": "FTG"
+    },
+    {
+        "gareNL": "Torhout",
+        "gareFR": "Torhout",
+        "code": "FRT"
+    },
+    {
+        "gareNL": "Torino Orbassano",
+        "gareFR": "Torino Orbassano",
+        "code": "TOROR"
+    },
+    {
+        "gareNL": "Toulon",
+        "gareFR": "Toulon",
+        "code": "TLN"
+    },
+    {
+        "gareNL": "Toulouse-Matabiau",
+        "gareFR": "Toulouse-Matabiau",
+        "code": "TE"
+    },
+    {
+        "gareNL": "Tourcoing",
+        "gareFR": "Tourcoing",
+        "code": "TG"
+    },
+    {
+        "gareNL": "Tourcoing-Marchandises",
+        "gareFR": "Tourcoing-Marchandises",
+        "code": "TGM"
+    },
+    {
+        "gareNL": "Tourpes",
+        "gareFR": "Tourpes",
+        "code": "RTS"
+    },
+    {
+        "gareNL": "Trith-Saint-Léger",
+        "gareFR": "Trith-Saint-Léger",
+        "code": "TSL"
+    },
+    {
+        "gareNL": "Trois-Ponts",
+        "gareFR": "Trois-Ponts",
+        "code": "FNO"
+    },
+    {
+        "gareNL": "Troisvierges",
+        "gareFR": "Troisvierges",
+        "code": "XLTV"
+    },
+    {
+        "gareNL": "Trooz",
+        "gareFR": "Trooz",
+        "code": "FRZ"
+    },
+    {
+        "gareNL": "Troyes",
+        "gareFR": "Troyes",
+        "code": "TR"
+    },
+    {
+        "gareNL": "Tubeke",
+        "gareFR": "Tubize",
+        "code": "FTZ"
+    },
+    {
+        "gareNL": "Turnhout",
+        "gareFR": "Turnhout",
+        "code": "FTR"
+    },
+    {
+        "gareNL": "Turnhout-Bundel",
+        "gareFR": "Turnhout-Bundel",
+        "code": "FTRB"
+    },
+    {
+        "gareNL": "Tychy Fiat Auto-Poland",
+        "gareFR": "Tychy Fiat Auto-Poland",
+        "code": "TYCHY"
+    },
+    {
+        "gareNL": "Uckange",
+        "gareFR": "Uckange",
+        "code": "UCK"
+    },
+    {
+        "gareNL": "Ukkel-Kalevoet",
+        "gareFR": "Uccle-Calevoet",
+        "code": "FTE"
+    },
+    {
+        "gareNL": "Ukkel-Stalle",
+        "gareFR": "Uccle-Stalle",
+        "code": "FUS"
+    },
+    {
+        "gareNL": "Utrecht Centraal",
+        "gareFR": "Utrecht Centraal",
+        "code": "UT"
+    },
+    {
+        "gareNL": "Valence-Rhône-Alpes-Sud TGV",
+        "gareFR": "Valence-Rhône-Alpes-Sud TGV",
+        "code": "VCV"
+    },
+    {
+        "gareNL": "Valenciennes",
+        "gareFR": "Valenciennes",
+        "code": "VS"
+    },
+    {
+        "gareNL": "Valenton",
+        "gareFR": "Valenton",
+        "code": "VON"
+    },
+    {
+        "gareNL": "Veendam",
+        "gareFR": "Veendam",
+        "code": "VDM"
+    },
+    {
+        "gareNL": "Veltem",
+        "gareFR": "Veltem",
+        "code": "FEM"
+    },
+    {
+        "gareNL": "Venissieux",
+        "gareFR": "Venissieux",
+        "code": "VSX"
+    },
+    {
+        "gareNL": "Venlo",
+        "gareFR": "Venlo",
+        "code": "VL"
+    },
+    {
+        "gareNL": "Ventimiglia",
+        "gareFR": "Ventimiglia",
+        "code": "XXMIL"
+    },
+    {
+        "gareNL": "Verb.ACS",
+        "gareFR": "Verb.ACS",
+        "code": "VACS"
+    },
+    {
+        "gareNL": "Verb.ADPO",
+        "gareFR": "Verb.ADPO",
+        "code": "VADPO"
+    },
+    {
+        "gareNL": "Verb.B.P. Chembel",
+        "gareFR": "Verb.B.P. Chembel",
+        "code": "VBPCH"
+    },
+    {
+        "gareNL": "Verb.Bayer",
+        "gareFR": "Verb.Bayer",
+        "code": "VBYER"
+    },
+    {
+        "gareNL": "Verb.De Bonte",
+        "gareFR": "Verb.De Bonte",
+        "code": "VDEBT"
+    },
+    {
+        "gareNL": "Verb.Deerlijk-Casier",
+        "gareFR": "Verb.Deerlijk-Casier",
+        "code": "LDK"
+    },
+    {
+        "gareNL": "Verb.Delta-MIVB",
+        "gareFR": "Racc.Delta-STIB",
+        "code": "DSTIB"
+    },
+    {
+        "gareNL": "Verb.Dow Chemicals",
+        "gareFR": "Verb.Dow Chemicals",
+        "code": "VDOWC"
+    },
+    {
+        "gareNL": "Verb.Exxon Chemicals",
+        "gareFR": "Verb.Exxon Chemicals",
+        "code": "VEXCH"
+    },
+    {
+        "gareNL": "Verb.Halterman",
+        "gareFR": "Verb.Halterman",
+        "code": "VHALT"
+    },
+    {
+        "gareNL": "Verb.Haren-MIVB",
+        "gareFR": "Racc.Haren-STIB",
+        "code": "HMIVB"
+    },
+    {
+        "gareNL": "Verb.Hemiksem-Vopak",
+        "gareFR": "Verb.Hemiksem-Vopak",
+        "code": "VOPAK"
+    },
+    {
+        "gareNL": "Verb.Hercules",
+        "gareFR": "Verb.Hercules",
+        "code": "VHERC"
+    },
+    {
+        "gareNL": "Verb.Hessenatie-Autotransport",
+        "gareFR": "Verb.Hessenatie-Autotransport",
+        "code": "VAUTO"
+    },
+    {
+        "gareNL": "Verb.Heule-Hessenatie",
+        "gareFR": "Verb.Heule-Hessenatie",
+        "code": "VHESS"
+    },
+    {
+        "gareNL": "Verb.Heule-Holvoet",
+        "gareFR": "Verb.Heule-Holvoet",
+        "code": "VHOLV"
+    },
+    {
+        "gareNL": "Verb.Ivarem",
+        "gareFR": "Verb.Ivarem",
+        "code": "VIVAR"
+    },
+    {
+        "gareNL": "Verb.Kallo Storage",
+        "gareFR": "Verb.Kallo Storage",
+        "code": "VSTOR"
+    },
+    {
+        "gareNL": "Verb.Lanxess",
+        "gareFR": "Verb.Lanxess",
+        "code": "VLANX"
+    },
+    {
+        "gareNL": "Verb.Lommel-N.V.Emgo",
+        "gareFR": "Verb.Lommel-N.V.Emgo",
+        "code": "VEMGO"
+    },
+    {
+        "gareNL": "Verb.Metallurgie-Hoboken",
+        "gareFR": "Verb.Metallurgie-Hoboken",
+        "code": "VHOBO"
+    },
+    {
+        "gareNL": "Verb.Prayon-Rupel",
+        "gareFR": "Verb.Prayon-Rupel",
+        "code": "VPRAY"
+    },
+    {
+        "gareNL": "Verb.Sibelco",
+        "gareFR": "Verb.Sibelco",
+        "code": "VSIBE"
+    },
+    {
+        "gareNL": "Verb.Van Moer",
+        "gareFR": "Verb.Van Moer",
+        "code": "VMOER"
+    },
+    {
+        "gareNL": "Verona Quadrante Europa",
+        "gareFR": "Verona Quadrante Europa",
+        "code": "VERON"
+    },
+    {
+        "gareNL": "Vertrijk",
+        "gareFR": "Vertrijk",
+        "code": "FVK"
+    },
+    {
+        "gareNL": "Vertrijk-Wijkspoor",
+        "gareFR": "Vertrijk-Wijkspoor",
+        "code": "FVKWS"
+    },
+    {
+        "gareNL": "Verviers-Centraal",
+        "gareFR": "Verviers-Central",
+        "code": "GV"
+    },
+    {
+        "gareNL": "Verviers-Oost",
+        "gareFR": "Verviers-Est",
+        "code": "GVE"
+    },
+    {
+        "gareNL": "Verviers-Paleis",
+        "gareFR": "Verviers-Palais",
+        "code": "GVP"
+    },
+    {
+        "gareNL": "Vesoul",
+        "gareFR": "Vesoul",
+        "code": "VES"
+    },
+    {
+        "gareNL": "Veurne",
+        "gareFR": "Furnes",
+        "code": "FVU"
+    },
+    {
+        "gareNL": "Viane-Moerbeke",
+        "gareFR": "Viane-Moerbeke",
+        "code": "FKV"
+    },
+    {
+        "gareNL": "Vichte",
+        "gareFR": "Vichte",
+        "code": "FVE"
+    },
+    {
+        "gareNL": "Vielsalm",
+        "gareFR": "Vielsalm",
+        "code": "FVI"
+    },
+    {
+        "gareNL": "Viersen Gbf",
+        "gareFR": "Viersen Gbf",
+        "code": "KVG"
+    },
+    {
+        "gareNL": "Vierzon",
+        "gareFR": "Vierzon",
+        "code": "V"
+    },
+    {
+        "gareNL": "Vijfhuizen",
+        "gareFR": "Vijfhuizen",
+        "code": "5HZN"
+    },
+    {
+        "gareNL": "Villach-Hauptbahnhof",
+        "gareFR": "Villach-Hauptbahnhof",
+        "code": "VILLA"
+    },
+    {
+        "gareNL": "Ville-Pommeroeul",
+        "gareFR": "Ville-Pommeroeul",
+        "code": "FPM"
+    },
+    {
+        "gareNL": "Villeneuve-St-Georges Triage",
+        "gareFR": "Villeneuve-St-Georges Triage",
+        "code": "VSG"
+    },
+    {
+        "gareNL": "Villers-la-Ville",
+        "gareFR": "Villers-la-Ville",
+        "code": "LLE"
+    },
+    {
+        "gareNL": "Vilvoorde",
+        "gareFR": "Vilvorde",
+        "code": "FVV"
+    },
+    {
+        "gareNL": "Virton",
+        "gareFR": "Virton",
+        "code": "MSM"
+    },
+    {
+        "gareNL": "Visé-Frontière",
+        "gareFR": "Visé-Frontière",
+        "code": "FVSFR"
+    },
+    {
+        "gareNL": "Visé-Haut",
+        "gareFR": "Visé-Haut",
+        "code": "FVSH"
+    },
+    {
+        "gareNL": "Vitry-le-Francois",
+        "gareFR": "Vitry-le-Francois",
+        "code": "VYF"
+    },
+    {
+        "gareNL": "Viville",
+        "gareFR": "Viville",
+        "code": "VIVIL"
+    },
+    {
+        "gareNL": "Vonêche",
+        "gareFR": "Vonêche",
+        "code": "MVO"
+    },
+    {
+        "gareNL": "Voorschoten",
+        "gareFR": "Voorschoten",
+        "code": "VST"
+    },
+    {
+        "gareNL": "Voroux",
+        "gareFR": "Voroux",
+        "code": "GVX"
+    },
+    {
+        "gareNL": "Voroux-Base travaux LGV",
+        "gareFR": "Voroux-Base travaux LGV",
+        "code": "GVXL"
+    },
+    {
+        "gareNL": "Vorst-Carwash",
+        "gareFR": "Forest-Carwash",
+        "code": "FOCW"
+    },
+    {
+        "gareNL": "Vorst-Noord",
+        "gareFR": "Forest-Nord",
+        "code": "FOND"
+    },
+    {
+        "gareNL": "Vorst-Oost",
+        "gareFR": "Forest-Est",
+        "code": "FOST"
+    },
+    {
+        "gareNL": "Vorst-Rijtuigen",
+        "gareFR": "Forest-Voitures",
+        "code": "FOVR"
+    },
+    {
+        "gareNL": "Vorst-Rijtuigen-Perron TW-HST",
+        "gareFR": "Forest-Voitures-Quai AT-TGV",
+        "code": "FOVRQ"
+    },
+    {
+        "gareNL": "Vorst-Zuid",
+        "gareFR": "Forest-Midi",
+        "code": "FO"
+    },
+    {
+        "gareNL": "Vorst-Zuid-Sporen 920/926",
+        "gareFR": "Forest-Midi-Voies 920/926",
+        "code": "FO926"
+    },
+    {
+        "gareNL": "Waarschoot",
+        "gareFR": "Waarschoot",
+        "code": "LWT"
+    },
+    {
+        "gareNL": "Waedenswil",
+        "gareFR": "Waedenswil",
+        "code": "WAE"
+    },
+    {
+        "gareNL": "Walcourt",
+        "gareFR": "Walcourt",
+        "code": "LWC"
+    },
+    {
+        "gareNL": "Walferdange",
+        "gareFR": "Walferdange",
+        "code": "XLWF"
+    },
+    {
+        "gareNL": "Wanne-Eickel Hbf",
+        "gareFR": "Wanne-Eickel Hbf",
+        "code": "EWAN"
+    },
+    {
+        "gareNL": "Waregem",
+        "gareFR": "Waregem",
+        "code": "FVG"
+    },
+    {
+        "gareNL": "Warszawa",
+        "gareFR": "Warszawa",
+        "code": "WARS"
+    },
+    {
+        "gareNL": "Waterloo",
+        "gareFR": "Waterloo",
+        "code": "FWT"
+    },
+    {
+        "gareNL": "Watermaal",
+        "gareFR": "Watermael",
+        "code": "FW"
+    },
+    {
+        "gareNL": "Waver",
+        "gareFR": "Wavre",
+        "code": "GWV"
+    },
+    {
+        "gareNL": "Weerde",
+        "gareFR": "Weerde",
+        "code": "FWE"
+    },
+    {
+        "gareNL": "Weert",
+        "gareFR": "Weert",
+        "code": "WT"
+    },
+    {
+        "gareNL": "Welkenraedt",
+        "gareFR": "Welkenraedt",
+        "code": "GWK"
+    },
+    {
+        "gareNL": "Welle",
+        "gareFR": "Welle",
+        "code": "WELLE"
+    },
+    {
+        "gareNL": "Wels Hbf",
+        "gareFR": "Wels Hbf",
+        "code": "WE"
+    },
+    {
+        "gareNL": "Wembley Yard",
+        "gareFR": "Wembley Yard",
+        "code": "WBYD"
+    },
+    {
+        "gareNL": "Wervik",
+        "gareFR": "Wervik",
+        "code": "LWK"
+    },
+    {
+        "gareNL": "Wesel",
+        "gareFR": "Wesel",
+        "code": "EWES"
+    },
+    {
+        "gareNL": "Wespelaar-Tildonk",
+        "gareFR": "Wespelaar-Tildonk",
+        "code": "FVP"
+    },
+    {
+        "gareNL": "Wetteren",
+        "gareFR": "Wetteren",
+        "code": "FVT"
+    },
+    {
+        "gareNL": "Wevelgem",
+        "gareFR": "Wevelgem",
+        "code": "FWM"
+    },
+    {
+        "gareNL": "Wezemaal",
+        "gareFR": "Wezemaal",
+        "code": "WEZML"
+    },
+    {
+        "gareNL": "Wezet",
+        "gareFR": "Visé",
+        "code": "FVS"
+    },
+    {
+        "gareNL": "Wichelen",
+        "gareFR": "Wichelen",
+        "code": "FNW"
+    },
+    {
+        "gareNL": "Wien",
+        "gareFR": "Wien",
+        "code": "WIEN"
+    },
+    {
+        "gareNL": "Wijgmaal",
+        "gareFR": "Wijgmaal",
+        "code": "FWG"
+    },
+    {
+        "gareNL": "Wildert",
+        "gareFR": "Wildert",
+        "code": "GWD"
+    },
+    {
+        "gareNL": "Willebroek",
+        "gareFR": "Willebroek",
+        "code": "FWB"
+    },
+    {
+        "gareNL": "Willebroek-Zeekanaal",
+        "gareFR": "Willebroek-Zeekanaal",
+        "code": "FWBZK"
+    },
+    {
+        "gareNL": "Wilwerwiltz",
+        "gareFR": "Wilwerwiltz",
+        "code": "XLWW"
+    },
+    {
+        "gareNL": "Wloclawek",
+        "gareFR": "Wloclawek",
+        "code": "WLOCL"
+    },
+    {
+        "gareNL": "Woippy",
+        "gareFR": "Woippy",
+        "code": "WPY"
+    },
+    {
+        "gareNL": "Wolfsburg Hbf",
+        "gareFR": "Wolfsburg Hbf",
+        "code": "HWOB"
+    },
+    {
+        "gareNL": "Wolfstee",
+        "gareFR": "Wolfstee",
+        "code": "WLFST"
+    },
+    {
+        "gareNL": "Wolfurt",
+        "gareFR": "Wolfurt",
+        "code": "WO"
+    },
+    {
+        "gareNL": "Wondelgem",
+        "gareFR": "Wondelgem",
+        "code": "FWO"
+    },
+    {
+        "gareNL": "Wondelgem-Wiedauwkaaibrug",
+        "gareFR": "Wondelgem-Wiedauwkaaibrug",
+        "code": "FWOW"
+    },
+    {
+        "gareNL": "Wörgl Hbf",
+        "gareFR": "Wörgl Hbf",
+        "code": "W"
+    },
+    {
+        "gareNL": "Würzburg Rbf",
+        "gareFR": "Würzburg Rbf",
+        "code": "NWR"
+    },
+    {
+        "gareNL": "Y.Abeelstraat",
+        "gareFR": "Y.Abeelstraat",
+        "code": "YABLS"
+    },
+    {
+        "gareNL": "Y.Aguesses",
+        "gareFR": "Y.Aguesses",
+        "code": "YAGSS"
+    },
+    {
+        "gareNL": "Y.Alaska",
+        "gareFR": "Y.Alaska",
+        "code": "YALSK"
+    },
+    {
+        "gareNL": "Y.Albertbrug",
+        "gareFR": "Y.Pont Albert",
+        "code": "YALBR"
+    },
+    {
+        "gareNL": "Y.Albertkanaal",
+        "gareFR": "Y.Albertkanaal",
+        "code": "YALBK"
+    },
+    {
+        "gareNL": "Y.Amerika",
+        "gareFR": "Y.Amerika",
+        "code": "YAMRK"
+    },
+    {
+        "gareNL": "Y.Antoing",
+        "gareFR": "Y.Antoing",
+        "code": "YFNT"
+    },
+    {
+        "gareNL": "Y.Antwerpen-Oost",
+        "gareFR": "Y.Antwerpen-Oost",
+        "code": "YGNS"
+    },
+    {
+        "gareNL": "Y.Antwerpen-Schijnpoort",
+        "gareFR": "Y.Antwerpen-Schijnpoort",
+        "code": "YFNZG"
+    },
+    {
+        "gareNL": "Y.Antwerpen-Zuid",
+        "gareFR": "Y.Antwerpen-Zuid",
+        "code": "YFNZD"
+    },
+    {
+        "gareNL": "Y.Arendstraat",
+        "gareFR": "Y.Arendstraat",
+        "code": "YARST"
+    },
+    {
+        "gareNL": "Y.Assels",
+        "gareFR": "Y.Assels",
+        "code": "YASLS"
+    },
+    {
+        "gareNL": "Y.Aubange",
+        "gareFR": "Y.Aubange",
+        "code": "YAUBG"
+    },
+    {
+        "gareNL": "Y.Aubry",
+        "gareFR": "Y.Aubry",
+        "code": "YAUBR"
+    },
+    {
+        "gareNL": "Y.Autelbas",
+        "gareFR": "Y.Autelbas",
+        "code": "YMTL"
+    },
+    {
+        "gareNL": "Y.Bayer",
+        "gareFR": "Y.Bayer",
+        "code": "YBYER"
+    },
+    {
+        "gareNL": "Y.Beauregard",
+        "gareFR": "Y.Beauregard",
+        "code": "YBGRD"
+    },
+    {
+        "gareNL": "Y.Berchem-Stadion",
+        "gareFR": "Y.Berchem-Stadion",
+        "code": "YBSTA"
+    },
+    {
+        "gareNL": "Y.Berendrecht",
+        "gareFR": "Y.Berendrecht",
+        "code": "YBDHT"
+    },
+    {
+        "gareNL": "Y.Berliwal",
+        "gareFR": "Y.Berliwal",
+        "code": "YBERW"
+    },
+    {
+        "gareNL": "Y.Bernadettestraat",
+        "gareFR": "Y.Bernadettestraat",
+        "code": "YBNDS"
+    },
+    {
+        "gareNL": "Y.Berneau",
+        "gareFR": "Y.Berneau",
+        "code": "YBERN"
+    },
+    {
+        "gareNL": "Y.Bethune",
+        "gareFR": "Y.Bethune",
+        "code": "YBETH"
+    },
+    {
+        "gareNL": "Y.Blauwe Toren",
+        "gareFR": "Y.Blauwe Toren",
+        "code": "YBT"
+    },
+    {
+        "gareNL": "Y.Bockstael",
+        "gareFR": "Y.Bockstael",
+        "code": "YBCKS"
+    },
+    {
+        "gareNL": "Y.Bois-d'Haine",
+        "gareFR": "Y.Bois-d'Haine",
+        "code": "YBHAI"
+    },
+    {
+        "gareNL": "Y.Boksbergheide",
+        "gareFR": "Y.Boksbergheide",
+        "code": "YBKHE"
+    },
+    {
+        "gareNL": "Y.Boma",
+        "gareFR": "Y.Boma",
+        "code": "YBOMA"
+    },
+    {
+        "gareNL": "Y.Boondaal",
+        "gareFR": "Y.Boondael",
+        "code": "YBNDL"
+    },
+    {
+        "gareNL": "Y.Borgnet",
+        "gareFR": "Y.Borgnet",
+        "code": "YBGNT"
+    },
+    {
+        "gareNL": "Y.Bosdel",
+        "gareFR": "Y.Bosdel",
+        "code": "YBSDL"
+    },
+    {
+        "gareNL": "Y.Brucargo",
+        "gareFR": "Y.Brucargo",
+        "code": "YBRCG"
+    },
+    {
+        "gareNL": "Y.Brussel-Klein-Eiland",
+        "gareFR": "Y.Bruxelles-Petite-Ile",
+        "code": "YFBKE"
+    },
+    {
+        "gareNL": "Y.Criquelion",
+        "gareFR": "Y.Criquelion",
+        "code": "YCRIQ"
+    },
+    {
+        "gareNL": "Y.Den Beer",
+        "gareFR": "Y.Den Beer",
+        "code": "YDENB"
+    },
+    {
+        "gareNL": "Y.Diegem",
+        "gareFR": "Y.Diegem",
+        "code": "YFDG"
+    },
+    {
+        "gareNL": "Y.Diest",
+        "gareFR": "Y.Diest",
+        "code": "YFDT"
+    },
+    {
+        "gareNL": "Y.Dijlebrug",
+        "gareFR": "Y.Dijlebrug",
+        "code": "YDLBR"
+    },
+    {
+        "gareNL": "Y.Drabstraat",
+        "gareFR": "Y.Drabstraat",
+        "code": "YDRBS"
+    },
+    {
+        "gareNL": "Y.Driehoekstraat",
+        "gareFR": "Y.Driehoekstraat",
+        "code": "YDRHS"
+    },
+    {
+        "gareNL": "Y.Dudzele",
+        "gareFR": "Y.Dudzele",
+        "code": "YDUDZ"
+    },
+    {
+        "gareNL": "Y.Duffel",
+        "gareFR": "Y.Duffel",
+        "code": "YDUFF"
+    },
+    {
+        "gareNL": "Y.Ecaussinnes",
+        "gareFR": "Y.Ecaussinnes",
+        "code": "YFCS"
+    },
+    {
+        "gareNL": "Y.Eine",
+        "gareFR": "Y.Eine",
+        "code": "YEINE"
+    },
+    {
+        "gareNL": "Y.Ekersedijk",
+        "gareFR": "Y.Ekersedijk",
+        "code": "YEKDK"
+    },
+    {
+        "gareNL": "Y.Etterbeek",
+        "gareFR": "Y.Etterbeek",
+        "code": "YMTB"
+    },
+    {
+        "gareNL": "Y.Familleureux",
+        "gareFR": "Y.Familleureux",
+        "code": "YFFM"
+    },
+    {
+        "gareNL": "Y.Farmanstraat",
+        "gareFR": "Y.Farmanstraat",
+        "code": "YFRMN"
+    },
+    {
+        "gareNL": "Y.Farnese-Oost",
+        "gareFR": "Y.Farnese-Oost",
+        "code": "YFNSO"
+    },
+    {
+        "gareNL": "Y.Farnese-West",
+        "gareFR": "Y.Farnese-West",
+        "code": "YFNSW"
+    },
+    {
+        "gareNL": "Y.Farnese-Zuid",
+        "gareFR": "Y.Farnese-Zuid",
+        "code": "YFNSZ"
+    },
+    {
+        "gareNL": "Y.Feluy",
+        "gareFR": "Y.Feluy",
+        "code": "YLFL"
+    },
+    {
+        "gareNL": "Y.Flawinne",
+        "gareFR": "Y.Flawinne",
+        "code": "YFFW"
+    },
+    {
+        "gareNL": "Y.Forchies",
+        "gareFR": "Y.Forchies",
+        "code": "YLFC"
+    },
+    {
+        "gareNL": "Y.Ford",
+        "gareFR": "Y.Ford",
+        "code": "YFORD"
+    },
+    {
+        "gareNL": "Y.Frederik",
+        "gareFR": "Y.Frederik",
+        "code": "YFRDK"
+    },
+    {
+        "gareNL": "Y.Garde-Dieu",
+        "gareFR": "Y.Garde-Dieu",
+        "code": "YGADI"
+    },
+    {
+        "gareNL": "Y.Gent-West",
+        "gareFR": "Y.Gent-West",
+        "code": "YFGW"
+    },
+    {
+        "gareNL": "Y.Geslecht-Oost",
+        "gareFR": "Y.Geslecht-Oost",
+        "code": "YGSLO"
+    },
+    {
+        "gareNL": "Y.Geslecht-West",
+        "gareFR": "Y.Geslecht-West",
+        "code": "YGSLW"
+    },
+    {
+        "gareNL": "Y.Gingelomstraat",
+        "gareFR": "Y.Gingelomstraat",
+        "code": "YGIST"
+    },
+    {
+        "gareNL": "Y.Glons",
+        "gareFR": "Y.Glons",
+        "code": "YLGL"
+    },
+    {
+        "gareNL": "Y.Haandorp",
+        "gareFR": "Y.Haandorp",
+        "code": "YHNDP"
+    },
+    {
+        "gareNL": "Y.Hammerbrücke",
+        "gareFR": "Y.Hammerbrücke",
+        "code": "YHABR"
+    },
+    {
+        "gareNL": "Y.Haren-Noord",
+        "gareFR": "Y.Haren-Nord",
+        "code": "YGHTN"
+    },
+    {
+        "gareNL": "Y.Harenheide",
+        "gareFR": "Y.Harenheide",
+        "code": "YHAHE"
+    },
+    {
+        "gareNL": "Y.Heike",
+        "gareFR": "Y.Heike",
+        "code": "YHEIK"
+    },
+    {
+        "gareNL": "Y.Herent",
+        "gareFR": "Y.Herent",
+        "code": "YFET"
+    },
+    {
+        "gareNL": "Y.Hever",
+        "gareFR": "Y.Hever",
+        "code": "YHEVR"
+    },
+    {
+        "gareNL": "Y.Holland",
+        "gareFR": "Y.Holland",
+        "code": "YHLND"
+    },
+    {
+        "gareNL": "Y.Hollerich",
+        "gareFR": "Y.Hollerich",
+        "code": "YLH"
+    },
+    {
+        "gareNL": "Y.Holsbeek",
+        "gareFR": "Y.Holsbeek",
+        "code": "YHLBK"
+    },
+    {
+        "gareNL": "Y.Houraing",
+        "gareFR": "Y.Houraing",
+        "code": "YHRNG"
+    },
+    {
+        "gareNL": "Y.Josaphat",
+        "gareFR": "Y.Josaphat",
+        "code": "YJSPH"
+    },
+    {
+        "gareNL": "Y.Jurbise",
+        "gareFR": "Y.Jurbise",
+        "code": "YFJR"
+    },
+    {
+        "gareNL": "Y.Kaatsbeek",
+        "gareFR": "Y.Kaatsbeek",
+        "code": "YKABK"
+    },
+    {
+        "gareNL": "Y.Kalishoek",
+        "gareFR": "Y.Kalishoek",
+        "code": "YKAHK"
+    },
+    {
+        "gareNL": "Y.Kastel",
+        "gareFR": "Y.Kastel",
+        "code": "YKSTL"
+    },
+    {
+        "gareNL": "Y.Kattestraat",
+        "gareFR": "Y.Kattestraat",
+        "code": "YKATS"
+    },
+    {
+        "gareNL": "Y.Keelbeek",
+        "gareFR": "Y.Keelbeek",
+        "code": "YKEBK"
+    },
+    {
+        "gareNL": "Y.Ketenis-Oost",
+        "gareFR": "Y.Ketenis-Oost",
+        "code": "YKTNO"
+    },
+    {
+        "gareNL": "Y.Ketenis-Zuid",
+        "gareFR": "Y.Ketenis-Zuid",
+        "code": "YKTNZ"
+    },
+    {
+        "gareNL": "Y.Koestraat",
+        "gareFR": "Y.Koestraat",
+        "code": "YKOES"
+    },
+    {
+        "gareNL": "Y.Koksijde",
+        "gareFR": "Y.Koksijde",
+        "code": "YMX"
+    },
+    {
+        "gareNL": "Y.Kortrijk-West",
+        "gareFR": "Y.Kortrijk-West",
+        "code": "YLKW"
+    },
+    {
+        "gareNL": "Y.Krijgsbaan",
+        "gareFR": "Y.Krijgsbaan",
+        "code": "YKRBN"
+    },
+    {
+        "gareNL": "Y.Krommenhoek",
+        "gareFR": "Y.Krommenhoek",
+        "code": "YKRHK"
+    },
+    {
+        "gareNL": "Y.Kruipin",
+        "gareFR": "Y.Kruipin",
+        "code": "YKRIN"
+    },
+    {
+        "gareNL": "Y.Kruisberg",
+        "gareFR": "Y.Kruisberg",
+        "code": "YKRBG"
+    },
+    {
+        "gareNL": "Y.Kruiske",
+        "gareFR": "Y.Kruiske",
+        "code": "YKRSK"
+    },
+    {
+        "gareNL": "Y.Kruisschans",
+        "gareFR": "Y.Kruisschans",
+        "code": "YKRSC"
+    },
+    {
+        "gareNL": "Y.Kuregem",
+        "gareFR": "Y.Cureghem",
+        "code": "YKUGM"
+    },
+    {
+        "gareNL": "Y.La Paix",
+        "gareFR": "Y.La Paix",
+        "code": "YLPAI"
+    },
+    {
+        "gareNL": "Y.La Sambre",
+        "gareFR": "Y.La Sambre",
+        "code": "YLLS"
+    },
+    {
+        "gareNL": "Y.Laken",
+        "gareFR": "Y.Laeken",
+        "code": "YLAKN"
+    },
+    {
+        "gareNL": "Y.Le Coucou",
+        "gareFR": "Y.Le Coucou",
+        "code": "YLCC"
+    },
+    {
+        "gareNL": "Y.Leiebrug",
+        "gareFR": "Y.Leiebrug",
+        "code": "YLEBR"
+    },
+    {
+        "gareNL": "Y.Leman",
+        "gareFR": "Y.Leman",
+        "code": "YLMAN"
+    },
+    {
+        "gareNL": "Y.Lens",
+        "gareFR": "Y.Lens",
+        "code": "YFNE"
+    },
+    {
+        "gareNL": "Y.Leopold",
+        "gareFR": "Y.Leopold",
+        "code": "YLEOP"
+    },
+    {
+        "gareNL": "Y.Leuven-Bundel M",
+        "gareFR": "Y.Leuven-Bundel M",
+        "code": "YFLVM"
+    },
+    {
+        "gareNL": "Y.Liersesteenweg",
+        "gareFR": "Y.Liersesteenweg",
+        "code": "YLSWG"
+    },
+    {
+        "gareNL": "Y.Lillobrug",
+        "gareFR": "Y.Lillobrug",
+        "code": "YLIBR"
+    },
+    {
+        "gareNL": "Y.Linkebeek",
+        "gareFR": "Y.Linkebeek",
+        "code": "YLKBK"
+    },
+    {
+        "gareNL": "Y.Linkebeek-Halle",
+        "gareFR": "Y.Linkebeek-Halle",
+        "code": "YLKHL"
+    },
+    {
+        "gareNL": "Y.Lint",
+        "gareFR": "Y.Lint",
+        "code": "YLINT"
+    },
+    {
+        "gareNL": "Y.Longchamps",
+        "gareFR": "Y.Longchamps",
+        "code": "YLNGC"
+    },
+    {
+        "gareNL": "Y.Louvain-la-Neuve",
+        "gareFR": "Y.Louvain-la-Neuve",
+        "code": "YLNO"
+    },
+    {
+        "gareNL": "Y.Luchtbal",
+        "gareFR": "Y.Luchtbal",
+        "code": "YLUBL"
+    },
+    {
+        "gareNL": "Y.Luchthaven",
+        "gareFR": "Y.Luchthaven",
+        "code": "YLHVN"
+    },
+    {
+        "gareNL": "Y.Machelen",
+        "gareFR": "Y.Machelen",
+        "code": "YMCHL"
+    },
+    {
+        "gareNL": "Y.Machelen-Noord",
+        "gareFR": "Y.Machelen-Noord",
+        "code": "YMCHN"
+    },
+    {
+        "gareNL": "Y.Machelen-Zuid",
+        "gareFR": "Y.Machelen-Zuid",
+        "code": "YMCHZ"
+    },
+    {
+        "gareNL": "Y.Mariemont",
+        "gareFR": "Y.Mariemont",
+        "code": "YMMNT"
+    },
+    {
+        "gareNL": "Y.Martinet",
+        "gareFR": "Y.Martinet",
+        "code": "YMTNT"
+    },
+    {
+        "gareNL": "Y.Maubray",
+        "gareFR": "Y.Maubray",
+        "code": "YMAUB"
+    },
+    {
+        "gareNL": "Y.Meestoof",
+        "gareFR": "Y.Meestoof",
+        "code": "YMSTF"
+    },
+    {
+        "gareNL": "Y.Melle",
+        "gareFR": "Y.Melle",
+        "code": "YFML"
+    },
+    {
+        "gareNL": "Y.Melsele",
+        "gareFR": "Y.Melsele",
+        "code": "YMSLE"
+    },
+    {
+        "gareNL": "Y.Meulewijk",
+        "gareFR": "Y.Meulewijk",
+        "code": "SPVM"
+    },
+    {
+        "gareNL": "Y.Molenbeek",
+        "gareFR": "Y.Molenbeek",
+        "code": "YMLBK"
+    },
+    {
+        "gareNL": "Y.Muide",
+        "gareFR": "Y.Muide",
+        "code": "YMUDE"
+    },
+    {
+        "gareNL": "Y.Muisbroek",
+        "gareFR": "Y.Muisbroek",
+        "code": "YMUBR"
+    },
+    {
+        "gareNL": "Y.Muizen",
+        "gareFR": "Y.Muizen",
+        "code": "YFIZ"
+    },
+    {
+        "gareNL": "Y.Nazareth",
+        "gareFR": "Y.Nazareth",
+        "code": "YNZTH"
+    },
+    {
+        "gareNL": "Y.Nederboelare",
+        "gareFR": "Y.Nederboelare",
+        "code": "YNDBL"
+    },
+    {
+        "gareNL": "Y.Neffe",
+        "gareFR": "Y.Neffe",
+        "code": "YNFFE"
+    },
+    {
+        "gareNL": "Y.Nieuwdak",
+        "gareFR": "Y.Nieuwdak",
+        "code": "YNWDK"
+    },
+    {
+        "gareNL": "Y.Noord Berchem",
+        "gareFR": "Y.Noord Berchem",
+        "code": "YFCVN"
+    },
+    {
+        "gareNL": "Y.Noord Driehoek Aarschot",
+        "gareFR": "Y.Noord Driehoek Aarschot",
+        "code": "YRSTN"
+    },
+    {
+        "gareNL": "Y.Noord Driehoek Hasselt",
+        "gareFR": "Y.Noord Driehoek Hasselt",
+        "code": "YFHSN"
+    },
+    {
+        "gareNL": "Y.Noord Driehoek Ledeberg",
+        "gareFR": "Y.Noord Driehoek Ledeberg",
+        "code": "YLBGN"
+    },
+    {
+        "gareNL": "Y.Noord Driehoek Lillo",
+        "gareFR": "Y.Noord Driehoek Lillo",
+        "code": "YNLIL"
+    },
+    {
+        "gareNL": "Y.Noord Everstein",
+        "gareFR": "Y.Noord Everstein",
+        "code": "YESTN"
+    },
+    {
+        "gareNL": "Y.Noord Groenenhoek",
+        "gareFR": "Y.Noord Groenenhoek",
+        "code": "YGHKN"
+    },
+    {
+        "gareNL": "Y.Noord Halle",
+        "gareFR": "Y.Noord Halle",
+        "code": "YFHN"
+    },
+    {
+        "gareNL": "Y.Noorderlaan",
+        "gareFR": "Y.Noorderlaan",
+        "code": "YNDRL"
+    },
+    {
+        "gareNL": "Y.Nord",
+        "gareFR": "Y.Nord",
+        "code": "YNORD"
+    },
+    {
+        "gareNL": "Y.Nossegem",
+        "gareFR": "Y.Nossegem",
+        "code": "YLEM"
+    },
+    {
+        "gareNL": "Y.Oorderen",
+        "gareFR": "Y.Oorderen",
+        "code": "YORDR"
+    },
+    {
+        "gareNL": "Y.Oost Berchem",
+        "gareFR": "Y.Oost Berchem",
+        "code": "YFCVO"
+    },
+    {
+        "gareNL": "Y.Oost Driehoek Aarschot",
+        "gareFR": "Y.Oost Driehoek Aarschot",
+        "code": "YRSTO"
+    },
+    {
+        "gareNL": "Y.Oost Driehoek Ledeberg",
+        "gareFR": "Y.Oost Driehoek Ledeberg",
+        "code": "YLBGO"
+    },
+    {
+        "gareNL": "Y.Oost Driehoek Lillo",
+        "gareFR": "Y.Oost Driehoek Lillo",
+        "code": "YOLIL"
+    },
+    {
+        "gareNL": "Y.Oosterweel",
+        "gareFR": "Y.Oosterweel",
+        "code": "YOTWL"
+    },
+    {
+        "gareNL": "Y.Oostkamp",
+        "gareFR": "Y.Oostkamp",
+        "code": "YFPO"
+    },
+    {
+        "gareNL": "Y.Ordam",
+        "gareFR": "Y.Ordam",
+        "code": "YORDM"
+    },
+    {
+        "gareNL": "Y.Otterbeek",
+        "gareFR": "Y.Otterbeek",
+        "code": "YOTBK"
+    },
+    {
+        "gareNL": "Y.Oudendijk",
+        "gareFR": "Y.Oudendijk",
+        "code": "YODDK"
+    },
+    {
+        "gareNL": "Y.Pannenhuis",
+        "gareFR": "Y.Pannenhuis",
+        "code": "YPAHS"
+    },
+    {
+        "gareNL": "Y.Parkbrug",
+        "gareFR": "Y.Parkbrug",
+        "code": "YPABR"
+    },
+    {
+        "gareNL": "Y.Patard",
+        "gareFR": "Y.Patard",
+        "code": "YPATD"
+    },
+    {
+        "gareNL": "Y.Pelikaan",
+        "gareFR": "Y.Pelikaan",
+        "code": "YPEL"
+    },
+    {
+        "gareNL": "Y.Prinsenhoek",
+        "gareFR": "Y.Prinsenhoek",
+        "code": "YPRHK"
+    },
+    {
+        "gareNL": "Y.Ramskapelle",
+        "gareFR": "Y.Ramskapelle",
+        "code": "YRAMK"
+    },
+    {
+        "gareNL": "Y.Renory",
+        "gareFR": "Y.Renory",
+        "code": "YRENO"
+    },
+    {
+        "gareNL": "Y.Ringvaart",
+        "gareFR": "Y.Ringvaart",
+        "code": "YRVRT"
+    },
+    {
+        "gareNL": "Y.Ronet",
+        "gareFR": "Y.Ronet",
+        "code": "YFEO"
+    },
+    {
+        "gareNL": "Y.Ruisbroek",
+        "gareFR": "Y.Ruisbroek",
+        "code": "YRUBR"
+    },
+    {
+        "gareNL": "Y.Saint-Lambert",
+        "gareFR": "Y.Saint-Lambert",
+        "code": "YSTLB"
+    },
+    {
+        "gareNL": "Y.Saint-Vaast",
+        "gareFR": "Y.Saint-Vaast",
+        "code": "YSTVA"
+    },
+    {
+        "gareNL": "Y.Sauvegarde",
+        "gareFR": "Y.Sauvegarde",
+        "code": "YSGRD"
+    },
+    {
+        "gareNL": "Y.Schaarbeek-Groep G",
+        "gareFR": "Y.Schaerbeek-Groupe G",
+        "code": "YGRPG"
+    },
+    {
+        "gareNL": "Y.Schijn",
+        "gareFR": "Y.Schijn",
+        "code": "YSCHN"
+    },
+    {
+        "gareNL": "Y.Silly",
+        "gareFR": "Y.Silly",
+        "code": "YSLLY"
+    },
+    {
+        "gareNL": "Y.Sint-Katelijne-Waver",
+        "gareFR": "Y.Sint-Katelijne-Waver",
+        "code": "YSKLW"
+    },
+    {
+        "gareNL": "Y.Sint-Katherina-Lombeek",
+        "gareFR": "Y.Sint-Katherina-Lombeek",
+        "code": "YSKL"
+    },
+    {
+        "gareNL": "Y.Sint-Mariaburg",
+        "gareFR": "Y.Sint-Mariaburg",
+        "code": "YSMBR"
+    },
+    {
+        "gareNL": "Y.Soignies",
+        "gareFR": "Y.Soignies",
+        "code": "YFSG"
+    },
+    {
+        "gareNL": "Y.Stabroek",
+        "gareFR": "Y.Stabroek",
+        "code": "YSTBK"
+    },
+    {
+        "gareNL": "Y.Steenland",
+        "gareFR": "Y.Steenland",
+        "code": "YSLND"
+    },
+    {
+        "gareNL": "Y.Termien",
+        "gareFR": "Y.Termien",
+        "code": "YTEMN"
+    },
+    {
+        "gareNL": "Y.Tivoli",
+        "gareFR": "Y.Tivoli",
+        "code": "YTIVO"
+    },
+    {
+        "gareNL": "Y.Val-Benoit",
+        "gareFR": "Y.Val-Benoit",
+        "code": "YVALB"
+    },
+    {
+        "gareNL": "Y.Val-Saint-Lambert",
+        "gareFR": "Y.Val-Saint-Lambert",
+        "code": "YVSLB"
+    },
+    {
+        "gareNL": "Y.Visé-Haut",
+        "gareFR": "Y.Visé-Haut",
+        "code": "YFVSH"
+    },
+    {
+        "gareNL": "Y.Voroux",
+        "gareFR": "Y.Voroux",
+        "code": "YGVX"
+    },
+    {
+        "gareNL": "Y.Vorst-Oost",
+        "gareFR": "Y.Forest-Est",
+        "code": "YFOST"
+    },
+    {
+        "gareNL": "Y.Walenhoek",
+        "gareFR": "Y.Walenhoek",
+        "code": "YWAHK"
+    },
+    {
+        "gareNL": "Y.Watermaal",
+        "gareFR": "Y.Watermael",
+        "code": "YFW"
+    },
+    {
+        "gareNL": "Y.Weerde",
+        "gareFR": "Y.Weerde",
+        "code": "YFWE"
+    },
+    {
+        "gareNL": "Y.Welle",
+        "gareFR": "Y.Welle",
+        "code": "YWLLE"
+    },
+    {
+        "gareNL": "Y.West Berchem",
+        "gareFR": "Y.West Berchem",
+        "code": "YFCVW"
+    },
+    {
+        "gareNL": "Y.West Driehoek Hasselt",
+        "gareFR": "Y.West Driehoek Hasselt",
+        "code": "YFHSW"
+    },
+    {
+        "gareNL": "Y.West Driehoek Ledeberg",
+        "gareFR": "Y.West Driehoek Ledeberg",
+        "code": "YLBGW"
+    },
+    {
+        "gareNL": "Y.West Driehoek Lillo",
+        "gareFR": "Y.West Driehoek Lillo",
+        "code": "YWLIL"
+    },
+    {
+        "gareNL": "Y.Wilsele",
+        "gareFR": "Y.Wilsele",
+        "code": "YWILS"
+    },
+    {
+        "gareNL": "Y.Wittemolen",
+        "gareFR": "Y.Wittemolen",
+        "code": "YWIMO"
+    },
+    {
+        "gareNL": "Y.Wolfstee",
+        "gareFR": "Y.Wolfstee",
+        "code": "YWLFS"
+    },
+    {
+        "gareNL": "Y.Zandberg",
+        "gareFR": "Y.Zandberg",
+        "code": "YZABG"
+    },
+    {
+        "gareNL": "Y.Zaventem",
+        "gareFR": "Y.Zaventem",
+        "code": "YFZA"
+    },
+    {
+        "gareNL": "Y.Zennebrug",
+        "gareFR": "Y.Pont-de-la-Senne",
+        "code": "YZEBR"
+    },
+    {
+        "gareNL": "Y.Zonhoven",
+        "gareFR": "Y.Zonhoven",
+        "code": "YZONH"
+    },
+    {
+        "gareNL": "Y.Zuid Driehoek Aarschot",
+        "gareFR": "Y.Zuid Driehoek Aarschot",
+        "code": "YRSTZ"
+    },
+    {
+        "gareNL": "Y.Zuid Everstein",
+        "gareFR": "Y.Zuid Everstein",
+        "code": "YESTZ"
+    },
+    {
+        "gareNL": "Y.Zuid Groenenhoek",
+        "gareFR": "Y.Zuid Groenenhoek",
+        "code": "YGHKZ"
+    },
+    {
+        "gareNL": "Y.Zwijndrecht-Fort",
+        "gareFR": "Y.Zwijndrecht-Fort",
+        "code": "YLZDF"
+    },
+    {
+        "gareNL": "Yves-Gomezée",
+        "gareFR": "Yves-Gomezée",
+        "code": "YVESG"
+    },
+    {
+        "gareNL": "Yvoir",
+        "gareFR": "Yvoir",
+        "code": "NV"
+    },
+    {
+        "gareNL": "Zandbergen",
+        "gareFR": "Zandbergen",
+        "code": "FZB"
+    },
+    {
+        "gareNL": "Zaventem",
+        "gareFR": "Zaventem",
+        "code": "FZA"
+    },
+    {
+        "gareNL": "Zaventem-Rooster P/Q",
+        "gareFR": "Zaventem-Rooster P/Q",
+        "code": "FZAPQ"
+    },
+    {
+        "gareNL": "Zedelgem",
+        "gareFR": "Zedelgem",
+        "code": "LZM"
+    },
+    {
+        "gareNL": "Zedelgem-Goederen",
+        "gareFR": "Zedelgem-Goederen",
+        "code": "LZMG"
+    },
+    {
+        "gareNL": "Zeebrugge-Bundel N.I.D.",
+        "gareFR": "Zeebrugge-Bundel N.I.D.",
+        "code": "LZNID"
+    },
+    {
+        "gareNL": "Zeebrugge-Bundel O.C.H.Z.",
+        "gareFR": "Zeebrugge-Bundel O.C.H.Z.",
+        "code": "LZOCH"
+    },
+    {
+        "gareNL": "Zeebrugge-Bundel Pelikaan",
+        "gareFR": "Zeebrugge-Bundel Pelikaan",
+        "code": "BPEL"
+    },
+    {
+        "gareNL": "Zeebrugge-Bundel Ramskapelle",
+        "gareFR": "Zeebrugge-Bundel Ramskapelle",
+        "code": "BRAM"
+    },
+    {
+        "gareNL": "Zeebrugge-Dorp",
+        "gareFR": "Zeebrugge-Dorp",
+        "code": "LZE"
+    },
+    {
+        "gareNL": "Zeebrugge-Strand",
+        "gareFR": "Zeebrugge-Strand",
+        "code": "LZS"
+    },
+    {
+        "gareNL": "Zeebrugge-Voorhaven-West",
+        "gareFR": "Zeebrugge-Voorhaven-West",
+        "code": "LZVHW"
+    },
+    {
+        "gareNL": "Zeebrugge-Vorming",
+        "gareFR": "Zeebrugge-Vorming",
+        "code": "LZR"
+    },
+    {
+        "gareNL": "Zeebrugge-Zweedse Kaai",
+        "gareFR": "Zeebrugge-Zweedse Kaai",
+        "code": "LZEK"
+    },
+    {
+        "gareNL": "Zele",
+        "gareFR": "Zele",
+        "code": "FZ"
+    },
+    {
+        "gareNL": "Zell am See",
+        "gareFR": "Zell am See",
+        "code": "ZELL"
+    },
+    {
+        "gareNL": "Zellik",
+        "gareFR": "Zellik",
+        "code": "FZI"
+    },
+    {
+        "gareNL": "Zelzate",
+        "gareFR": "Zelzate",
+        "code": "FZZ"
+    },
+    {
+        "gareNL": "Zelzate-Grens",
+        "gareFR": "Zelzate-Grens",
+        "code": "FZZGR"
+    },
+    {
+        "gareNL": "Zelzate-Rieme",
+        "gareFR": "Zelzate-Rieme",
+        "code": "FZZR"
+    },
+    {
+        "gareNL": "Zevenbergen",
+        "gareFR": "Zevenbergen",
+        "code": "ZVB"
+    },
+    {
+        "gareNL": "Zichem",
+        "gareFR": "Zichem",
+        "code": "GZC"
+    },
+    {
+        "gareNL": "Ziegelbrücke",
+        "gareFR": "Ziegelbrücke",
+        "code": "ZB"
+    },
+    {
+        "gareNL": "Ziltendorf",
+        "gareFR": "Ziltendorf",
+        "code": "BZIL"
+    },
+    {
+        "gareNL": "Zingem",
+        "gareFR": "Zingem",
+        "code": "FZG"
+    },
+    {
+        "gareNL": "Zinnik",
+        "gareFR": "Soignies",
+        "code": "FSG"
+    },
+    {
+        "gareNL": "Zolder",
+        "gareFR": "Zolder",
+        "code": "MZDST"
+    },
+    {
+        "gareNL": "Zolder-Kruissporen",
+        "gareFR": "Zolder-Kruissporen",
+        "code": "MZD"
+    },
+    {
+        "gareNL": "Zonhoven",
+        "gareFR": "Zonhoven",
+        "code": "ZHVN"
+    },
+    {
+        "gareNL": "Zonhoven-Rooster P/U",
+        "gareFR": "Zonhoven-Rooster P/U",
+        "code": "ZHVPU"
+    },
+    {
+        "gareNL": "Zottegem",
+        "gareFR": "Zottegem",
+        "code": "FZT"
+    },
+    {
+        "gareNL": "Zutendaal",
+        "gareFR": "Zutendaal",
+        "code": "ZUTDL"
+    },
+    {
+        "gareNL": "Zwankendamme",
+        "gareFR": "Zwankendamme",
+        "code": "ZWA"
+    },
+    {
+        "gareNL": "Zwijndrecht",
+        "gareFR": "Zwijndrecht",
+        "code": "LZD"
+    },
+    {
+        "gareNL": "Zwijndrecht",
+        "gareFR": "Zwijndrecht",
+        "code": "ZWD"
+    },
+    {
+        "gareNL": "Zwijndrecht-Industriezone",
+        "gareFR": "Zwijndrecht-Industriezone",
+        "code": "LZDIZ"
+    },
+    {
+        "gareNL": "Zwijndrecht-Wijksporen",
+        "gareFR": "Zwijndrecht-Wijksporen",
+        "code": "LZDWS"
+    },
+    {
+        "gareNL": "Zürich Hb",
+        "gareFR": "Zürich Hb",
+        "code": "ZURIC"
+    },
+    {
+        "gareNL": "Älmhult",
+        "gareFR": "Älmhult",
+        "code": "AH"
+    },
+    {
+        "gareNL": "Ébange",
+        "gareFR": "Ébange",
+        "code": "EBG"
+    }
+]
