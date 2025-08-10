@@ -26,3 +26,21 @@ export const decoupeTachesPrestation = (taches: string) => {
     }
     return result;
 }
+
+export const additionnerHeures = (heureDebut: string, minutesDebut: string, heureFin: string, minutesFin: string) => {
+    let result = 0;
+    if (heureDebut > heureFin) {
+        const horaireDebut =
+            Number(heureDebut) * 60 + Number(minutesDebut)
+        const horaireFin =
+            (Number(heureFin) + 24) * 60 + Number(minutesFin)
+        result = horaireFin - horaireDebut
+    } else {
+        const horaireDebut =
+            Number(heureDebut) * 60 + Number(minutesDebut)
+        const horaireFin =
+            Number(heureFin) * 60 + Number(minutesFin)
+        result = horaireFin - horaireDebut
+    }
+    return result
+}

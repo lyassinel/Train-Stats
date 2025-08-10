@@ -207,7 +207,22 @@ export interface Prestation {
   periode: string;
   heureDebut: string;
   heureFin: string;
+  roulement?:
+    | {
+        serie?: string | null;
+        semaine?: string | null;
+        jour?: string | null;
+        periode?: string | null;
+        id?: string | null;
+      }[]
+    | null;
   amplitude: string;
+  amplitudeMin?: number | null;
+  tempsConduite?: number | null;
+  tempsActif?: number | null;
+  tempsReserve?: number | null;
+  tempsHLP?: number | null;
+  RawData?: string | null;
   updatedAt: string;
   createdAt: string;
 }
@@ -362,7 +377,22 @@ export interface PrestationsSelect<T extends boolean = true> {
   periode?: T;
   heureDebut?: T;
   heureFin?: T;
+  roulement?:
+    | T
+    | {
+        serie?: T;
+        semaine?: T;
+        jour?: T;
+        periode?: T;
+        id?: T;
+      };
   amplitude?: T;
+  amplitudeMin?: T;
+  tempsConduite?: T;
+  tempsActif?: T;
+  tempsReserve?: T;
+  tempsHLP?: T;
+  RawData?: T;
   updatedAt?: T;
   createdAt?: T;
 }
