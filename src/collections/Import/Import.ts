@@ -105,7 +105,7 @@ export const Import: CollectionConfig = {
               const regexTitre = /Prestation ?(\w{1,4}) *(\d{1,4}) ?(\w\d{0,3}) ?(\w*)/
               const regexDateApplication = /Date ?d'application *(\d{2}\/\d{2}\/\d{4})/
               const regexDureeSemaineDebut =
-                /Durée ?: ?(\d{2}).(\d{2})\* ?CTB ?(\w+)( *\d*) ?((R|N)\d+) (?:\w|\W){0,3} ?\*(\d{2}).(\d{2})/
+                /Durée ?: ?(\d{2}).(\d{2})\* ?CTB ?(\w+)( *\d*) ?((R|N)\d+)? (?:\w|\W){0,3} ?\*(\d{2}).(\d{2})/
               const regexHeureDebutContenuHeureFin =
                 /\*(\d{2}).(\d{2})\*{5,} ?\*+(.+)\*{7} \*(\d{2}).(\d{2})/
               const regexDetailsPrestation =
@@ -284,7 +284,7 @@ export const Import: CollectionConfig = {
                         tempsHLP: totalHLP,
                       },
                     })
-                    .then(() => console.log(`Prestation importée`))
+                    .then(() => console.log(`Prestation importée`, documentValide, 'sur', prestationsArray.length))
                     .catch((err) =>
                       console.error(`Erreur lors de l'import de la prestation : ${err}`),
                     )
