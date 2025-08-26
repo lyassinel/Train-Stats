@@ -65,7 +65,7 @@ export const Import: CollectionConfig = {
       name: 'etat',
       type: 'select',
       options: [
-        { label: "En attente", value: 'pending' },
+        { label: 'En attente', value: 'pending' },
         { label: 'Importé', value: 'imported' },
         { label: 'Erreur', value: 'error' },
       ],
@@ -91,7 +91,8 @@ export const Import: CollectionConfig = {
           if (doc.Type === 'prestations') {
             // --- parse file to plain text (ODT) ---
             const data = await parseOdtToText(filePath)
-
+            let serieList: string[] = []
+            let depotLivretMatch: RegExpMatchArray | null = null
             // count total CTB occurrences in the whole document (useful to compare later)
             const totalCTBInDoc = (data.match(/CTB/g) || []).length
             let totalCTBFound = 0
@@ -140,8 +141,7 @@ export const Import: CollectionConfig = {
 
               if (dureeSemaineDebut) {
                 amplitudePrestation = dureeSemaineDebut[1] + ':' + dureeSemaineDebut[2]
-                amplitudeMintues =
-                  Number(dureeSemaineDebut[1]) * 60 + Number(dureeSemaineDebut[2])
+                amplitudeMintues = Number(dureeSemaineDebut[1]) * 60 + Number(dureeSemaineDebut[2])
               }
 
               if (heureDebutContenuHeureFin) {
@@ -182,8 +182,11 @@ export const Import: CollectionConfig = {
                       )
                       totalHLP += totalTache
                     }
-                    if (detailsPrestation[7] || detailsPrestation[2] || (detailsPrestation[3] == 'CarWash')) {
-
+                    if (
+                      detailsPrestation[7] ||
+                      detailsPrestation[2] ||
+                      detailsPrestation[3] == 'CarWash'
+                    ) {
                       totalTache = additionnerHeures(
                         detailsPrestation[16],
                         detailsPrestation[17],
@@ -210,6 +213,9 @@ export const Import: CollectionConfig = {
 
                     const joursRoulement = roulement[4].split('')
                     for (const jour of joursRoulement) {
+                      if (!serieList.includes(roulement[1])) {
+                        serieList.push(roulement[1])
+                      }
                       roulementsData.push({
                         serie: roulement[1],
                         semaine: roulement[2] ? String(roulement[2]) : '0',
@@ -230,14 +236,17 @@ export const Import: CollectionConfig = {
               // create prestation if not exists
               // resolve depot id (similar to your original logic)
               const regexDepotLivret = /(?:Prestation|Prestatie) {1,2}(\w{2,6})/
-              const depotLivretMatch = data.match(regexDepotLivret)
-              const regexDateDapplication = /(?:Date d'application|Toepassingsdatum) (\d{2}\/\d{2}\/\d{4})/
+              depotLivretMatch = data.match(regexDepotLivret)
+              const regexDateDapplication =
+                /(?:Date d'application|Toepassingsdatum) (\d{2}\/\d{2}\/\d{4})/
               const dateLivret = data.match(regexDateDapplication)
-              const [jour, mois, annee] = dateLivret ? dateLivret[1].split('/') : ['01', '01', '1970']
+              const [jour, mois, annee] = dateLivret
+                ? dateLivret[1].split('/')
+                : ['01', '01', '1970']
               const dateISO = `${annee}-${mois.padStart(2, '0')}-${jour.padStart(2, '0')}`
 
               let idDepotLivret: any = undefined
-              if (depotLivretMatch) {
+              if (depotLivretMatch && depotLivretMatch[1]) {
                 idDepotLivret = await req.payload.find({
                   collection: 'gares',
                   where: { code: { equals: depotLivretMatch[1] } },
@@ -284,7 +293,14 @@ export const Import: CollectionConfig = {
                         tempsHLP: totalHLP,
                       },
                     })
-                    .then(() => console.log(`Prestation importée`, documentValide, 'sur', prestationsArray.length))
+                    .then(() =>
+                      console.log(
+                        `Prestation importée`,
+                        documentValide,
+                        'sur',
+                        prestationsArray.length,
+                      ),
+                    )
                     .catch((err) =>
                       console.error(`Erreur lors de l'import de la prestation : ${err}`),
                     )
@@ -302,20 +318,49 @@ export const Import: CollectionConfig = {
               console.log(`CTB trouvés dans le document : ${totalCTBInDoc}`)
               console.log(`CTB traités par le code     : ${totalCTBFound}`)
             }
+            console.log('Séries trouvées :', serieList.join(', '))
+            if (depotLivretMatch && depotLivretMatch[1]) {
+              const depotExistant = await req.payload.find({
+                collection: 'gares',
+                where: {
+                  code: { equals: depotLivretMatch[1] },
+                },
+              })
+              if (depotExistant && depotExistant.docs && depotExistant.docs.length > 0) {
+                await req.payload.update({
+                  collection: 'gares',
+                  id: depotExistant.docs[0].id,
+                  data: {
+                    depot: true,
+                    seriesDepot: serieList.map((s) => ({ serie: s })),
+                  },
+                })
+              }
+            } else {
+              console.log(
+                `Aucun dépôt trouvé pour le code : ${
+                  depotLivretMatch && depotLivretMatch[1] ? depotLivretMatch[1] : 'inconnu'
+                }`,
+              )
+            }
+          }
 
-            // update import doc state
-            setTimeout(() => {
-              req.payload.update({
+          // update import doc state
+          setTimeout(() => {
+            req.payload
+              .update({
                 collection: 'import',
                 id: doc.id,
                 data: {
                   etat: 'imported',
-                  log: 'Import terminé'
+                  log: 'Import terminé',
                 },
                 overrideAccess: true,
-              }).catch(console.error);
-            }, 0);
-          }
+              })
+              .catch(console.error)
+          }, 0)
+
+          ////
 
           if (doc.Type === 'lieux') {
             const fileContents = await fs.readFile(filePath, 'utf-8')
