@@ -72,6 +72,7 @@ export interface Config {
     gares: Gare;
     import: Import;
     prestations: Prestation;
+    'payload-kv': PayloadKv;
     'payload-locked-documents': PayloadLockedDocument;
     'payload-preferences': PayloadPreference;
     'payload-migrations': PayloadMigration;
@@ -83,6 +84,7 @@ export interface Config {
     gares: GaresSelect<false> | GaresSelect<true>;
     import: ImportSelect<false> | ImportSelect<true>;
     prestations: PrestationsSelect<false> | PrestationsSelect<true>;
+    'payload-kv': PayloadKvSelect<false> | PayloadKvSelect<true>;
     'payload-locked-documents': PayloadLockedDocumentsSelect<false> | PayloadLockedDocumentsSelect<true>;
     'payload-preferences': PayloadPreferencesSelect<false> | PayloadPreferencesSelect<true>;
     'payload-migrations': PayloadMigrationsSelect<false> | PayloadMigrationsSelect<true>;
@@ -90,6 +92,7 @@ export interface Config {
   db: {
     defaultIDType: string;
   };
+  fallbackLocale: null;
   globals: {};
   globalsSelect: {};
   locale: null;
@@ -134,6 +137,13 @@ export interface User {
   hash?: string | null;
   loginAttempts?: number | null;
   lockUntil?: string | null;
+  sessions?:
+    | {
+        id: string;
+        createdAt?: string | null;
+        expiresAt: string;
+      }[]
+    | null;
   password?: string | null;
 }
 /**
@@ -180,9 +190,65 @@ export interface Gare {
  */
 export interface Import {
   id: string;
+  name?: string | null;
   Type: 'prestations' | 'lieux';
   etat?: ('pending' | 'imported' | 'error') | null;
   log?: string | null;
+  numberOfPrestations?: number | null;
+  numberOfPrestationsTraited?: number | null;
+  numberOfServices?: number | null;
+  numberOfServicesTraited?: number | null;
+  amplitudedepot?: number | null;
+  drivedepot?: number | null;
+  hlpdepot?: number | null;
+  resdepot?: number | null;
+  statsSeriePeriode?:
+    | {
+        serie?: string | null;
+        periode?: string | null;
+        count?: number | null;
+        countPrestations?: number | null;
+        totalDrive?: number | null;
+        totalReserve?: number | null;
+        totalHLP?: number | null;
+        totalActif?: number | null;
+        totalAmplitude?: number | null;
+        avgDrive?: number | null;
+        avgReserve?: number | null;
+        avgHLP?: number | null;
+        avgActif?: number | null;
+        avgAmplitude?: number | null;
+        avgAmplitudePrestations?: number | null;
+        pctDrive?: number | null;
+        pctReserve?: number | null;
+        pctHLP?: number | null;
+        pctActif?: number | null;
+        id?: string | null;
+      }[]
+    | null;
+  statsDepotPeriode?:
+    | {
+        periode?: string | null;
+        count?: number | null;
+        countPrestations?: number | null;
+        totalDrive?: number | null;
+        totalReserve?: number | null;
+        totalHLP?: number | null;
+        totalActif?: number | null;
+        totalAmplitude?: number | null;
+        avgDrive?: number | null;
+        avgReserve?: number | null;
+        avgHLP?: number | null;
+        avgActif?: number | null;
+        avgAmplitude?: number | null;
+        avgAmplitudePrestations?: number | null;
+        pctDrive?: number | null;
+        pctReserve?: number | null;
+        pctHLP?: number | null;
+        pctActif?: number | null;
+        id?: string | null;
+      }[]
+    | null;
   updatedAt: string;
   createdAt: string;
   url?: string | null;
@@ -225,6 +291,23 @@ export interface Prestation {
   RawData?: string | null;
   updatedAt: string;
   createdAt: string;
+}
+/**
+ * This interface was referenced by `Config`'s JSON-Schema
+ * via the `definition` "payload-kv".
+ */
+export interface PayloadKv {
+  id: string;
+  key: string;
+  data:
+    | {
+        [k: string]: unknown;
+      }
+    | unknown[]
+    | string
+    | number
+    | boolean
+    | null;
 }
 /**
  * This interface was referenced by `Config`'s JSON-Schema
@@ -309,6 +392,13 @@ export interface UsersSelect<T extends boolean = true> {
   hash?: T;
   loginAttempts?: T;
   lockUntil?: T;
+  sessions?:
+    | T
+    | {
+        id?: T;
+        createdAt?: T;
+        expiresAt?: T;
+      };
 }
 /**
  * This interface was referenced by `Config`'s JSON-Schema
@@ -351,9 +441,65 @@ export interface GaresSelect<T extends boolean = true> {
  * via the `definition` "import_select".
  */
 export interface ImportSelect<T extends boolean = true> {
+  name?: T;
   Type?: T;
   etat?: T;
   log?: T;
+  numberOfPrestations?: T;
+  numberOfPrestationsTraited?: T;
+  numberOfServices?: T;
+  numberOfServicesTraited?: T;
+  amplitudedepot?: T;
+  drivedepot?: T;
+  hlpdepot?: T;
+  resdepot?: T;
+  statsSeriePeriode?:
+    | T
+    | {
+        serie?: T;
+        periode?: T;
+        count?: T;
+        countPrestations?: T;
+        totalDrive?: T;
+        totalReserve?: T;
+        totalHLP?: T;
+        totalActif?: T;
+        totalAmplitude?: T;
+        avgDrive?: T;
+        avgReserve?: T;
+        avgHLP?: T;
+        avgActif?: T;
+        avgAmplitude?: T;
+        avgAmplitudePrestations?: T;
+        pctDrive?: T;
+        pctReserve?: T;
+        pctHLP?: T;
+        pctActif?: T;
+        id?: T;
+      };
+  statsDepotPeriode?:
+    | T
+    | {
+        periode?: T;
+        count?: T;
+        countPrestations?: T;
+        totalDrive?: T;
+        totalReserve?: T;
+        totalHLP?: T;
+        totalActif?: T;
+        totalAmplitude?: T;
+        avgDrive?: T;
+        avgReserve?: T;
+        avgHLP?: T;
+        avgActif?: T;
+        avgAmplitude?: T;
+        avgAmplitudePrestations?: T;
+        pctDrive?: T;
+        pctReserve?: T;
+        pctHLP?: T;
+        pctActif?: T;
+        id?: T;
+      };
   updatedAt?: T;
   createdAt?: T;
   url?: T;
@@ -395,6 +541,14 @@ export interface PrestationsSelect<T extends boolean = true> {
   RawData?: T;
   updatedAt?: T;
   createdAt?: T;
+}
+/**
+ * This interface was referenced by `Config`'s JSON-Schema
+ * via the `definition` "payload-kv_select".
+ */
+export interface PayloadKvSelect<T extends boolean = true> {
+  key?: T;
+  data?: T;
 }
 /**
  * This interface was referenced by `Config`'s JSON-Schema
